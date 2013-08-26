@@ -1,0 +1,82 @@
+$lightBg: #FAF6EF
+$accentBg: #D2C5AB
+
+$textColor: #655E4E
+$darkTextColor: darken($textColor, 6%)
+
+$red: #981b1e
+
+$headerFonts: MinionProBold, Garamond, serif
+$headerFontsNoBold: MinionProMedium, Garamond, serif
+$bodyFonts: MyriadPro, sans-serif
+
+@font-face
+  font-family: MinionProMedium
+  src: url('/fonts/MinionPro-MediumCapt.otf')
+
+@font-face
+  font-family: MinionProBold
+  src: url('/fonts/MinionPro-SemiboldCapt.otf')
+
+@font-face
+  font-family: MyriadPro
+  src: url('/fonts/MyriadPro-Regular.otf')
+
+html, body
+  background-color: $lightBg
+  color: $textColor
+  font:
+    family: $bodyFonts
+    size: 20px
+    feature-settings: "liga" on
+
+body
+  padding: 0 10px
+
+h1, h2, h3
+  color: $red
+  font-family: $headerFonts
+
+//h1
+  //font-size: 2.0em
+
+.container
+  padding-top: 10px
+
+.navbar-default
+  $bg: lighten($accentBg, 15%)
+  background-color: $bg
+  border-color: $accentBg
+  .navbar-brand
+    position: relative
+    top: 5px
+    color: $red
+    font:
+      family: $headerFontsNoBold
+      size: 1.5em
+  .navbar-collapse
+    background: none
+
+.jumbotron
+  background-color: $accentBg
+  color: $darkTextColor
+  padding: 20px
+  h1
+    color: $red !important
+  @media screen and (min-width: 768px)
+    h1
+      font-family: $headerFontsNoBold
+    p 
+      font-size: 30px
+  .jumbologo
+    margin: 0 auto
+    display: block
+    max-height: 250px
+    max-width: 100%
+
+.footer
+  margin:
+    top: 50px
+    bottom: 60px
+  border-top: 1px solid $textColor
+  font-size: 0.7em

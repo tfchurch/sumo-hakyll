@@ -13,3 +13,5 @@ cabal-dev
 _cache
 site
 posts
+*.xcf
+*sess

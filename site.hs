@@ -1,66 +1,47 @@
---------------------------------------------------------------------------------
 {-# LANGUAGE OverloadedStrings #-}
-import           Data.Monoid (mappend)
-import           Hakyll
-
-
 --------------------------------------------------------------------------------
+import Data.Monoid (mconcat)
+import Control.Applicative ((<$>))
+-- import Control.Monad.Trans
+import Hakyll
+--------------------------------------------------------------------------------
+normalPages :: Pattern
+normalPages = fromList
+  [ "index.md"
+  ]
+
+sassCompiler :: Compiler (Item String)
+sassCompiler = do
+  source <- getResourceString
+  withItemBody (unixFilter "sass" []) source
+
+macroContext :: String -> Context String
+macroContext source = mconcat $ map partialMacro macros
+  where macros = (read source) :: [(String, String)]
+        makePartialString filename = "$partial(\"templates/" ++ filename ++ "\")$"
+        partialMacro (name, filename) = constField name $ makePartialString filename
+
+myPandocCompiler :: Compiler (Item String)
+myPandocCompiler = do
+  macroCtx <- macroContext <$> (loadBody $ fromFilePath "partialmacros.hs")
+  res <- getResourceString
+  macroed <- applyAsTemplate macroCtx res
+  partialed <- applyAsTemplate defaultContext macroed
+  return . renderPandoc $ partialed
+
 main :: IO ()
 main = hakyll $ do
-    match "images/*" $ do
-        route   idRoute
-        compile copyFileCompiler
-
-    match "css/*" $ do
-        route   idRoute
-        compile compressCssCompiler
-
-    match (fromList ["about.rst", "contact.markdown"]) $ do
-        route   $ setExtension "html"
-        compile $ pandocCompiler
-            >>= loadAndApplyTemplate "templates/default.html" defaultContext
-            >>= relativizeUrls
-
-    match "posts/*" $ do
-        route $ setExtension "html"
-        compile $ pandocCompiler
-            >>= loadAndApplyTemplate "templates/post.html"    postCtx
-            >>= loadAndApplyTemplate "templates/default.html" postCtx
-            >>= relativizeUrls
-
-    create ["archive.html"] $ do
-        route idRoute
-        compile $ do
-            posts <- recentFirst =<< loadAll "posts/*"
-            let archiveCtx =
-                    listField "posts" postCtx (return posts) `mappend`
-                    constField "title" "Archives"            `mappend`
-                    defaultContext
-
-            makeItem ""
-                >>= loadAndApplyTemplate "templates/archive.html" archiveCtx
-                >>= loadAndApplyTemplate "templates/default.html" archiveCtx
-                >>= relativizeUrls
-
-
-    match "index.html" $ do
-        route idRoute
-        compile $ do
-            posts <- recentFirst =<< loadAll "posts/*"
-            let indexCtx =
-                    listField "posts" postCtx (return posts) `mappend`
-                    constField "title" "Home"                `mappend`
-                    defaultContext
-
-            getResourceBody
-                >>= applyAsTemplate indexCtx
-                >>= loadAndApplyTemplate "templates/default.html" indexCtx
-                >>= relativizeUrls
-
-    match "templates/*" $ compile templateCompiler
-
---------------------------------------------------------------------------------
-postCtx :: Context String
-postCtx =
-    dateField "date" "%B %e, %Y" `mappend`
-    defaultContext
+  match ("images/*" .||. "js/*" .||. "css/*.css" .||. "fonts/*") $ do
+    route   idRoute
+    compile copyFileCompiler
+  match "css/*.sass" $ do
+    route   $ setExtension "css"
+    compile sassCompiler
+  match "templates/*" $ compile templateCompiler
+  match "partialmacros.hs" $ do
+    compile getResourceBody
+  match normalPages $ do
+    route $ setExtension "html"
+    compile $ myPandocCompiler
+      >>= loadAndApplyTemplate "templates/default.html" defaultContext
+      >>= relativizeUrls
