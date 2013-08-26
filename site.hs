@@ -30,7 +30,7 @@ myPandocCompiler = do
   return . renderPandoc $ partialed
 
 main :: IO ()
-main = hakyll $ do
+main = hakyllWith conf $ do
   match ("images/*" .||. "js/*" .||. "css/*.css" .||. "fonts/*") $ do
     route   idRoute
     compile copyFileCompiler
@@ -45,3 +45,4 @@ main = hakyll $ do
     compile $ myPandocCompiler
       >>= loadAndApplyTemplate "templates/default.html" defaultContext
       >>= relativizeUrls
+  where conf = defaultConfiguration { deployCommand = "./deploy" }

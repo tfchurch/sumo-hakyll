@@ -1,17 +1,35 @@
 @font-face {
-  font-family: MinionProMedium;
-  src: url("/fonts/MinionPro-MediumCapt.otf"); }
+  font-family: MinionPro;
+  src: url("../fonts/MinionPro-MediumCapt.otf");
+  font-weight: normal;
+  font-style: normal; }
 
 @font-face {
-  font-family: MinionProBold;
-  src: url("/fonts/MinionPro-SemiboldCapt.otf"); }
+  font-family: MinionPro;
+  src: url("../fonts/MinionPro-SemiboldCapt.otf");
+  font-weight: bold;
+  font-style: normal; }
 
 @font-face {
   font-family: MyriadPro;
-  src: url("/fonts/MyriadPro-Regular.otf"); }
+  src: url("../fonts/MyriadPro-Regular.otf");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: MyriadPro;
+  src: url("../fonts/MyriadPro-Bold.otf");
+  font-weight: bold;
+  font-style: normal; }
+
+@font-face {
+  font-family: MyriadPro;
+  src: url("../fonts/MyriadPro-It.otf");
+  font-weight: normal;
+  font-style: italic; }
 
 html, body {
-  background-color: #faf6ef;
+  background-color: #efe7d9;
   color: #655e4e;
   font-family: MyriadPro, sans-serif;
   font-size: 20px;
@@ -22,32 +40,40 @@ body {
 
 h1, h2, h3 {
   color: #981b1e;
-  font-family: MinionProBold, Garamond, serif; }
+  font-family: MinionPro, Garamond, serif;
+  font-weight: bold; }
 
 .container {
   padding-top: 10px; }
 
 .navbar-default {
-  background-color: #ede7dd;
-  border-color: #d2c5ab; }
+  background-color: #ebdbbb;
+  border-color: #c9ba9a; }
   .navbar-default .navbar-brand {
     position: relative;
     top: 5px;
     color: #981b1e;
-    font-family: MinionProMedium, Garamond, serif;
+    font-family: MinionPro, Garamond, serif;
+    font-weight: normal;
     font-size: 1.5em; }
   .navbar-default .navbar-collapse {
     background: none; }
+  .navbar-default .navbar-nav li a {
+    padding-top: 18px;
+    padding-bottom: 12px; }
+  .navbar-default .navbar-nav .active a {
+    background-color: #c9ba9a;
+    color: #544e41; }
 
 .jumbotron {
-  background-color: #d2c5ab;
+  background-color: #c9ba9a;
   color: #544e41;
   padding: 20px; }
   .jumbotron h1 {
     color: #981b1e !important; }
   @media screen and (min-width: 768px) {
     .jumbotron h1 {
-      font-family: MinionProMedium, Garamond, serif; }
+      font-weight: normal; }
     .jumbotron p {
       font-size: 30px; } }
   .jumbotron .jumbologo {
@@ -59,5 +85,6 @@ h1, h2, h3 {
 .footer {
   margin-top: 50px;
   margin-bottom: 60px;
+  padding-top: 10px;
   border-top: 1px solid #655e4e;
   font-size: 0.7em; }

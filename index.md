@@ -4,7 +4,7 @@ $jumbologo$
 
 # What is SUMO?
 
-SUMO is the Stanford University Math Organization. We are the
+SUMO is the Stanford University Mathematical Organization. We are the
 **by-students-for-students math club** on campus. We host various events that
 are **open to everyone**: math majors and non-math majors, graduate and
 undergraduate.

@@ -1,26 +1,45 @@
-$lightBg: #FAF6EF
-$accentBg: #D2C5AB
+$lightBg: #EFE7D9 // L*ab 92 0 8
+$accentBg: #C9BA9A // L*ab 76 0 18
 
-$textColor: #655E4E
+$textColor: #655E4E // L*ab 40 0 10
 $darkTextColor: darken($textColor, 6%)
 
-$red: #981b1e
+$navBg: #EBDBBB // L*ab 88 0 18
 
-$headerFonts: MinionProBold, Garamond, serif
-$headerFontsNoBold: MinionProMedium, Garamond, serif
+$red: #981b1e // L*ab 33 50 32
+
+$headerFonts: MinionPro, Garamond, serif
 $bodyFonts: MyriadPro, sans-serif
 
 @font-face
-  font-family: MinionProMedium
-  src: url('/fonts/MinionPro-MediumCapt.otf')
+  font-family: MinionPro
+  src: url('../fonts/MinionPro-MediumCapt.otf')
+  font-weight: normal
+  font-style: normal
 
 @font-face
-  font-family: MinionProBold
-  src: url('/fonts/MinionPro-SemiboldCapt.otf')
+  font-family: MinionPro
+  src: url('../fonts/MinionPro-SemiboldCapt.otf')
+  font-weight: bold
+  font-style: normal
 
 @font-face
   font-family: MyriadPro
-  src: url('/fonts/MyriadPro-Regular.otf')
+  src: url('../fonts/MyriadPro-Regular.otf')
+  font-weight: normal
+  font-style: normal
+
+@font-face
+  font-family: MyriadPro
+  src: url('../fonts/MyriadPro-Bold.otf')
+  font-weight: bold
+  font-style: normal
+
+@font-face
+  font-family: MyriadPro
+  src: url('../fonts/MyriadPro-It.otf')
+  font-weight: normal
+  font-style: italic
 
 html, body
   background-color: $lightBg
@@ -35,24 +54,36 @@ body
 
 h1, h2, h3
   color: $red
-  font-family: $headerFonts
+  font:
+    family: $headerFonts
+    weight: bold
 
 .container
   padding-top: 10px
 
 .navbar-default
-  $bg: lighten($accentBg, 15%)
-  background-color: $bg
+  background-color: $navBg
   border-color: $accentBg
   .navbar-brand
     position: relative
     top: 5px
     color: $red
     font:
-      family: $headerFontsNoBold
+      family: $headerFonts
+      weight: normal
       size: 1.5em
   .navbar-collapse
     background: none
+  .navbar-nav
+    li
+      a
+        padding:
+          top: 18px
+          bottom: 12px
+    .active
+      a
+        background-color: $accentBg
+        color: $darkTextColor
 
 .jumbotron
   background-color: $accentBg
@@ -62,8 +93,8 @@ h1, h2, h3
     color: $red !important
   @media screen and (min-width: 768px)
     h1
-      font-family: $headerFontsNoBold
-    p 
+      font-weight: normal
+    p
       font-size: 30px
   .jumbologo
     margin: 0 auto
@@ -75,5 +106,6 @@ h1, h2, h3
   margin:
     top: 50px
     bottom: 60px
+  padding-top: 10px
   border-top: 1px solid $textColor
   font-size: 0.7em
