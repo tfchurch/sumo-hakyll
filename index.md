@@ -2,7 +2,7 @@ $jumbostart$
 
 $jumbologo$
 
-# What is SUMO? fl fi
+# What is SUMO?
 
 SUMO is the Stanford University Math Organization. We are the
 **by-students-for-students math club** on campus. We host various events that
