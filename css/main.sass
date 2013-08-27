@@ -4,6 +4,8 @@ $accentBg: #C9BA9A // L*ab 76 0 18
 $textColor: #655E4E // L*ab 40 0 10
 $darkTextColor: darken($textColor, 6%)
 
+$darkHover: #211B0C // L*ab 10 0 10
+//$medBg: mix($darkHover, $accentBg)
 $navBg: #EBDBBB // L*ab 88 0 18
 
 $red: #981b1e // L*ab 33 50 32
@@ -46,7 +48,7 @@ html, body
   color: $textColor
   font:
     family: $bodyFonts
-    size: 20px
+    size: 18px
     feature-settings: "liga" on
 
 body
@@ -58,37 +60,60 @@ h1, h2, h3
     family: $headerFonts
     weight: bold
 
+dd
+  padding-left: 20px
+  p:before
+    content: '↣ '
+
 .container
   padding-top: 10px
 
 .navbar-default
   background-color: $navBg
   border-color: $accentBg
+  margin-bottom: 40px
   .navbar-brand
     position: relative
-    top: 5px
+    top: 3px
     color: $red
     font:
       family: $headerFonts
       weight: normal
       size: 1.5em
+  .navbar-brand:hover
+    color: $darkHover
+  .navbar-toggle
+    border: none
+    .icon-bar
+      background-color: $textColor
+  .navbar-toggle:hover
+    border: none
+    border-color: $accentBg
+    .icon-bar
+      background-color: $darkHover
   .navbar-collapse
     background: none
+    border-color: $accentBg
   .navbar-nav
     li
       a
+        $shiftDown: 2px
         padding:
-          top: 18px
-          bottom: 12px
+          top: 15px + $shiftDown
+          bottom: 15px - $shiftDown
     .active
       a
         background-color: $accentBg
         color: $darkTextColor
+      a:hover
+        background-color: $accentBg
+        color: $darkHover
 
 .jumbotron
   background-color: $accentBg
   color: $darkTextColor
   padding: 20px
+  margin-top: -20px
   h1
     color: $red !important
   @media screen and (min-width: 768px)
@@ -101,6 +126,16 @@ h1, h2, h3
     display: block
     max-height: 250px
     max-width: 100%
+
+.table
+  tbody
+    tr
+      td
+        border-color: $accentBg
+        padding-bottom: 4px
+    tr:first-child
+      td
+        border: none
 
 .footer
   margin:

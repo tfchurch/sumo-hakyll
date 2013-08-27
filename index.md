@@ -27,7 +27,7 @@ the standard curriculum. You can get 1 unit of credit for your attendance by
 signing up for MATH&nbsp;196; of course, you're also welcome to just show up.
 Food is provided afterwards.
 
-[More information »]()
+[More information »](/speakers.html)
 
 $end$
 
@@ -40,8 +40,6 @@ $halfbox$
 This is a weekly informal talk or discussion led by an undergraduate or graduate
 student about any math-related topic of their choosing. You are welcome not only
 to attend, but also to sign up to give a talk yourself!
-
-[More information »]()
 
 $end$
 
@@ -59,7 +57,7 @@ even across the world. For many high-school students, this is an important
 opportunity to solve some very fun problems and meet other math enthusiasts. We
 encourage you to help out; you can get involved as early as fall quarter!
 
-[More information »]()
+[More information »](/smt.html)
 
 $end$
 
@@ -88,8 +86,6 @@ socialize over interesting mathematical ideas and free food in a laid-back
 atmosphere. Problems and puzzles will be provided but you are welcome to bring
 in your own mental challenges!
 
-[More information »]()
-
 $end$
 
 $halfbox$
@@ -100,8 +96,6 @@ $halfbox$
 
 We run twice-weekly tutoring sessions for students in the MATH 51/52/53 course
 series.
-
-[More information »]()
 
 $end$
 
@@ -139,5 +133,7 @@ $end$
 We've also created a page about various mathematical opportunities, including a
 lot of summer programs.
 
-Feel free to contact one of us to see what we're up to or to suggest new
-activites!
+If you would like to receive SUMO announcements for notifications about SUMO
+events, [subcribe to our mailing
+list](https://mailman.stanford.edu/mailman/listinfo/sumo-announce). Feel free
+to [contact one of us](/contact.html) to see what we're up to or to suggest new activites!

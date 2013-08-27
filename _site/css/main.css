@@ -1,3 +1,4 @@
+@charset "UTF-8";
 @font-face {
   font-family: MinionPro;
   src: url("../fonts/MinionPro-MediumCapt.otf");
@@ -32,7 +33,7 @@ html, body {
   background-color: #efe7d9;
   color: #655e4e;
   font-family: MyriadPro, sans-serif;
-  font-size: 20px;
+  font-size: 18px;
   font-feature-settings: "liga" on; }
 
 body {
@@ -43,32 +44,54 @@ h1, h2, h3 {
   font-family: MinionPro, Garamond, serif;
   font-weight: bold; }
 
+dd {
+  padding-left: 20px; }
+  dd p:before {
+    content: "↣ "; }
+
 .container {
   padding-top: 10px; }
 
 .navbar-default {
   background-color: #ebdbbb;
-  border-color: #c9ba9a; }
+  border-color: #c9ba9a;
+  margin-bottom: 40px; }
   .navbar-default .navbar-brand {
     position: relative;
-    top: 5px;
+    top: 3px;
     color: #981b1e;
     font-family: MinionPro, Garamond, serif;
     font-weight: normal;
     font-size: 1.5em; }
+  .navbar-default .navbar-brand:hover {
+    color: #211b0c; }
+  .navbar-default .navbar-toggle {
+    border: none; }
+    .navbar-default .navbar-toggle .icon-bar {
+      background-color: #655e4e; }
+  .navbar-default .navbar-toggle:hover {
+    border: none;
+    border-color: #c9ba9a; }
+    .navbar-default .navbar-toggle:hover .icon-bar {
+      background-color: #211b0c; }
   .navbar-default .navbar-collapse {
-    background: none; }
+    background: none;
+    border-color: #c9ba9a; }
   .navbar-default .navbar-nav li a {
-    padding-top: 18px;
-    padding-bottom: 12px; }
+    padding-top: 17px;
+    padding-bottom: 13px; }
   .navbar-default .navbar-nav .active a {
     background-color: #c9ba9a;
     color: #544e41; }
+  .navbar-default .navbar-nav .active a:hover {
+    background-color: #c9ba9a;
+    color: #211b0c; }
 
 .jumbotron {
   background-color: #c9ba9a;
   color: #544e41;
-  padding: 20px; }
+  padding: 20px;
+  margin-top: -20px; }
   .jumbotron h1 {
     color: #981b1e !important; }
   @media screen and (min-width: 768px) {
@@ -81,6 +104,12 @@ h1, h2, h3 {
     display: block;
     max-height: 250px;
     max-width: 100%; }
+
+.table tbody tr td {
+  border-color: #c9ba9a;
+  padding-bottom: 4px; }
+.table tbody tr:first-child td {
+  border: none; }
 
 .footer {
   margin-top: 50px;
