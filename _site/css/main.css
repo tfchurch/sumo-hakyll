@@ -71,7 +71,8 @@ dd {
       background-color: #655e4e; }
   .navbar-default .navbar-toggle:hover {
     border: none;
-    border-color: #c9ba9a; }
+    border-color: #c9ba9a;
+    background-color: #c9ba9a; }
     .navbar-default .navbar-toggle:hover .icon-bar {
       background-color: #211b0c; }
   .navbar-default .navbar-collapse {
