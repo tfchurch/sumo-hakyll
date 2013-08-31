@@ -79,14 +79,45 @@ dd {
     background: none;
     border-color: #c9ba9a; }
   .navbar-default .navbar-nav li a {
+    color: #655e4e;
     padding-top: 17px;
     padding-bottom: 13px; }
+  .navbar-default .navbar-nav li a:hover {
+    color: #211b0c; }
   .navbar-default .navbar-nav .active a {
     background-color: #c9ba9a;
     color: #544e41; }
   .navbar-default .navbar-nav .active a:hover {
     background-color: #c9ba9a;
     color: #211b0c; }
+  .navbar-default .navbar-nav .open a.dropdown-toggle {
+    background-color: #ebdbbb;
+    color: #211b0c; }
+  @media (max-width: 767px) {
+    .navbar-default .navbar-nav .open a.dropdown-toggle {
+      padding-bottom: 0; } }
+  .navbar-default .navbar-nav .open .dropdown-menu {
+    font-size: 18px;
+    background-color: #ebdbbb;
+    color: #655e4e;
+    border-color: #978c74; }
+    .navbar-default .navbar-nav .open .dropdown-menu .active a {
+      background-color: #c9ba9a;
+      color: #544e41; }
+    .navbar-default .navbar-nav .open .dropdown-menu .active a:hover {
+      background-color: #c9ba9a;
+      color: #211b0c; }
+    .navbar-default .navbar-nav .open .dropdown-menu li a:hover {
+      background-color: #c9ba9a;
+      color: #211b0c; }
+    .navbar-default .navbar-nav .open .dropdown-menu li a {
+      padding: 12px 16px 6px;
+      color: #655e4e; }
+    @media (max-width: 767px) {
+      .navbar-default .navbar-nav .open .dropdown-menu li a:hover {
+        background-color: #ebdbbb; }
+      .navbar-default .navbar-nav .open .dropdown-menu li a {
+        padding: 12px 16px 6px 24px; } }
 
 .jumbotron {
   background-color: #c9ba9a;
