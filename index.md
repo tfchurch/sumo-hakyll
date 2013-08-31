@@ -17,17 +17,44 @@ $row$
 
 $halfbox$
 
+## Stanford Math Tournament
+
+*TODO*
+
+This is a competition we write and run every winter for hundreds of local
+high-school students as well as a number of teams from across the country and
+even across the world.
+
+[More information »](/smt.html)
+
+$end$
+
+$halfbox$
+
 ## Colloquium / Speaker Series
 
 *4:15 to 5:05 PM each Thursday in 380-380C*
 
 This is a weekly talk given by a professor, grad student, or visitor about
 undergraduate-accessible topics in pure and applied mathematics that go beyond
-the standard curriculum. You can get 1 unit of credit for your attendance by
-signing up for MATH&nbsp;196; of course, you're also welcome to just show up.
-Food is provided afterwards.
+the standard curriculum.
 
 [More information »](/speakers.html)
+
+$end$
+
+$end$
+
+$row$
+
+$halfbox$
+
+## Tutoring
+
+*6:00 to 10:00 PM each Monday and Wednesday in 380-381T*
+
+We run twice-weekly tutoring sessions for students in the MATH 51/52/53 course
+series.
 
 $end$
 
@@ -49,25 +76,23 @@ $row$
 
 $halfbox$
 
-## Stanford Math Tournament
+## American Regions Math League
 
-This is a competition we write and run every February for hundreds of local
-high-school students as well as a number of teams from across the country and
-even across the world. For many high-school students, this is an important
-opportunity to solve some very fun problems and meet other math enthusiasts. We
-encourage you to help out; you can get involved as early as fall quarter!
+*TODO*
 
-[More information »](/smt.html)
+Each year, the Bay Area sends several extremely strong teams to ARML, a
+prestigious, national math contest for high schoolers. SUMO members coach these
+teams and accompany them to the competition each spring.
 
 $end$
 
 $halfbox$
 
-## American Regions Math League
+## Homework Night
 
-Each year, the Bay Area sends several extremely strong teams to ARML, a
-prestigious, national math contest for high schoolers. SUMO members coach these
-teams and accompany them to the competition each spring.
+*TODO*
+
+TODO
 
 $end$
 
@@ -83,33 +108,13 @@ $halfbox$
 
 This is a fun weekly social event where students interested in math can
 socialize over interesting mathematical ideas and free food in a laid-back
-atmosphere. Problems and puzzles will be provided but you are welcome to bring
-in your own mental challenges!
+atmosphere.
 
 $end$
 
 $halfbox$
 
-## Tutoring
-
-*6:00 to 10:00 PM each Monday and Wednesday in 380-381T*
-
-We run twice-weekly tutoring sessions for students in the MATH 51/52/53 course
-series.
-
-$end$
-
-$end$
-
-## Other Events
-
-We're planning on running a few special events throughout the year:
-
-$row$
-
-$halfbox$
-
-### Puzzle Hunt
+## Puzzle Hunt
 
 *10:00 AM to 6:00 PM on Saturday, April 20th*
 
@@ -117,18 +122,11 @@ Last year we hosted a puzzle hunt in the style of the MIT Mystery Hunt.
 
 $end$
 
-$halfbox$
-
-### Movie Night
-
-We will be hosting a Movie Night a few times each quarter. Dinner will be
-provided.
-
-$end$
-
 $end$
 
 # Other information
+
+TODO: structurify this
 
 We've also created a page about various mathematical opportunities, including a
 lot of summer programs.
