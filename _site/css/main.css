@@ -44,6 +44,10 @@ h1, h2, h3 {
   font-family: MinionPro, Garamond, serif;
   font-weight: bold; }
 
+h2 {
+  margin-top: 10px;
+  padding-top: 10px; }
+
 dd {
   padding-left: 20px; }
   dd p:before {
