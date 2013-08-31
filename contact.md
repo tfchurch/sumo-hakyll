@@ -1,4 +1,4 @@
-# Contact Us!
+# Contact Us
 
 We love to hear your comments and suggestions for SUMO! If there is someone you
 would like to hear speak, or some event that SUMO might want to think about

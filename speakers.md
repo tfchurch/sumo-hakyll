@@ -13,6 +13,6 @@ provided afterwards. You can get 1 unit of credit for your attendance by
 signing up for MATH 196; of course, you're also welcome to just show up.
 
 If you have any suggestions or would like to suggest a speaker, please email
-TODO
+Raymond Wu at wur911@stanford.edu.
 
 ## 2013&ndash;2014 Schedule coming soon!
