@@ -47,7 +47,7 @@ h1, h2, h3 {
 dd {
   padding-left: 20px; }
   dd p:before {
-    content: "↣ "; }
+    content: "» "; }
 
 .container {
   padding-top: 10px; }
