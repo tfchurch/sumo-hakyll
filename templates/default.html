@@ -21,9 +21,15 @@
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
             <li $if(index)$ class="active" $endif$ ><a href="/">Home</a></li>
-            <li $if(smt)$ class="active" $endif$ ><a href="/smt.html">Stanford Math Tournament</a></li>
-            <li $if(speakers)$ class="active" $endif$ ><a href="/speakers.html">Colloquium</a></li>
-            <li $if(tutoring)$ class="active" $endif$ ><a href="/tutoring.html">Tutoring</a></li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Events <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li $if(smt)$ class="active" $endif$ ><a href="/smt.html">Stanford Math Tournament</a></li>
+                <li $if(speakers)$ class="active" $endif$ ><a href="/speakers.html">Colloquium</a></li>
+                <li $if(tutoring)$ class="active" $endif$ ><a href="/tutoring.html">Tutoring</a></li>
+                <li $if(otherevents)$ class="active" $endif$ ><a href="/otherevents.html">Other Events</a></li>
+              </ul>
+            </li>
             <li $if(contact)$ class="active" $endif$ ><a href="/contact.html">Contact</a></li>
           </ul>
         </div><!--/.nav-collapse -->
