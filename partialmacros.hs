@@ -3,4 +3,5 @@
 , ("jumbologo", "jumbologo.html")
 , ("row", "row.html")
 , ("halfbox", "halfbox.html")
+, ("sidenav", "sidenav.html")
 ]

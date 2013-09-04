@@ -2,14 +2,16 @@
 --------------------------------------------------------------------------------
 import Data.Monoid (mconcat)
 import Control.Applicative ((<$>))
--- import Control.Monad.Trans
 import Hakyll
 import Text.Regex
 --------------------------------------------------------------------------------
 sassCompiler :: Compiler (Item String)
-sassCompiler = do
-  source <- getResourceString
-  withItemBody (unixFilter "sass" []) source
+sassCompiler = getResourceString >>=
+  withItemBody (unixFilter "sass" [])
+
+coffeeCompiler :: Compiler (Item String)
+coffeeCompiler = getResourceString >>=
+  withItemBody (unixFilter "coffee" ["-s", "-c"])
 
 macroContext :: String -> Context String
 macroContext source = mconcat $ map partialMacro macros
@@ -37,17 +39,20 @@ prettifyTables source = subRegex (mkRegex "<table>") source "<table class=\"tabl
 
 main :: IO ()
 main = hakyllWith conf $ do
-  match ("images/*" .||. "js/*" .||. "css/*.css" .||. "fonts/*") $ do
+  match ("images/*" .||. "js/*.js" .||. "css/*.css" .||. "fonts/*") $ do
     route   idRoute
     compile copyFileCompiler
+  match "js/*.coffee" $ do
+    route   $ setExtension "js"
+    compile coffeeCompiler
   match "css/*.sass" $ do
     route   $ setExtension "css"
     compile sassCompiler
   match "templates/*" $ compile templateCompiler
   match "partialmacros.hs" $ do
     compile getResourceBody
-  match "*.md" $ do
-    route $ setExtension "html"
+  match "pages/*.md" $ do
+    route $ (gsubRoute "pages/" $ const "") `composeRoutes` setExtension "html"
     compile $ myPandocCompiler
       >>= loadAndApplyTemplate "templates/default.html" defaultContext
       >>= relativizeUrls

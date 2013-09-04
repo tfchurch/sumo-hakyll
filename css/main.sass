@@ -59,9 +59,6 @@ h1, h2, h3
   font:
     family: $headerFonts
     weight: bold
-
-h2
-  margin-top: 10px
   padding-top: 10px
 
 dd
@@ -75,7 +72,8 @@ dd
 .navbar-default
   background-color: $navBg
   border-color: $accentBg
-  margin-bottom: 40px
+  margin-bottom: 20px
+  min-height: 48px
   .navbar-brand
     position: relative
     top: 3px
@@ -84,6 +82,7 @@ dd
       family: $headerFonts
       weight: normal
       size: 1.5em
+    padding-bottom: 0
   .navbar-brand:hover
     color: $darkHover
   .navbar-toggle
@@ -100,13 +99,14 @@ dd
     background: none
     border-color: $accentBg
   .navbar-nav
+    font-size: 1.1em
     li
       a
         color: $textColor
         $shiftDown: 2px
         padding:
           top: 15px + $shiftDown
-          bottom: 15px - $shiftDown
+          bottom: 13px - $shiftDown
       a:hover
         color: $darkHover
     .active
@@ -129,6 +129,7 @@ dd
         background-color: $navBg
         color: $textColor
         border-color: $medBg
+        border-top-color: $accentBg
         .active
           a
             background-color: $accentBg
@@ -149,11 +150,40 @@ dd
             a
               padding: 12px 16px 6px 24px
 
+.affix
+  top: 20px
+  width: 262px
+@media (max-width:1199px)
+  .affix
+    width: 212px
+@media (max-width:991px)
+  .affix
+    position: static
+    width: inherit
+    margin-bottom: 30px
+  .affix-top
+    margin-bottom: 30px
+
+#sideNav
+  border: 1px solid $accentBg
+  border-radius: 4px
+  background-color: $navBg
+  padding: 10px
+  .nav
+    li
+      a
+        padding-bottom: 4px
+        color: $textColor
+      a:hover
+        background-color: $navBg
+        color: $darkHover
+    li.active
+      font-weight: bold
+
 .jumbotron
   background-color: $accentBg
   color: $darkTextColor
   padding: 20px
-  margin-top: -20px
   h1
     color: $red !important
   @media screen and (min-width: 768px)
@@ -166,6 +196,11 @@ dd
     display: block
     max-height: 250px
     max-width: 100%
+
+.navedContent
+  h1:first-child, h2:first-child, h3:first-child
+    margin-top: 0
+    padding-top: 10px
 
 .table
   tbody
