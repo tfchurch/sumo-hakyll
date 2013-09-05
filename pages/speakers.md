@@ -1,4 +1,4 @@
-# Colloquium / Speaker Series
+# Colloquium / Speaker Series {.title}
 
 The Stanford University Mathematical Organization hosts a weekly talk given by
 a professor, grad student, or visitor about undergraduate-accessible topics in

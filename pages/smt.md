@@ -1,3 +1,3 @@
-# Stanford Math Tournament
+# Stanford Math Tournament {.title}
 
 ## Under construction

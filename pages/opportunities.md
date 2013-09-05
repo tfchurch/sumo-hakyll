@@ -1,3 +1,3 @@
-# Opportunities
+# Opportunities {.title}
 
 ## Under construction

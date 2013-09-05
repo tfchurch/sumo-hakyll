@@ -1,12 +1,12 @@
 $lightBg: #EFE7D9 // L*ab 92 0 8
-$accentBg: #C9BA9A // L*ab 76 0 18
+$accentBg: #BDAF90 // L*ab 76 0 18
 
-$textColor: #655E4E // L*ab 40 0 10
-$darkTextColor: darken($textColor, 6%)
+$text: #655E4E // L*ab 40 0 10
+$darkText: darken($text, 6%)
 
 $darkHover: #211B0C // L*ab 10 0 10
-$medBg: mix($textColor, $accentBg)
-$navBg: #EBDBBB // L*ab 88 0 18
+$medBg: mix($text, $accentBg)
+$navBg: #E3D0A4 // L*ab 84 0 24
 
 $red: #981b1e // L*ab 33 50 32
 
@@ -45,7 +45,7 @@ $bodyFonts: MyriadPro, sans-serif
 
 html, body
   background-color: $lightBg
-  color: $textColor
+  color: $text
   font:
     family: $bodyFonts
     size: 18px
@@ -64,14 +64,14 @@ h1, h2, h3
 dd
   padding-left: 20px
   p:before
-    content: '» ' 
+    content: '» '
 
 .container
   padding-top: 10px
 
 .navbar-default
   background-color: $navBg
-  border-color: $accentBg
+  border: none
   margin-bottom: 20px
   min-height: 48px
   .navbar-brand
@@ -88,7 +88,7 @@ dd
   .navbar-toggle
     border: none
     .icon-bar
-      background-color: $textColor
+      background-color: $text
   .navbar-toggle:hover
     border: none
     border-color: $accentBg
@@ -102,17 +102,17 @@ dd
     font-size: 1.1em
     li
       a
-        color: $textColor
+        color: $text
         $shiftDown: 2px
         padding:
           top: 15px + $shiftDown
-          bottom: 13px - $shiftDown
+          bottom: 15px - $shiftDown
       a:hover
         color: $darkHover
     .active
       a
         background-color: $accentBg
-        color: $darkTextColor
+        color: $darkText
       a:hover
         background-color: $accentBg
         color: $darkHover
@@ -125,27 +125,28 @@ dd
         a.dropdown-toggle
           padding-bottom: 0
       .dropdown-menu
+        top: -1
         font-size: 18px
         background-color: $navBg
-        color: $textColor
-        border-color: $medBg
-        border-top-color: $accentBg
+        color: $text
+        border: none
+        box-shadow: none
         .active
           a
             background-color: $accentBg
-            color: $darkTextColor
+            color: $darkText
           a:hover
             background-color: $accentBg
             color: $darkHover
         li
-          a:hover 
+          a:hover
             background-color: $accentBg
             color: $darkHover
           a
             padding: 12px 16px 6px
-            color: $textColor
+            color: $text
           @media (max-width:767px)
-            a:hover 
+            a:hover
               background-color: $navBg
             a
               padding: 12px 16px 6px 24px
@@ -165,24 +166,31 @@ dd
     margin-bottom: 30px
 
 #sideNav
-  border: 1px solid $accentBg
   border-radius: 4px
-  background-color: $navBg
-  padding: 10px
+  background-color: $accentBg
+  padding: 10px 0
   .nav
     li
       a
-        padding-bottom: 4px
-        color: $textColor
+        padding:
+          top: 6px
+          bottom: 2px
+        color: $darkText
+        border-right: 4px solid $accentBg
       a:hover
-        background-color: $navBg
+        background: none
         color: $darkHover
     li.active
       font-weight: bold
+      a
+        border-right: 4px solid $darkText
+      a:hover
+        border-right: 4px solid $darkHover
+
 
 .jumbotron
   background-color: $accentBg
-  color: $darkTextColor
+  color: $darkText
   padding: 20px
   h1
     color: $red !important
@@ -202,6 +210,10 @@ dd
     margin-top: 0
     padding-top: 10px
 
+@media (min-width: 768px)
+  h1.title
+    font-size: 42px
+
 .table
   tbody
     tr
@@ -211,11 +223,14 @@ dd
     tr:first-child
       td
         border: none
+@media (max-width: 400px)
+  .table
+    font-size: 15px
 
 .footer
   margin:
     top: 50px
     bottom: 60px
   padding-top: 10px
-  border-top: 1px solid $textColor
+  border-top: 1px solid $text
   font-size: 0.7em

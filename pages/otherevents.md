@@ -1,6 +1,6 @@
 $sidenav$
 
-# Other Events
+# Other Events {.title}
 
 "Anything to oblige ye, my sweet and pleasant fellow," rejoined Stubb, and with
 that he soon mounted to the deck. There a queer scene presented itself. The

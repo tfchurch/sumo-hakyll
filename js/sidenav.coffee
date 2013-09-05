@@ -6,6 +6,8 @@ makeSideNav = ->
     $elem = $(elem)
     href = "##{$elem.attr 'id'}"
     li = $('<li>')
+    if $elem.hasClass 'title'
+      li.hide()
     li.append $('<a>').attr('href', href).text $elem.text()
     sideNavContent += li[0].outerHTML
   sideNav = $('<div id="sideNav">')
@@ -19,8 +21,9 @@ $ ->
   if $('#makesidenav').length
     $('#makesidenav').remove()
     makeSideNav()
+    $sideNav = $('#sideNav')
     $('#sideNav').affix
       offset:
-        top: 60
+        top: 56
     $('[data-spy="scroll"]').each ->
       $spy = $(@).scrollspy 'refresh'
