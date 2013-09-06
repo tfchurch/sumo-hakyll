@@ -162,7 +162,7 @@ dd {
 
 .jumbotron {
   background-color: #c3b595;
-  background-image: url("/images/calculus-solutions-crop-atsize.png");
+  background-image: url("../images/calculus-solutions-crop-atsize.png");
   color: #544e41;
   padding: 20px; }
   .jumbotron h1 {
