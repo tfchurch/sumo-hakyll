@@ -1,12 +1,12 @@
 $lightBg: #EFE7D9 // L*ab 92 0 8
-$accentBg: #BDAF90 // L*ab 76 0 18
+$accentBg: #C3B595 // L*ab 74 0 18
 
 $text: #655E4E // L*ab 40 0 10
 $darkText: darken($text, 6%)
 
 $darkHover: #211B0C // L*ab 10 0 10
-$medBg: mix($text, $accentBg)
 $navBg: #E3D0A4 // L*ab 84 0 24
+$medBg: mix($accentBg, $navBg)
 
 $red: #981b1e // L*ab 33 50 32
 
@@ -136,11 +136,11 @@ dd
             background-color: $accentBg
             color: $darkText
           a:hover
-            background-color: $accentBg
+            background-color: $medBg
             color: $darkHover
         li
           a:hover
-            background-color: $accentBg
+            background-color: $medBg
             color: $darkHover
           a
             padding: 12px 16px 6px
@@ -190,6 +190,7 @@ dd
 
 .jumbotron
   background-color: $accentBg
+  background-image: url("/images/calculus-solutions-crop-atsize.png")
   color: $darkText
   padding: 20px
   h1
