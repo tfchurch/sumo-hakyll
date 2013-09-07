@@ -108,84 +108,9 @@ Perth?" wincing for a moment with the pain; "have I been but forging my own
 branding-iron, then?" "Pray God, not that; yet I fear something, Captain
 Ahab. Is not this harpoon for the White Whale?" "For the white fiend! But
 now for the barbs; thou must make them thyself, man. Here are my
-razors&mdash;the best of steel; here, and make the barbs sharp as the
-needle-sleet of the Icy Sea." For a moment, the old blacksmith eyed the
-razors as though he would fain not use them. "Take them, man, I have no
-need for them; for I now neither shave, sup, nor pray till&mdash;but
-here&mdash;to work!" Fashioned at last into an arrowy shape, and welded by
-Perth to the shank, the steel soon pointed the end of the iron; and as the
-blacksmith was about giving the barbs their final heat, prior to tempering
-them, he cried to Ahab to place the water-cask near. "No, no&mdash;no water
-for that; I want it of the true death-temper. Ahoy, there! Tashtego,
-Queequeg, Daggoo! What say ye, pagans! Will ye give me as much blood as
-will cover this barb?" holding it high up. A cluster of dark nods replied,
-Yes. Three punctures were made in the heathen flesh, and the White Whale's
-barbs were then tempered. "Ego non baptizo te in nomine patris, sed in
-nomine diaboli!" deliriously howled Ahab, as the malignant iron scorchingly
-devoured the baptismal blood. Now, mustering the spare poles from below,
-and selecting one of hickory, with the bark still investing it, Ahab fitted
-the end to the socket of the
 
 # Puzzle Hunt
 
 "And thou mayest as well sign the papers right off," he added&mdash;"come along
 with ye." And so saying, he led the way below deck into the cabin. Seated on
 the transom was what seemed to me a most uncommon and surprising figure. It
-turned out to be Captain Bildad, who along with Captain Peleg was one of the
-largest owners of the vessel; the other shares, as is sometimes the case in
-these ports, being held by a crowd of old annuitants; widows, fatherless
-children, and chancery wards; each owning about the value of a timber head, or
-a foot of plank, or a nail or two in the ship. People in Nantucket invest their
-money in whaling vessels, the same way that you do yours in approved state
-stocks bringing in good interest. Now, Bildad, like Peleg, and indeed many
-other Nantucketers, was a Quaker, the island having been originally settled by
-that sect; and to this day its inhabitants in general retain in an uncommon
-measure the peculiarities of the Quaker, only variously and anomalously
-modified by things altogether alien and heterogeneous. For some of these same
-Quakers are the most sanguinary of all sailors and whale-hunters. They are
-fighting Quakers; they are Quakers with a vengeance. So that there are
-instances among them of men, who, named with Scripture names&mdash;a singularly
-common fashion on the island&mdash;and in childhood naturally imbibing the
-stately dramatic thee and thou of the Quaker idiom; still, from the audacious,
-daring, and boundless adventure of their subsequent lives, strangely
-blend with these unoutgrown peculiarities, a thousand bold dashes of
-character, not unworthy a Scandinavian sea-king, or a poetical Pagan
-Roman. And when these things unite in a man of greatly superior natural
-force, with a globular brain and a ponderous heart; who has also by the
-stillness and seclusion of many long night-watches in the remotest
-waters, and beneath constellations never seen here at the north, been
-led to think untraditionally and independently; receiving all nature's
-sweet or savage impressions fresh from her own virgin voluntary and
-confiding breast, and thereby chiefly, but with some help from
-accidental advantages, to learn a bold and nervous lofty
-language&mdash;that man makes one in a whole nation's census&mdash;a
-mighty pageant creature, formed for noble tragedies. Nor will it at all
-detract from him, dramatically regarded, if either by birth or other
-circumstances, he have what seems a half wilful overruling morbidness
-at the bottom of his nature. For all men tragically great are made so
-through a certain morbidness. Be sure of this, O young ambition, all
-mortal greatness is but disease. But, as yet we have not to do with
-such an one, but with quite another; and still a man, who, if indeed
-peculiar, it only results again from another phase of the Quaker,
-modified by individual circumstances. Like Captain Peleg, Captain
-Bildad was a well-to-do, retired whaleman. But unlike Captain
-Peleg&mdash;who cared not a rush for what are called serious things,
-and indeed deemed those self-same serious things the veriest of all
-trifles&mdash;Captain Bildad had not only been originally educated
-according to the strictest sect of Nantucket Quakerism, but all his
-subsequent ocean life, and the sight of many unclad, lovely island
-creatures, round the Horn&mdash;all that had not moved this native born
-Quaker one single jot, had not so much as altered one angle of his
-vest. Still, for all this immutableness, was there some lack of common
-consistency about worthy Captain Peleg. Though refusing, from
-conscientious scruples, to bear arms against land invaders, yet himself
-had illimitably invaded the Atlantic and Pacific; and though a sworn
-foe to human bloodshed, yet had he in his straight-bodied coat, spilled
-tuns upon tuns of leviathan gore. How now in the contemplative evening
-of his days, the pious Bildad reconciled these things in the
-reminiscence, I do not know; but it did not seem to concern him much,
-and very probably he had long since come to the sage and sensible
-conclusion that a man's religion is one thing, and this practical world
-quite another. This world pays dividends. Rising from a little
-cabin-boy in short clothes of the drabbest drab, to a harpooneer in a
-broad shad-bellied

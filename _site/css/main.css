@@ -91,7 +91,7 @@ dd {
       color: #211b0c; }
     .navbar-default .navbar-nav .active a {
       background-color: #c3b595;
-      color: #544e41; }
+      color: #3d392f; }
     .navbar-default .navbar-nav .active a:hover {
       background-color: #c3b595;
       color: #211b0c; }
@@ -110,7 +110,7 @@ dd {
       box-shadow: none; }
       .navbar-default .navbar-nav .open .dropdown-menu .active a {
         background-color: #c3b595;
-        color: #544e41; }
+        color: #3d392f; }
       .navbar-default .navbar-nav .open .dropdown-menu .active a:hover {
         background-color: #d3c29c;
         color: #211b0c; }
@@ -148,7 +148,7 @@ dd {
   #sideNav .nav li a {
     padding-top: 6px;
     padding-bottom: 2px;
-    color: #544e41;
+    color: #3d392f;
     border-right: 4px solid #c3b595; }
   #sideNav .nav li a:hover {
     background: none;
@@ -156,17 +156,19 @@ dd {
   #sideNav .nav li.active {
     font-weight: bold; }
     #sideNav .nav li.active a {
-      border-right: 4px solid #544e41; }
+      border-right: 4px solid #3d392f; }
     #sideNav .nav li.active a:hover {
       border-right: 4px solid #211b0c; }
 
 .jumbotron {
   background-color: #c3b595;
   background-image: url("../images/calculus-solutions-crop-atsize.png");
-  color: #544e41;
+  color: #3d392f;
   padding: 20px; }
   .jumbotron h1 {
     color: #981b1e !important; }
+  .jumbotron p {
+    color: #3d392f; }
   @media screen and (min-width: 768px) {
     .jumbotron h1 {
       font-weight: normal; }
