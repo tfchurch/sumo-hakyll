@@ -54,12 +54,21 @@ html, body
 body
   padding: 0 10px
 
-h1, h2, h3
+h1, h2, h3, h4
   color: $red
   font:
     family: $headerFonts
     weight: bold
   padding-top: 10px
+@media (min-width: 768px)
+  h1.title
+    font-size: 44px
+h1
+  font-size: 38px
+h2
+  font-size: 33px
+h3
+  margin-top: 0
 
 dd
   padding-left: 20px
@@ -213,9 +222,8 @@ dd
     margin-top: 0
     padding-top: 10px
 
-@media (min-width: 768px)
-  h1.title
-    font-size: 42px
+.btn-lg
+  padding-top: 13px
 
 .table
   tbody

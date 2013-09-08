@@ -39,7 +39,8 @@ prettifyTables source = subRegex (mkRegex "<table>") source "<table class=\"tabl
 
 main :: IO ()
 main = hakyllWith conf $ do
-  match ("images/*" .||. "js/*.js" .||. "css/*.css" .||. "fonts/*") $ do
+  match ("images/*" .||. "js/*.js" .||. "css/*.css"
+    .||. "fonts/*" .||. "pdfs/**") $ do
     route   idRoute
     compile copyFileCompiler
   match "js/*.coffee" $ do

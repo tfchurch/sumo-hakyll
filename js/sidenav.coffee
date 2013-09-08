@@ -17,6 +17,10 @@ makeSideNav = ->
   newRow.append $('<div class="col-md-9 navedContent">') .append content
   $('#content').html newRow
 
+refreshScrollSpy = ->
+  $('[data-spy="scroll"]').each ->
+    $(@).scrollspy 'refresh'
+
 $ ->
   if $('#makesidenav').length
     $('#makesidenav').remove()
@@ -25,5 +29,6 @@ $ ->
     $('#sideNav').affix
       offset:
         top: 56
-    $('[data-spy="scroll"]').each ->
-      $spy = $(@).scrollspy 'refresh'
+
+    refreshScrollSpy()
+    $(window).resize refreshScrollSpy
