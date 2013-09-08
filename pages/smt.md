@@ -14,8 +14,7 @@ TODO
 
 Most important information for registration here
 
-<!--[Register for SMT 2014](http://example.com)-->
-<a class="btn btn-primary btn-lg" href="http://example.com">Register for SMT 2014</a>
+!!!largebutton [Register for SMT 2014!](http://example.com)
 
 # About SMT
 
@@ -27,7 +26,7 @@ SMT has a bunch of tests and they are this long and are in these categories
 
 TODO
 
-[link to rules page](/smtrules.html)
+!!!largebutton [SMT 2014 Contest Rules](/smtrules.html)
 
 # Frequently Asked Questions {#faq}
 

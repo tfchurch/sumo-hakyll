@@ -1,9 +1,12 @@
-{-# LANGUAGE OverloadedStrings #-}
+{-# LANGUAGE OverloadedStrings, QuasiQuotes #-}
 --------------------------------------------------------------------------------
 import Data.Monoid (mconcat)
 import Control.Applicative ((<$>))
 import Hakyll
 import Text.Regex
+import Debug.Trace
+import Text.Pandoc
+import Text.InterpolatedString.Perl6
 --------------------------------------------------------------------------------
 sassCompiler :: Compiler (Item String)
 sassCompiler = getResourceString >>=
@@ -27,15 +30,28 @@ myPandocCompiler = do
   res <- getResourceString
   macroed <- applyAsTemplate macroCtx res
   partialed <- applyAsTemplate defaultContext macroed
-  return . postProcessor . renderPandoc $ partialed
+  return . postProcessor . myRenderPandoc $ partialed
   where postProcessor = fmap $ prettifyTables . obfuscateEmails
+        myRenderPandoc = writePandoc . (fmap pandocProcessor) . readPandoc
 
+-- TODO: make these ugly regex things use pandoc and pattern matching
 obfuscateEmails :: String -> String
 obfuscateEmails source = subRegex emailRegex source "<a href=\"mailto:\\0\">\\1 at \\2</a>"
   where emailRegex = mkRegex "([.[:alnum:]\\-]+)@([.[:alnum:]]+[:alnum:])"
 
 prettifyTables :: String -> String
 prettifyTables source = subRegex (mkRegex "<table>") source "<table class=\"table\">"
+
+pandocProcessor :: Pandoc -> Pandoc
+pandocProcessor = bottomUp replaceWithButton
+
+replaceWithButton :: Block -> Block
+replaceWithButton (Para ((Str "!!!largebutton"):_:xs)) = 
+  let (Link text dest) = head xs
+  in Para $ RawInline "html" 
+    [qq|<a class="btn btn-primary btn-lg" href={show $ fst dest}>|] 
+    : text ++ [RawInline "html" "</a>"]
+replaceWithButton b = b
 
 main :: IO ()
 main = hakyllWith conf $ do
