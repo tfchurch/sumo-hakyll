@@ -30,7 +30,7 @@
   font-style: italic; }
 
 html, body {
-  background-color: #efe7d9;
+  background-color: #f6e8e3;
   color: #655e4e;
   font-family: MyriadPro, sans-serif;
   font-size: 18px;
@@ -52,7 +52,8 @@ h1 {
   font-size: 38px; }
 
 h2 {
-  font-size: 33px; }
+  font-size: 33px;
+  color: #ba2656; }
 
 h3 {
   margin-top: 0; }
@@ -66,7 +67,7 @@ dd {
   padding-top: 10px; }
 
 .navbar-default {
-  background-color: #e3d0a4;
+  background-color: #efd3d6;
   border: none;
   margin-bottom: 20px;
   min-height: 48px; }
@@ -86,13 +87,13 @@ dd {
       background-color: #655e4e; }
   .navbar-default .navbar-toggle:hover {
     border: none;
-    border-color: #c3b595;
-    background-color: #c3b595; }
+    border-color: #baaead;
+    background-color: #baaead; }
     .navbar-default .navbar-toggle:hover .icon-bar {
       background-color: #211b0c; }
   .navbar-default .navbar-collapse {
     background: none;
-    border-color: #c3b595; }
+    border-color: #baaead; }
   .navbar-default .navbar-nav {
     font-size: 1.1em; }
     .navbar-default .navbar-nav li a {
@@ -102,13 +103,13 @@ dd {
     .navbar-default .navbar-nav li a:hover {
       color: #211b0c; }
     .navbar-default .navbar-nav .active a {
-      background-color: #c3b595;
+      background-color: #baaead;
       color: #3d392f; }
     .navbar-default .navbar-nav .active a:hover {
-      background-color: #c3b595;
+      background-color: #baaead;
       color: #211b0c; }
     .navbar-default .navbar-nav .open a.dropdown-toggle {
-      background-color: #e3d0a4;
+      background-color: #efd3d6;
       color: #211b0c; }
     @media (max-width: 767px) {
       .navbar-default .navbar-nav .open a.dropdown-toggle {
@@ -116,25 +117,25 @@ dd {
     .navbar-default .navbar-nav .open .dropdown-menu {
       top: -1;
       font-size: 18px;
-      background-color: #e3d0a4;
+      background-color: #efd3d6;
       color: #655e4e;
       border: none;
       box-shadow: none; }
       .navbar-default .navbar-nav .open .dropdown-menu .active a {
-        background-color: #c3b595;
+        background-color: #baaead;
         color: #3d392f; }
       .navbar-default .navbar-nav .open .dropdown-menu .active a:hover {
-        background-color: #d3c29c;
+        background-color: #d4c0c1;
         color: #211b0c; }
       .navbar-default .navbar-nav .open .dropdown-menu li a:hover {
-        background-color: #d3c29c;
+        background-color: #d4c0c1;
         color: #211b0c; }
       .navbar-default .navbar-nav .open .dropdown-menu li a {
         padding: 12px 16px 6px;
         color: #655e4e; }
       @media (max-width: 767px) {
         .navbar-default .navbar-nav .open .dropdown-menu li a:hover {
-          background-color: #e3d0a4; }
+          background-color: #efd3d6; }
         .navbar-default .navbar-nav .open .dropdown-menu li a {
           padding: 12px 16px 6px 24px; } }
 
@@ -155,13 +156,13 @@ dd {
     margin-bottom: 30px; } }
 #sideNav {
   border-radius: 4px;
-  background-color: #c3b595;
+  background-color: #baaead;
   padding: 10px 0; }
   #sideNav .nav li a {
     padding-top: 6px;
     padding-bottom: 2px;
     color: #3d392f;
-    border-right: 4px solid #c3b595; }
+    border-right: 4px solid #baaead; }
   #sideNav .nav li a:hover {
     background: none;
     color: #211b0c; }
@@ -173,8 +174,7 @@ dd {
       border-right: 4px solid #211b0c; }
 
 .jumbotron {
-  background-color: #c3b595;
-  background-image: url("../images/calculus-solutions-crop-atsize.png");
+  background-color: #baaead;
   color: #3d392f;
   padding: 20px; }
   .jumbotron h1 {
@@ -200,7 +200,7 @@ dd {
   padding-top: 13px; }
 
 .table tbody tr td {
-  border-color: #c3b595;
+  border-color: #baaead;
   padding-bottom: 4px; }
 .table tbody tr:first-child td {
   border: none; }
