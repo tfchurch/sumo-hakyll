@@ -1,5 +1,3 @@
-$sidenav$
-
 # Stanford Math Tournament {.title}
 
 The Stanford Math Tournament (SMT) is an annual student-run math competition

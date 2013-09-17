@@ -1,5 +1,3 @@
-$sidenav$
-
 # Other Events {.title}
 
 "Anything to oblige ye, my sweet and pleasant fellow," rejoined Stubb, and with

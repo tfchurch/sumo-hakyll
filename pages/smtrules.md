@@ -1,5 +1,3 @@
-$sidenav$
-
 # Stanford Math Tournament Rules {.title}
 
 TODO
