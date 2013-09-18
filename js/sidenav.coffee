@@ -11,3 +11,6 @@ $ ->
         top: 56
     refreshScrollSpy()
     $(window).resize refreshScrollSpy
+    $('.sidenavTitle').click ->
+      $('.active').removeClass 'active'
+      $(window).trigger 'resize' # fix odd rendering bug

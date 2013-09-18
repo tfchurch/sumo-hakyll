@@ -172,6 +172,18 @@ dd {
       border-right: 4px solid #3d392f; }
     #sideNav .nav li.active a:hover {
       border-right: 4px solid #211b0c; }
+  #sideNav .nav .sidenavTitle {
+    margin-top: 10px;
+    padding-left: 15px;
+    font-family: MinionPro, Garamond, serif;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 22px; }
+    #sideNav .nav .sidenavTitle a {
+      color: #981b1e;
+      padding-bottom: 2px; }
+    #sideNav .nav .sidenavTitle a:hover {
+      text-decoration: none; }
 
 .jumbotron {
   background-color: #c3b595;
@@ -196,6 +208,9 @@ dd {
 .navedContent h1:first-child, .navedContent h2:first-child, .navedContent h3:first-child {
   margin-top: 0;
   padding-top: 10px; }
+
+.btn {
+  padding-top: 8px; }
 
 .btn-lg {
   padding-top: 13px; }

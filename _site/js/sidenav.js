@@ -19,7 +19,11 @@
         }
       });
       refreshScrollSpy();
-      return $(window).resize(refreshScrollSpy);
+      $(window).resize(refreshScrollSpy);
+      return $('.sidenavTitle').click(function() {
+        $('.active').removeClass('active');
+        return $(window).trigger('resize');
+      });
     }
   });
 

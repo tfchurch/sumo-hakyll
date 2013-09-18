@@ -25,7 +25,7 @@ This is a competition we write and run every winter for hundreds of local
 high-school students as well as a number of teams from across the country and
 even across the world.
 
-[More information »](/smt.html)
+!!!smallbutton [More information »](/smt.html)
 
 $end$
 
@@ -39,7 +39,7 @@ This is a weekly talk given by a professor, grad student, or visitor about
 undergraduate-accessible topics in pure and applied mathematics that go beyond
 the standard curriculum.
 
-[More information »](/speakers.html)
+!!!smallbutton [More information »](/speakers.html)
 
 $end$
 
@@ -56,7 +56,7 @@ $halfbox$
 We run twice-weekly tutoring sessions for students in the MATH 51/52/53 course
 series.
 
-[More information »](/tutoring.html)
+!!!smallbutton [More information »](/tutoring.html)
 
 $end$
 
@@ -70,7 +70,7 @@ This is a weekly informal talk or discussion led by an undergraduate or graduate
 student about any math-related topic of their choosing. You are welcome not only
 to attend, but also to sign up to give a talk yourself!
 
-[More information »](/otherevents.html#symposium)
+!!!smallbutton [More information »](/otherevents.html#symposium)
 
 $end$
 
@@ -88,7 +88,7 @@ Each year, the Bay Area sends several extremely strong teams to ARML, a
 prestigious, national math contest for high schoolers. SUMO members coach these
 teams and accompany them to the competition each spring.
 
-[More information »](/otherevents.html#arml)
+!!!smallbutton [More information »](/otherevents.html#arml)
 
 $end$
 
@@ -100,7 +100,7 @@ $halfbox$
 
 TODO
 
-[More information »](/otherevents.html#homework-night)
+!!!smallbutton [More information »](/otherevents.html#homework-night)
 
 $end$
 
@@ -118,7 +118,7 @@ This is a fun weekly social event where students interested in math can
 socialize over interesting mathematical ideas and free food in a laid-back
 atmosphere.
 
-[More information »](/otherevents.html#math-mingle)
+!!!smallbutton [More information »](/otherevents.html#math-mingle)
 
 $end$
 
@@ -132,7 +132,7 @@ TODO
 
 Last year we hosted a puzzle hunt in the style of the MIT Mystery Hunt.
 
-[More information »](/otherevents.html#puzzle-hunt)
+!!!smallbutton [More information »](/otherevents.html#puzzle-hunt)
 
 $end$
 

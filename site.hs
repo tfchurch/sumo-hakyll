@@ -53,6 +53,12 @@ pandocProcessor :: Pandoc -> Pandoc
 pandocProcessor = bottomUp replaceWithButton
 
 replaceWithButton :: Block -> Block
+replaceWithButton (Para ((Str "!!!smallbutton"):_:link:_)) =
+  let (Link text dest) = link
+      openTag = RawInline "html"
+        [qc|<a class="btn btn-primary" href={fst dest}>|]
+      closeTag = RawInline "html" "</a>"
+  in Para $ openTag : text ++ [closeTag]
 replaceWithButton (Para ((Str "!!!largebutton"):_:link:_)) =
   let (Link text dest) = link
       openTag = RawInline "html"
@@ -65,7 +71,12 @@ sidenavContext :: [Block] -> Context String
 sidenavContext headers = constField "sidenavcontent" pandocStr
   where
     headerToLi :: Block -> Block
-    headerToLi (Header _ (_, ["title"], _) _) = Null
+    headerToLi (Header _ (headerId, ["title"], _) text) = Plain
+      [ RawInline "html" "<div class=\"sidenavTitle\">"
+      , Link text ('#':headerId, "")
+      , RawInline "html" "</div>"
+      ]
+      -- Div ("", ["sidenavTitle"], []) [Link text ('#':headerId, "")
     headerToLi (Header 1 (headerId, _, _) text) = Plain [Link text ('#':headerId, "")]
     headerToLi _ = Null
     pandocStr = itemBody $ writePandoc $ Item "" $ Pandoc (Meta [] [] []) 
