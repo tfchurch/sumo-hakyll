@@ -66,9 +66,7 @@ $halfbox$
 $end$
 $end$
 
-### Results
-
-TODO
+!!!smallbutton [View results from SMT 2013](/smt2013results.html)
 
 ## SMT 2012
 
