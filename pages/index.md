@@ -25,6 +25,8 @@ This is a competition we write and run every winter for hundreds of local
 high-school students as well as a number of teams from across the country and
 even across the world.
 
+This year SMT will take place on Saturday, February 15th.
+
 !!!smallbutton [More information »](/smt.html)
 
 $end$
@@ -82,7 +84,7 @@ $halfbox$
 
 ## American Regions Math League
 
-*TODO*
+Coming soon! (Winter 2013-14)
 
 Each year, the Bay Area sends several extremely strong teams to ARML, a
 prestigious, national math contest for high schoolers. SUMO members coach these

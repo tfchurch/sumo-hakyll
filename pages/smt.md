@@ -8,29 +8,51 @@ math.
 
 # Register for SMT 2014 {#register}
 
-TODO
+The registration deadline is on 11:59 PM Pacific time on **January 21st**, and the payment deadline is on **January 23rd**. Payment must be postmarked by the payment deadline. Registration is still possible after the deadline, but will be subject to availability and a late fee.
 
-Most important information for registration here
+We will send email confirmation of registration submissions and receivement of payment.
+
+You can register and find more information at the link below.
 
 !!!largebutton [Register for SMT 2014!](http://example.com)
 
 # About SMT
 
-SMT is run by Stanford students in collaboration with Rice University, Johns
-Hopkins University, Iowa State University, and the University of Iowa. IS THIS
-TRUE AND UP TO DATE? TODO
+Stanford Math Tournament (SMT) is run by Stanford students in collaboration with Rice University, Johns Hopkins University, and Columbia University.
 
-SMT has a bunch of tests and they are this long and are in these categories
+Teams compete in groups of up to eight students. The contest consists of an individual portion as well as a team portion. 
 
-TODO
+The team portion consists of a team test and a power round.
+
+The **Team Test** is a 50-minute exam consisting of 15 short answer questions.
+
+The **Power Round** is a 90-minute exam with a series of proof-based questions on a single topic that is revealed and briefly described at the beginning of the round.
+
+Students may choose to take two individual subject tests in a specific topic or take a single, longer General Test.
+
+The **Subject Tests** are 50-minute exams consisting of 10 short answer questions. The subjects offered are **Advanced Topics**, **Algebra**, **Calculus**, and **Geometry**.
+
+The **General Test** is a 110-minute exam consisting of 25 short answer questions that is designed for students that have less mathematical background. 
 
 !!!largebutton [SMT 2014 Contest Rules](/smtrules.html)
 
 # Frequently Asked Questions {#faq}
 
-TODO
 
-also contains useful information for registration 2014
+
+Mathematical Expectations
+
+Common Mathematical Notions
+
+Tiebreakers
+
+Computational Aids
+
+Acceptable Answer Formats
+
+Protests
+
+Awards
 
 # Previous Tournaments
 
