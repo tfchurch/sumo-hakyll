@@ -15,4 +15,52 @@ signing up for MATH 196; of course, you're also welcome to just show up.
 If you have any suggestions or would like to suggest a speaker, please email
 Raymond Wu at wur911@stanford.edu.
 
-## 2013&ndash;2014 Schedule coming soon!
+## 2013&ndash;2014 Schedule
+
+$row$
+$halfbox$
+###Fall 2013
+|-|-|-|
+|September 26|Professor Christelle Vincent|The integers vs. polynomials over a finite field: Who wins?|
+|October 3|-|-|
+|October 10|-|-|
+|October 17|Professor Brian Conrad|The projective plane|
+|October 24|-|-|
+|October 31|-|-|
+|November 7|Daniel Litt|-|
+|November 14|-|-|
+|November 21|-|-|
+|November 28|-|-|
+|December 5|Professor Zhiwei Yun|-|
+$end$
+
+
+
+$halfbox$
+###Winter 2014
+|-|-|-|
+|January 9|-|-|
+|January 16|-|-|
+|January 23|-|-|
+|January 30|-|-|
+|February 6|-|-|
+|February 13|-|-|
+|February 20|-|-|
+|February 27|-|-|
+|March 6|-|-|
+|March 13|-|-|
+$end$
+
+$halfbox$
+###Spring 2014
+|-|-|-|
+|April 3|-|-|
+|April 10|-|-|
+|April 17|-|-|
+|April 24|-|-|
+|May 1|-|-|
+|May 8|-|-|
+|May 15|-|-|
+|May 22|-|-|
+|May 29|-|-|
+$end$
