@@ -22,15 +22,17 @@ Stanford Math Tournament (SMT) is run by Stanford students in collaboration with
 
 Teams compete in groups of up to eight students. The contest consists of an individual portion as well as a team portion. 
 
+###Team Portion
 The team portion consists of a team test and a power round.
 
 The **Team Test** is a 50-minute exam consisting of 15 short answer questions.
 
 The **Power Round** is a 90-minute exam with a series of proof-based questions on a single topic that is revealed and briefly described at the beginning of the round.
 
-Students may choose to take two individual subject tests in a specific topic or take a single, longer General Test.
+###Individual Portion
+Students may choose to take **two individual subject tests** in a specific topic or take a single, longer **General Test**.
 
-The **Subject Tests** are 50-minute exams consisting of 10 short answer questions. The subjects offered are **Advanced Topics**, **Algebra**, **Calculus**, and **Geometry**.
+The **Subject Tests** are 50-minute exams consisting of 10 short answer questions. The subjects offered are **Advanced Topics**, **Algebra**, **Calculus**, and **Geometry**. The Advanced Topics test covers probability, number theory, and combinatorics.
 
 The **General Test** is a 110-minute exam consisting of 25 short answer questions that is designed for students that have less mathematical background. 
 
@@ -38,7 +40,24 @@ The **General Test** is a 110-minute exam consisting of 25 short answer question
 
 # Frequently Asked Questions {#faq}
 
+##Registration
+**Q: How many students may be on a team?**
 
+A: A team may consist of one to eight students.
+
+**Q: What should I do if I do not have enough people to form a complete team?**
+
+A: If you are interested in joining with other incomplete teams, you can indicate this on the registration form. You can also choose to compete as an incomplete team. However, teams of fewer than eight students will be at a disadvantage.  
+
+**Q: Can I participate in SMT remotely?** 
+
+A: No. All participants in SMT must compete at Stanford on the day of the contest. If you cannot compete at Stanford, you may view the problems and solutions online shortly after the conclusion of the contest.
+
+**Q: Do students on the same team have to be from the same school?**
+
+A: No. Traditionally, the majority of SMT teams have been comprised of students from the same school, but this is not required. There is no limit to how many teams a school can bring.
+
+##Testing
 
 Mathematical Expectations
 
@@ -51,6 +70,8 @@ Computational Aids
 Acceptable Answer Formats
 
 Protests
+
+##Logistics
 
 Awards
 

@@ -19,8 +19,6 @@ $halfbox$
 
 ## Stanford Math Tournament
 
-*TODO*
-
 This is a competition we write and run every winter for hundreds of local
 high-school students as well as a number of teams from across the country and
 even across the world.
