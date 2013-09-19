@@ -19,11 +19,11 @@ $halfbox$
 
 ## Stanford Math Tournament
 
+*Saturday, February 15, 2014*
+
 This is a competition we write and run every winter for hundreds of local
 high-school students as well as a number of teams from across the country and
 even across the world.
-
-This year SMT will take place on Saturday, February 15th.
 
 !!!smallbutton [More information »](/smt.html)
 
@@ -96,9 +96,10 @@ $halfbox$
 
 ## Homework Night
 
-*TODO*
+*6:00 to 10:00 PM each Tuesday in 380-381U*
 
-TODO
+This is an unstructured weekly event for math students to meet other students
+from their classes and work on homework. Food is provided.
 
 !!!smallbutton [More information »](/otherevents.html#homework-night)
 
