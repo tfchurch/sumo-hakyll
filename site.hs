@@ -35,7 +35,7 @@ myPandocCompiler = do
   where
     postProcessor = fmap $ prettifyTables . obfuscateEmails
     grabHeaders pandocItem = filter isHeader pandocContent
-      where 
+      where
         (Pandoc _ pandocContent) = itemBody pandocItem
         isHeader (Header _ _ _) = True
         isHeader _ = False
@@ -68,21 +68,22 @@ replaceWithButton (Para ((Str "!!!largebutton"):_:link:_)) =
 replaceWithButton b = b
 
 sidenavContext :: [Block] -> Context String
-sidenavContext headers = constField "sidenavcontent" pandocStr
+sidenavContext (title:headers) = constField "sidenavcontent" pandocStr
   where
     headerToLi :: Block -> Block
-    headerToLi (Header _ (headerId, ["title"], _) text) = Plain
-      [ RawInline "html" "<div class=\"sidenavTitle\">"
-      , Link text ('#':headerId, "")
-      , RawInline "html" "</div>"
-      ]
-      -- Div ("", ["sidenavTitle"], []) [Link text ('#':headerId, "")
     headerToLi (Header 1 (headerId, _, _) text) = Plain [Link text ('#':headerId, "")]
     headerToLi _ = Null
-    pandocStr = itemBody $ writePandoc $ Item "" $ Pandoc (Meta [] [] []) 
-      [(BulletList $ map pure $ filter notNull $ map headerToLi headers)]
+    pandocStr = itemBody $ writePandoc $ Item "" $ Pandoc (Meta [] [] [])
+      [ Plain [ RawInline "html" "<div class=\"sidenavTitle\">"
+              , Link titleText ('#':titleId, "")
+              , RawInline "html" "</div>"
+              ]
+      , (BulletList $ map pure $ filter notNull $ map headerToLi headers)
+      ]
+      where (Header _ (titleId, _, _) titleText) = title
     notNull Null = False
     notNull _ = True
+sidenavContext _ = error "No title on page, cannot construct sidenav"
 
 main :: IO ()
 main = hakyllWith conf $ do
@@ -104,7 +105,7 @@ main = hakyllWith conf $ do
     compile $ do
       (compPandoc, headers) <- myPandocCompiler
       let withNavContext = sidenavContext headers <> defaultContext
-      templated <- loadAndApplyTemplate "templates/default.html" 
+      templated <- loadAndApplyTemplate "templates/default.html"
                      withNavContext compPandoc
       relativizeUrls templated
       -- >>=
