@@ -36,6 +36,8 @@ The **Subject Tests** are 50-minute exams consisting of 10 short answer question
 
 The **General Test** is a 110-minute exam consisting of 25 short answer questions that is designed for students that have less mathematical background. 
 
+*For full rules and more detailed information, see our 2014 rules page.*
+
 !!!largebutton [SMT 2014 Contest Rules](/smtrules.html)
 
 # Frequently Asked Questions {#faq}
@@ -84,7 +86,7 @@ A: You can order SMT shirts in the registration form. All shirt orders must be r
 
 **Q: Will food be provided?**
 
-A: For lunch, you can order pizzas and drinks in the registration form. There will also be a variety of dining options on campus. Tressider Union will be open. We will also provide snacks in the morning and afternoon.
+A: For lunch, you can order pizzas and drinks in the registration form. There will also be a variety of dining options on campus. Tresidder Union will be open. We will also provide snacks in the morning and afternoon.
 
 **Q: Do we need to have a teacher or coach attend SMT in person?**
 

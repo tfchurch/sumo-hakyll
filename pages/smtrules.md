@@ -26,25 +26,25 @@ In the unlikely event that a tie for a top three position still stands after the
 ###Mathematical Expectations
 See the [mathematical expectations](/pdfs/mathematical-expectations.pdf) document for guidelines on the topics that may appear on each test.
 
-###Common Mathematical Notation
-See the [common mathematical notations](/pdfs/common-mathematical-notations.pdf) document for details on mathematical conventions used at SMT.
+###Common Mathematical Notions
+See the [common mathematical notions](/pdfs/common-mathematical-notions.pdf) document for details on mathematical conventions used at SMT.
 
 ###Acceptable Answer Formats
-SEe the [acceptable answer formats](/pdfs/acceptable-answer-formats.pdf) document for rules on asnwer simplification.
+See the [acceptable answer formats](/pdfs/acceptable-answer-formats.pdf) document for rules on answer simplification.
 
 ###Computational Aids
-The following may be used during the contest
+The following **may** be used during the contest
 
-	Rulers, compasses, protractors, and graph paper
-	Dictionaries (for contestants who need assistance with English)
+- Rulers, compasses, protractors, and graph paper
+- Dictionaries (for contestants who need assistance with English)
 
-The following may not be used during any testing portion of the contest
+The following **may not** be used during any testing portion of the contest
 
-	Calculators
-	Other computational aids, such as slide rules and abaci
-	Reference materials, such as books and notes
-	Communication devices, such as cell phones and computers
-	Any drawing aids not expressly permitted
+- Calculators
+- Other computational aids, such as slide rules and abaci
+- Reference materials, such as books and notes
+- Communication devices, such as cell phones and computers
+- Any drawing aids not expressly permitted
 
 #Grading
 ###Scoring

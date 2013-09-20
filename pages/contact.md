@@ -4,15 +4,15 @@ We love to hear your comments and suggestions for SUMO! If there is someone you
 would like to hear speak, or some event that SUMO might want to think about
 organizing, please let us know!
 
-For general questions and comments
+For general questions and comments:
 
 :   email Edward Dai (sumo@math.stanford.edu or ejdai@stanford.edu)
 
-To contact us about the website
+To contact us about the website:
 
 :   email Lennart Jansson (sumo-webmaster@lists.stanford.edu)
 
-To contact us about the Stanford Math Tournament
+To contact us about the Stanford Math Tournament:
 
 :   email the SMT coordinators (stanford.math.tournament@gmail.com)
 

@@ -82,7 +82,7 @@ $halfbox$
 
 ## American Regions Math League
 
-Coming soon! (Winter 2013-14)
+*Coming soon! (Winter 2013-14)*
 
 Each year, the Bay Area sends several extremely strong teams to ARML, a
 prestigious, national math contest for high schoolers. SUMO members coach these
@@ -141,12 +141,13 @@ $end$
 
 # Other information
 
-TODO: structurify this
+<!--We've also created a page about various mathematical opportunities, including a
+lot of summer programs.-->
 
-We've also created a page about various mathematical opportunities, including a
-lot of summer programs.
+If you would like to receive SUMO announcements for notifications about SUMO events:
 
-If you would like to receive SUMO announcements for notifications about SUMO
-events, [subcribe to our mailing
-list](https://mailman.stanford.edu/mailman/listinfo/sumo-announce). Feel free
-to [contact one of us](/contact.html) to see what we're up to or to suggest new activites!
+:   Click here to [subcribe to our mailing list](https://mailman.stanford.edu/mailman/listinfo/sumo-announce). 
+
+If you have suggestions on new events or general comments:
+
+:   Feel free to [contact one of us](/contact.html)! You can see emails for the SUMO officers responsible for various events on the [contact page](/contact.html).
