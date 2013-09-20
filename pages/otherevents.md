@@ -22,7 +22,16 @@ here (TODO).
 
 # American Regions Math League {#arml}
 
-(TODO) waiting on Moor.
+[The American Regions Math League](arml.com) is one of the premier high
+school math tournaments in the nation. Every year, SUMO members coach teams
+from the San Francisco Bay Area and accompany the teams to the national
+tournament in Las Vegas. In recent years, we have taken as many as 7 teams of 15
+students to ARML. In 2013, SFBA teams placed 1st and 4th in the nation. The
+next ARML will be held on May 30-31, 2014.
+
+We hold weekly practices starting in April, and we are always looking for SUMO
+members to help out at practices and go on the trip. If you're interested in
+helping, email Moor Xu at annoyingpi@gmail.com.
 
 # Homework Night
 
