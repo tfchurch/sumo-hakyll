@@ -55,6 +55,9 @@ html, body
 body
   padding: 0 10px
 
+p
+  margin-bottom: 16px
+
 h1, h2, h3, h4
   color: $red
   font:
@@ -69,6 +72,7 @@ h1
 h2
   font-size: 33px
   color: $subHeader
+  margin-top: 0
 h3
   margin-top: 0
 
@@ -76,6 +80,9 @@ dd
   padding-left: 20px
   p:before
     content: '» '
+
+.col-md-6
+  margin-bottom: 10px
 
 .container
   padding-top: 10px
@@ -163,7 +170,7 @@ dd
               padding: 12px 16px 6px 24px
 
 .affix
-  top: 20px
+  top: 24px
   width: 262px
 @media (max-width:1199px)
   .affix
@@ -179,7 +186,8 @@ dd
 #sideNav
   border-radius: 4px
   background-color: $accentBg
-  padding: 10px 0
+  padding-top: 6px
+  padding-bottom: 6px
   .nav
     li
       a
@@ -197,6 +205,20 @@ dd
         border-right: 4px solid $darkText
       a:hover
         border-right: 4px solid $darkHover
+  .sidenavTitle
+    margin-top: 10px
+    padding-left: 15px
+    font:
+      family: $headerFonts
+      weight: bold
+      size: 22px
+    line-height: 22px
+    a
+      color: $red
+      padding-bottom: 2px
+    a:hover
+      color: $darkHover
+      text-decoration: none
 
 
 .jumbotron
@@ -211,6 +233,7 @@ dd
   @media screen and (min-width: 768px)
     h1
       font-weight: normal
+      font-size: 72px
     p
       font-size: 30px
   .jumbologo
@@ -224,8 +247,14 @@ dd
     margin-top: 0
     padding-top: 10px
 
+.btn
+  font-size: 16px
+  padding-top: 7px
+  padding-bottom: 4px
 .btn-lg
+  font-size: 19px
   padding-top: 13px
+  padding-bottom: 9px
 
 .table
   tbody

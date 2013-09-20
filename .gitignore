@@ -11,6 +11,7 @@ cabal-dev
 *.chs.h
 .virthualenv
 _cache
+_site
 site
 posts
 *.xcf

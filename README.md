@@ -21,6 +21,15 @@ many edits to the site ask Lennart to add you as a collaborator on this
 repository in GitHub so you can push directly. Otherwise, fork and open pull
 requests. 
 
+You have to then install a couple of dependencies. We use SASS, a nice
+compile-to-CSS language, for stylesheets, and Hakyll will try to use SASS from
+the command-line so make sure that wherever it is installed, it's added to the
+path so you are able to launch it from the command line. We also depend on
+CoffeeScript for scripting. Most decent Linux distros should have packages for
+SASS and CoffeeScript, so that's one option. Alternatively, if you have ruby
+and rubygems set up, `gem install sass` should get SASS; and if you have
+node.js and npm, use `npm install -g coffee` to get CoffeeScript.
+
 In your cloned repo, run `ghc --make site.hs` to build the `site` executable,
 which is the tool to build the website, clean the built files, and other such
 useful tasks. To make sure things are working, run `./site rebuild`, this will

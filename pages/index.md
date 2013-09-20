@@ -19,13 +19,13 @@ $halfbox$
 
 ## Stanford Math Tournament
 
-*TODO*
+*Saturday, February 15, 2014*
 
 This is a competition we write and run every winter for hundreds of local
 high-school students as well as a number of teams from across the country and
 even across the world.
 
-[More information »](/smt.html)
+!!!smallbutton [More information »](/smt.html)
 
 $end$
 
@@ -39,7 +39,7 @@ This is a weekly talk given by a professor, grad student, or visitor about
 undergraduate-accessible topics in pure and applied mathematics that go beyond
 the standard curriculum.
 
-[More information »](/speakers.html)
+!!!smallbutton [More information »](/speakers.html)
 
 $end$
 
@@ -56,7 +56,7 @@ $halfbox$
 We run twice-weekly tutoring sessions for students in the MATH 51/52/53 course
 series.
 
-[More information »](/tutoring.html)
+!!!smallbutton [More information »](/tutoring.html)
 
 $end$
 
@@ -70,7 +70,7 @@ This is a weekly informal talk or discussion led by an undergraduate or graduate
 student about any math-related topic of their choosing. You are welcome not only
 to attend, but also to sign up to give a talk yourself!
 
-[More information »](/otherevents.html#symposium)
+!!!smallbutton [More information »](/otherevents.html#symposium)
 
 $end$
 
@@ -82,13 +82,13 @@ $halfbox$
 
 ## American Regions Math League
 
-*TODO*
+*Coming soon! (Winter 2013-14)*
 
 Each year, the Bay Area sends several extremely strong teams to ARML, a
 prestigious, national math contest for high schoolers. SUMO members coach these
 teams and accompany them to the competition each spring.
 
-[More information »](/otherevents.html#arml)
+!!!smallbutton [More information »](/otherevents.html#arml)
 
 $end$
 
@@ -96,11 +96,12 @@ $halfbox$
 
 ## Homework Night
 
-*TODO*
+*6:00 to 10:00 PM each Tuesday in 380-381U*
 
-TODO
+This is an unstructured weekly event for math students to meet other students
+from their classes and work on homework. Food is provided.
 
-[More information »](/otherevents.html#homework-night)
+!!!smallbutton [More information »](/otherevents.html#homework-night)
 
 $end$
 
@@ -118,7 +119,7 @@ This is a fun weekly social event where students interested in math can
 socialize over interesting mathematical ideas and free food in a laid-back
 atmosphere.
 
-[More information »](/otherevents.html#math-mingle)
+!!!smallbutton [More information »](/otherevents.html#math-mingle)
 
 $end$
 
@@ -132,7 +133,7 @@ TODO
 
 Last year we hosted a puzzle hunt in the style of the MIT Mystery Hunt.
 
-[More information »](/otherevents.html#puzzle-hunt)
+!!!smallbutton [More information »](/otherevents.html#puzzle-hunt)
 
 $end$
 
@@ -140,12 +141,14 @@ $end$
 
 # Other information
 
-TODO: structurify this
+<!--Commenting this out for now, when opps page is done will add to description list-->
+<!--We've also created a page about various mathematical opportunities, including a
+lot of summer programs.-->
 
-We've also created a page about various mathematical opportunities, including a
-lot of summer programs.
+If you would like to receive SUMO announcements and notifications about SUMO events:
 
-If you would like to receive SUMO announcements for notifications about SUMO
-events, [subcribe to our mailing
-list](https://mailman.stanford.edu/mailman/listinfo/sumo-announce). Feel free
-to [contact one of us](/contact.html) to see what we're up to or to suggest new activites!
+:   Click here to [subcribe to our mailing list](https://mailman.stanford.edu/mailman/listinfo/sumo-announce). 
+
+If you have suggestions on new events or general comments:
+
+:   Feel free to [contact one of us](/contact.html)! You can see emails for the SUMO officers responsible for various events on the [contact page](/contact.html).
