@@ -25,7 +25,7 @@ $halfbox$
 |October 3|-|-|
 |October 10|-|-|
 |October 17|Professor Brian Conrad|The projective plane|
-|October 24|-|-|
+|October 24|Professor Greg Brumfiel|-|
 |October 31|-|-|
 |November 7|Daniel Litt|-|
 |November 14|-|-|
