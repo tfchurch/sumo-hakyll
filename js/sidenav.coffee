@@ -3,14 +3,17 @@ refreshScrollSpy = ->
     $(@).scrollspy 'refresh'
 
 $ ->
-  $sideNav = $('#sideNav')
-  if $sideNav.length
-    $sideNav.find('ul').addClass 'nav'
-    $sideNav.affix
+  $sideNavC = $('#sideNavContainer')
+  if $sideNavC.length
+    $sideNavC.find('ul').addClass('nav').attr 'id', 'sideNavUl'
+    $sideNavC.affix
       offset:
         top: 56
     refreshScrollSpy()
-    $(window).resize refreshScrollSpy
+
+    $window = $(window)
+    $window.resize refreshScrollSpy
     $('.sidenavTitle').click ->
       $('.active').removeClass 'active'
-      $(window).trigger 'resize' # fix odd rendering bug
+      #$window.trigger 'resize' # fix odd rendering bug
+      refreshScrollSpy()

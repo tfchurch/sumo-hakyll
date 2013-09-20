@@ -7,7 +7,7 @@
     <link rel="stylesheet" media="screen" href="/css/bootstrap.min.css">
     <link rel="stylesheet" media="screen" href="/css/main.css">
   </head>
-  <body data-spy="scroll" data-target="#sideNav">
+  <body data-spy="scroll" data-target="#sideNavUl">
     <div class="container">
       <div class="navbar navbar-default">
         <div class="navbar-header">
@@ -39,17 +39,19 @@
       <div id="content">
         <div class="row">
           <div class="col-md-3">
-            <div id="sideNav">
-              $sidenavcontent$
-            </div>
-            $if(smtback)$
-              <br>
-              <div>
-                <a class="btn btn-lg btn-primary" href="/smt.html">
-                  Back to SMT Home
-                </a>
+            <div id="sideNavContainer">
+              <div id="sideNav">
+                $sidenavcontent$
               </div>
-            $endif$
+              $if(smtback)$
+                <br>
+                <div>
+                  <a class="btn btn-lg btn-primary" href="/smt.html">
+                    Back to SMT Home
+                  </a>
+                </div>
+              $endif$
+            </div>
           </div>
           <div class="col-md-9 navedContent">
             $body$
