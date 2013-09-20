@@ -141,10 +141,11 @@ $end$
 
 # Other information
 
+<!--Commenting this out for now, when opps page is done will add to description list-->
 <!--We've also created a page about various mathematical opportunities, including a
 lot of summer programs.-->
 
-If you would like to receive SUMO announcements for notifications about SUMO events:
+If you would like to receive SUMO announcements and notifications about SUMO events:
 
 :   Click here to [subcribe to our mailing list](https://mailman.stanford.edu/mailman/listinfo/sumo-announce). 
 
