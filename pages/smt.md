@@ -40,6 +40,9 @@ The **General Test** is a 110-minute exam consisting of 25 short answer question
 
 # Frequently Asked Questions {#faq}
 
+Make sure to check the rules page for detailed information regarding SMT.
+If your question is not answered below, feel free to contact the SMT coordinators at stanford.math.tournament@gmail.com.
+
 ##Registration
 **Q: How many students may be on a team?**
 
@@ -58,22 +61,46 @@ A: No. All participants in SMT must compete at Stanford on the day of the contes
 A: No. Traditionally, the majority of SMT teams have been comprised of students from the same school, but this is not required. There is no limit to how many teams a school can bring.
 
 ##Testing
+**Q: Are calculators allowed?**
 
-Mathematical Expectations
+A: No. Calculators are not allowed on any portion of the tests. Check the SMT rules for information on permitted items.
 
-Common Mathematical Notions
+**Q: Can I take only the individual test?**
 
-Tiebreakers
+A: Yes. You can choose to do so by indicating on the registration form. Your team will not receive any points for the tests it does not take.
 
-Computational Aids
+**Q: What topics may appear on the tests? How hard are the tests?**
 
-Acceptable Answer Formats
+A: See the [mathematical expectations](/pdfs/mathematical-expectations.pdf) document for guidelines on what topics may appear on each test. It is also advisable to look at the test from previous years in order to get a sense of the typical style and difficulty of SMT tests.
 
-Protests
+**Q: Which individual test should I take?**
+
+A: If you have little or no experience with contest math, we strongly recommend you take the General Test. Looking at past tests will help you get a sense of the difficulty of each test.
 
 ##Logistics
+**Q: Can we purchase SMT shirts?**
 
-Awards
+A: You can order SMT shirts in the registration form. All shirt orders must be received by the registration deadline.
+
+**Q: Will food be provided?**
+
+A: For lunch, you can order pizzas and drinks in the registration form. There will also be a variety of dining options on campus. Tressider Union will be open. We will also provide snacks in the morning and afternoon.
+
+**Q: Do we need to have a teacher or coach attend SMT in person?**
+
+A: No, you are not required to have a teacher or coach at the tournament.
+
+**Q: How do I get to the tournament location?**
+
+A: The tournament will be located mainly in the Math Building (Building 380 in the Main Quad), and the awards ceremony will be in Hewlett Teaching Center (just west of the Math Building). As the tournament date approaches, we will send an email with campus maps and directions to all registered teams. 
+
+**Q: My team needs to travel to reach Stanford and has to arrive the day before and/or leave the day after the tournament. What accommodations are available near Stanford? Is subsidized housing provided?**
+
+A: Unfortunately, we cannot provide subsidized housing. 
+
+**Q: Can travel to Stanford be subsidized?**
+
+A: Unfortunately, we cannot subsidize travel to Stanford.
 
 # Previous Tournaments
 

@@ -21,7 +21,7 @@ $row$
 $halfbox$
 ###Fall 2013
 |-|-|-|
-|September 26|Professor Christelle Vincent|The integers vs. polynomials over a finite field: Who wins?|
+|September 26|Professor Christelle Vincent|[The integers vs. polynomials over a finite field: Who wins?](/pdfs/speakers/sept26.pdf)|
 |October 3|-|-|
 |October 10|-|-|
 |October 17|Professor Brian Conrad|The projective plane|

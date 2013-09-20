@@ -48,7 +48,9 @@ The following may not be used during any testing portion of the contest
 
 #Grading
 ###Scoring
-See the [scoring system](/pdfs/scoring-system.pdf) document for a description of how we compute scores
+**Coming Soon!**
+
+We are currently in the process of designing the scoring system for SMT 2014. 
 
 ###Protests
 At the conclusion of each round of the tournament, answers and solutions for that round will be posted (in the Math Building for the individual tests and the Power Round, and in Hewlett Teaching Center for the Team Test). If a contestant believes that an answer key is incorrect, they must submit a protest form at room 381T in the Math Building, or at Hewlett 200 after the Team Test. Protests on the individual tests must be submitted by 2:30 PM, and protests on the power round and the team test must be submitted by 3:50 PM. Decisions by the SMT coordinators are final. 
@@ -57,4 +59,4 @@ At the conclusion of each round of the tournament, answers and solutions for tha
 Prizes will be awarded to the top three scorers on each individual test, the three highest-scoring teams on the power round, and the top three teams overall. In addition, we will recognize the top ten scorers on each individual test and the top ten percent of teams overall. 
 
 #Schedule
-(Coming Soon)
+**Coming Soon!**
