@@ -63,11 +63,16 @@ h1, h2, h3, h4
     family: $headerFonts
     weight: bold
   padding-top: 10px
+h1
+  font-size: 38px
+  border-bottom: 1px solid $red
+  margin-bottom: 20px
+h1.title
+  border-bottom: none
+  margin-bottom: 10px
 @media (min-width: 768px)
   h1.title
     font-size: 44px
-h1
-  font-size: 38px
 h2
   font-size: 33px
   margin-top: 0
@@ -226,6 +231,7 @@ dd
   padding: 20px
   h1
     color: $red !important
+    border: none
   p
     color: $darkText
   @media screen and (min-width: 768px)

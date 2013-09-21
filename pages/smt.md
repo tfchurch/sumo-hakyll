@@ -142,8 +142,47 @@ $end$
 
 ## SMT 2012
 
-TODO
+$row$
+$halfbox$
+### Tests
+
+|-|-|-|
+|Team|[Problems](/pdfs/smt2012/team-problems.pdf)|[Solutions](/pdfs/smt2012/team-solutions.pdf)|
+|Power|[Problems](/pdfs/smt2012/power-problems.pdf)|[Solutions](/pdfs/smt2012/power-solutions.pdf)|
+|Advanced Topics|[Problems](/pdfs/smt2012/advanced-problems.pdf)|[Solutions](/pdfs/smt2012/advanced-solutions.pdf)|
+|Algebra|[Problems](/pdfs/smt2012/algebra-problems.pdf)|[Solutions](/pdfs/smt2012/algebra-solutions.pdf)|
+|Calculus|[Problems](/pdfs/smt2012/calculus-problems.pdf)|[Solutions](/pdfs/smt2012/calculus-solutions.pdf)|
+|Geometry|[Problems](/pdfs/smt2012/geometry-problems.pdf)|[Solutions](/pdfs/smt2012/geometry-solutions.pdf)|
+|General|[Problems](/pdfs/smt2012/general-problems.pdf)|[Solutions](/pdfs/smt2012/team-solutions.pdf)|
+$end$
+
+$halfbox$
+### Tiebreakers
+
+|-|-|-|
+|Advanced Topics|[Problems](/pdfs/smt2012/advanced-tiebreaker-problems.pdf)|[Solutions](/pdfs/smt2012/advanced-tiebreaker-solutions.pdf)|
+|Algebra|[Problems](/pdfs/smt2012/algebra-tiebreaker-problems.pdf)|[Solutions](/pdfs/smt2012/algebra-tiebreaker-solutions.pdf)|
+|Calculus|[Problems](/pdfs/smt2012/calculus-tiebreaker-problems.pdf)|[Solutions](/pdfs/smt2012/calculus-tiebreaker-solutions.pdf)|
+|Geometry|[Problems](/pdfs/smt2012/geometry-tiebreaker-problems.pdf)|[Solutions](/pdfs/smt2012/geometry-tiebreaker-solutions.pdf)|
+|General|[Problems](/pdfs/smt2012/general-tiebreaker-problems.pdf)|[Solutions](/pdfs/smt2012/team-tiebreaker-solutions.pdf)|
+$end$
+$end$
 
 ## SMT 2011
 
-TODO
+### Tests
+
+$row$
+$halfbox$
+|-|-|-|
+|Team|[Problems](/pdfs/smt2011/team-problems.pdf)|[Solutions](/pdfs/smt2011/team-solutions.pdf)|
+|Power|[Problems](/pdfs/smt2011/power-problems.pdf)|[Solutions](/pdfs/smt2011/power-solutions.pdf)|
+|Advanced Topics|[Problems](/pdfs/smt2011/advanced-problems.pdf)|[Solutions](/pdfs/smt2011/advanced-solutions.pdf)|
+|Algebra|[Problems](/pdfs/smt2011/algebra-problems.pdf)|[Solutions](/pdfs/smt2011/algebra-solutions.pdf)|
+|Calculus|[Problems](/pdfs/smt2011/calculus-problems.pdf)|[Solutions](/pdfs/smt2011/calculus-solutions.pdf)|
+|Geometry|[Problems](/pdfs/smt2011/geometry-problems.pdf)|[Solutions](/pdfs/smt2011/geometry-solutions.pdf)|
+|General|[Problems](/pdfs/smt2011/general-problems.pdf)|[Solutions](/pdfs/smt2011/team-solutions.pdf)|
+$end$
+$halfbox$
+$end$
+$end$
