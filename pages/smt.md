@@ -1,10 +1,17 @@
 # Stanford Math Tournament {.title}
 
+$row$
+$halfbox$
 The Stanford Math Tournament (SMT) is an annual student-run math competition
 for high school students held at Stanford University. SMT aims to encourage
 interest in math by providing students from around the world an opportunity to
 work on fun and challenging problems and to meet other students interested in
 math.
+$end$
+$halfbox$
+![SMT](/images/smtbanner.png)
+$end$
+$end$
 
 # Register for SMT 2014 {#register}
 
