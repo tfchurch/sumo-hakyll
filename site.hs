@@ -68,22 +68,21 @@ replaceWithButton (Para ((Str "!!!largebutton"):_:link:_)) =
 replaceWithButton b = b
 
 sidenavContext :: [Block] -> Context String
-sidenavContext (title:headers) = constField "sidenavcontent" pandocStr
+sidenavContext headers = constField "sidenavcontent" pandocStr
   where
     headerToLi :: Block -> Block
-    headerToLi (Header 1 (headerId, _, _) text) = Plain [Link text ('#':headerId, "")]
+    headerToLi (Header _ (titleId, ["title"], _) titleText) = Plain $
+      (RawInline "html" 
+        ("<a class=\"sidenavTitle\" href=\"#" ++ titleId ++ "\">")
+      ) : titleText ++ [RawInline "html" "</a>"]
+    headerToLi (Header 1 (headerId, _, _) text) = Plain 
+      [Link text ('#':headerId, "")]
     headerToLi _ = Null
-    pandocStr = itemBody $ writePandoc $ Item "" $ Pandoc (Meta [] [] [])
-      [ Plain [ RawInline "html" "<div class=\"sidenavTitle\">"
-              , Link titleText ('#':titleId, "")
-              , RawInline "html" "</div>"
-              ]
-      , (BulletList $ map pure $ filter notNull $ map headerToLi headers)
-      ]
-      where (Header _ (titleId, _, _) titleText) = title
+    pandocStr = itemBody $ writePandoc $ Item "" $ Pandoc (Meta [] [] []) 
+      [BulletList $ map pure $ filter notNull $ map headerToLi headers]
     notNull Null = False
     notNull _ = True
-sidenavContext _ = error "No title on page, cannot construct sidenav"
+-- sidenavContext _ = error "No title on page, cannot construct sidenav"
 
 main :: IO ()
 main = hakyllWith conf $ do

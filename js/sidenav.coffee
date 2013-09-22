@@ -1,6 +1,6 @@
 refreshScrollSpy = ->
   $('[data-spy="scroll"]').each ->
-    $(@).scrollspy 'refresh'
+    $spy = $(@).scrollspy 'refresh'
 
 $ ->
   $sideNavC = $('#sideNavContainer')
@@ -13,7 +13,6 @@ $ ->
 
     $window = $(window)
     $window.resize refreshScrollSpy
-    $('.sidenavTitle').click ->
-      $('.active').removeClass 'active'
-      #$window.trigger 'resize' # fix odd rendering bug
-      refreshScrollSpy()
+    #$('.sidenavTitle').click ->
+      #$('.active').removeClass 'active'
+      #refreshScrollSpy()

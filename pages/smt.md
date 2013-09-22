@@ -15,7 +15,7 @@ $end$
 
 # Register for SMT 2014 {#register}
 
-*Registration officially opens on **October 1st, 2014**. Check back here after
+*Registration officially opens on **October 1st, 2013**. Check back here after
 that date for a link to the registration site!*
 
 The registration deadline is on 11:59 PM Pacific time on **January 21st**, and
