@@ -64,11 +64,16 @@ h1, h2, h3, h4
     family: $headerFonts
     weight: bold
   padding-top: 10px
+h1
+  font-size: 38px
+  border-bottom: 1px solid $red
+  margin-bottom: 20px
+h1.title
+  border-bottom: none
+  margin-bottom: 10px
 @media (min-width: 768px)
   h1.title
     font-size: 44px
-h1
-  font-size: 38px
 h2
   font-size: 33px
   color: $subHeader
@@ -80,6 +85,9 @@ dd
   padding-left: 20px
   p:before
     content: '» '
+
+img
+  max-width: 100%
 
 .col-md-6
   margin-bottom: 10px
@@ -205,21 +213,20 @@ dd
         border-right: 4px solid $darkText
       a:hover
         border-right: 4px solid $darkHover
-  .sidenavTitle
-    margin-top: 10px
-    padding-left: 15px
-    font:
-      family: $headerFonts
-      weight: bold
-      size: 22px
-    line-height: 22px
-    a
+      .sidenavTitle
+        border: none
+      .sidenavTitle:hover
+        border: none
+    .sidenavTitle
+      margin-top: 4px
+      padding-left: 15px
+      font:
+        family: $headerFonts
+        weight: bold
+        size: 22px
+      line-height: 22px
       color: $red
       padding-bottom: 2px
-    a:hover
-      color: $darkHover
-      text-decoration: none
-
 
 .jumbotron
   background-color: $accentBg
@@ -228,6 +235,7 @@ dd
   padding: 20px
   h1
     color: $red !important
+    border: none
   p
     color: $darkText
   @media screen and (min-width: 768px)
