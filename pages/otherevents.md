@@ -19,7 +19,7 @@ $end$
 $halfbox$
 # American Regions Math League {#arml}
 
-[The American Regions Math League](arml.com) is one of the premier high
+[The American Regions Math League](http://arml.com) is one of the premier high
 school math tournaments in the nation. Every year, SUMO members coach teams
 from the San Francisco Bay Area and accompany the teams to the national
 tournament in Las Vegas. In recent years, we have taken as many as 7 teams of 15
