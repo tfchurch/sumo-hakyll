@@ -24,9 +24,9 @@ Raymond Wu at wur911@stanford.edu.
 |October 10|-|-|
 |October 17|Professor Brian Conrad|The projective plane|
 |October 24|Professor Greg Brumfiel|-|
-|October 31|-|-|
+|October 31|Professor Hilaf Hasson|-|
 |November 7|Daniel Litt|-|
-|November 14|-|-|
+|November 14|Professor Georg Menz|-|
 |November 21|-|-|
 |November 28|-|-|
 |December 5|Professor Zhiwei Yun|-|
