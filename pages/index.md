@@ -127,13 +127,9 @@ $halfbox$
 
 ## Puzzle Hunt
 
-*TODO*
-
-TODO
-
 Last year we hosted a puzzle hunt in the style of the MIT Mystery Hunt.
 
-!!!smallbutton [More information »](/otherevents.html#puzzle-hunt)
+!!!smallbutton [More information »](http://sumo.stanford.edu/puzzlehunt)
 
 $end$
 
