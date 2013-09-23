@@ -64,11 +64,11 @@ $halfbox$
 
 ## Symposium
 
-*5:00 to 6:00 PM each Tuesday in 380-383N*
+*5:00 to 6:00 PM some Tuesdays in 380-383N*
 
-This is a weekly informal talk or discussion led by an undergraduate or graduate
-student about any math-related topic of their choosing. You are welcome not only
-to attend, but also to sign up to give a talk yourself!
+This is an occasional informal talk or discussion led by an undergraduate or
+graduate student about any math-related topic of their choosing. You are
+welcome not only to attend, but also to sign up to give a talk yourself!
 
 !!!smallbutton [More information »](/otherevents.html#symposium)
 
@@ -82,7 +82,7 @@ $halfbox$
 
 ## American Regions Math League
 
-*Coming soon! (Winter 2013-14)*
+*Spring 2013-14&emsp;(more information coming soon)*
 
 Each year, the Bay Area sends several extremely strong teams to ARML, a
 prestigious, national math contest for high schoolers. SUMO members coach these
@@ -126,6 +126,8 @@ $end$
 $halfbox$
 
 ## Puzzle Hunt
+
+*April 20th, 2013*
 
 Last year we hosted a puzzle hunt in the style of the MIT Mystery Hunt.
 

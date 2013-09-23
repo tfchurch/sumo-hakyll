@@ -237,3 +237,5 @@ $end$
 $halfbox$
 $end$
 $end$
+
+If you are missing some information that was on our old site but is not here on this page, you can view the old SMT home page [here](/old/smt).

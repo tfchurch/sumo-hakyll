@@ -4,9 +4,10 @@ $row$
 $halfbox$
 ## Schedule
 Starting the second week of each quarter, student tutors for the Math 50s series
-classes will be available **every Monday and Wednesday from 6pm to 10pm**. Tutoring
-for the 2013 Fall Quarter will begin on Monday, Sepember 30 and will be held in
-the math corner, **room 380-381T**. Tutoring will continue through Dead Week.
+classes will be available **every Monday and Wednesday from 6:00 PM to 10:00
+PM**. Tutoring for the 2013 Fall Quarter will begin on Monday, Sepember 30 and
+will be held in the math corner, **room 380-381T**. Tutoring will continue
+through Dead Week.
 
 If you are unclear as to whether there will be tutoring on a particular day or
 have any other questions, please e-mail Eddy Dai (ejdai@stanford.edu).

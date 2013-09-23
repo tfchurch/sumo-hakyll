@@ -1,17 +1,22 @@
 # Other Events {.title}
 
+$row$
+$halfbox$
 # Symposium
 
 Every so often, we host an informal talk or discussion led by an undergraduate
 or graduate student about any math-related topic of their choosing. We've had
 topics range from linear algebra to representation theory to cryptography to
-mathematics in music theory. To see a list of previous talks, see here (TODO:
-Lennart).
+mathematics in music theory.
 
 You are welcome not only to attend these talks, but also to sign up to give a
 talk yourself! You can talk about anything that interests you! If you're
 interested in giving a talk, contact Eddy Dai at ejdai@stanford.edu.
+  
+To see a list of previous talks, see [here](/old/symposium/2013).
+$end$
 
+$halfbox$
 # American Regions Math League {#arml}
 
 [The American Regions Math League](arml.com) is one of the premier high
@@ -24,7 +29,11 @@ next ARML will be held on May 30-31, 2014.
 We hold weekly practices starting in April, and we are always looking for SUMO
 members to help out at practices and go on the trip. If you're interested in
 helping, email Moor Xu at annoyingpi@gmail.com.
+$end$
+$end$
 
+$row$
+$halfbox$
 # Homework Night
 
 Homework Night is an unstructured weekly event for math students to meet other
@@ -34,7 +43,9 @@ room 380-381U**!
 
 If you have any questions about Homework Night, please contact Ravi Fernando at
 rkf12346@stanford.edu.
+$end$
 
+$halfbox$
 # Math Mingle
 
 Math Mingle is a fun weekly social event where students interested in math can
@@ -46,6 +57,8 @@ Many of our officers and highly active members attend Math Mingle, so it's a
 great way to start getting involved with SUMO!
 
 Math Mingle takes place on **Fridays from 4:00 to 6:00 PM in room 380-381U**.
+$end$
+$end$
 
 <!-- # Puzzle Hunt -->
 

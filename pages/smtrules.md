@@ -59,4 +59,5 @@ At the conclusion of each round of the tournament, answers and solutions for tha
 Prizes will be awarded to the top three scorers on each individual test, the three highest-scoring teams on the power round, and the top three teams overall. In addition, we will recognize the top ten scorers on each individual test and the top ten percent of teams overall. 
 
 #Schedule
-**Coming Soon!**
+
+SMT 2014 will run on Saturday, February 15, 2014. **More information coming soon!**
