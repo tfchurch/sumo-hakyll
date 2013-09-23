@@ -55,10 +55,10 @@ TODO: Expand
 
 Math Mingle takes place on **Fridays from 4:00 to 6:00 PM in room 380-381U**.
 
-# Puzzle Hunt
+<!-- # Puzzle Hunt -->
 
-Last year, we wrote and ran the Stanford Puzzle Hunt. See here (TODO) for more
-information.
+<!--Last year, we wrote and ran the Stanford Puzzle Hunt. See here (TODO) for more-->
+<!--information.-->
 <!---
 (Are we sure we want Puzzle Hunt here? We can just directly link the homepage to
 the Puzzle Hunt site.)
