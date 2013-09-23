@@ -1,24 +1,16 @@
 # Other Events {.title}
 
-"Anything to oblige ye, my sweet and pleasant fellow," rejoined Stubb, and with
-that he soon mounted to the deck. There a queer scene presented itself. The
-sailors, in tasselled caps of red worsted, were getting the heavy tackles in
-readiness for the whales. But they worked rather slow and talked very fast, and
-seemed in anything but a good humor. All their noses upwardly projected from
-their faces like so many jib-booms. Now and then pairs of them would drop their
-work, and run up to the mast-head to get some fresh air. Some thinking they
-would catch the plague, dipped oakum in coal-tar, and at intervals held it to
-their nostrils. Others having broken the stems of their pipes almost short off
-at the bowl, were vigorously puffing tobacco-smoke, so that it constantly
-filled their olfactories. Stubb was struck by a shower of outcries and
-
 # Symposium
 
 Every so often, we host an informal talk or discussion led by an undergraduate
-or graduate student about any math-related topic of their choosing. If you're
-interested in giving a talk, contact Eddy Dai at ejdai@stanford.edu. You can
-talk about anything that interests you! To see a list of previous talks, see
-here (TODO).
+or graduate student about any math-related topic of their choosing. We've had
+topics range from linear algebra to representation theory to cryptography to
+mathematics in music theory. To see a list of previous talks, see here (TODO:
+Lennart).
+
+You are welcome not only to attend these talks, but also to sign up to give a
+talk yourself! You can talk about anything that interests you! If you're
+interested in giving a talk, contact Eddy Dai at ejdai@stanford.edu.
 
 # American Regions Math League {#arml}
 
@@ -38,11 +30,11 @@ helping, email Moor Xu at annoyingpi@gmail.com.
 Homework Night is an unstructured weekly event for math students to meet other
 students from their classes and work on problem sets and projects. Snacks are
 provided.
+<!--- If you have any questions about Homework Night, please contact Ravi
+Fernando at (TODO Pending on Ravi's approval)--->
 
-TODO: Expand
-
-Bring your work and join us on **Tuesdays from 6:00 to 10:00 PM in room
-380-381U**!
+Bring your work and join us on **Tuesdays from 6:00 to 10:00 PM
+in room 380-381U**!
 
 # Math Mingle
 
@@ -51,7 +43,8 @@ socialize over interesting mathematical ideas and free food in a laid-back
 atmosphere. We will occasionally provide some problems and puzzles, but you are
 welcome to bring in and share your own mental challenges!
 
-TODO: Expand
+Many of our officers and highly active members attend Math Mingle, so it's a
+great way to start getting involved with SUMO!
 
 Math Mingle takes place on **Fridays from 4:00 to 6:00 PM in room 380-381U**.
 
