@@ -27,8 +27,8 @@ Raymond Wu at wur911@stanford.edu.
 |October 31|Professor Hilaf Hasson|-|
 |November 7|Daniel Litt|-|
 |November 14|Professor Georg Menz|-|
-|November 21|-|-|
-|November 28|-|-|
+|November 21|Professor Sheel Ganatra|-|
+|November 28|<b>No talk! (Thanksgiving Break)</b>|-|
 |December 5|Professor Zhiwei Yun|-|
 
 ##Winter 2014

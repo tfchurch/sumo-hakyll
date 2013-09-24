@@ -60,4 +60,20 @@ Prizes will be awarded to the top three scorers on each individual test, the thr
 
 #Schedule
 
-SMT 2014 will run on Saturday, February 15, 2014. **More information coming soon!**
+SMT 2014 will run on Saturday, February 15, 2014.
+
+##Schedule
+|-|-|
+|8:00-8:45|Check in|
+|9:00-9:50|First Individual Round|
+|10:00-10:50|Second Individual Round|
+|-|Passing period|
+|11:20-1:00|Power Round|
+|1:00-2:10|Lunch|
+|2:20-3:20|Team Round|
+|-|Passing period|
+|3:50-4:50|Speaker and Tiebreakers|
+|5:00-5:30|Puzzles and Tiebreakers|
+|5:30-6:00|Awards|
+
+ 
