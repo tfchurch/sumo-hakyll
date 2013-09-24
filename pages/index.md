@@ -64,7 +64,7 @@ $halfbox$
 
 ## Symposium
 
-*5:00 to 6:00 PM some Tuesdays in 380-383N*
+*5:00 to 6:00 PM some Tuesdays in 380-380X*
 
 This is an occasional informal talk or discussion led by an undergraduate or
 graduate student about any math-related topic of their choosing. You are
