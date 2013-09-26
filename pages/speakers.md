@@ -20,8 +20,8 @@ Raymond Wu at wur911@stanford.edu.
 ##Fall 2013
 |-|-|-|
 |September 26|Professor Christelle Vincent|[The integers vs. polynomials over a finite field: Who wins?](/pdfs/speakers/sept26.pdf)|
-|October 3|Professor Daniel Kane|-|
-|October 10|-|-|
+|October 3|Professor Daniel Kane|[Dropping Lowest Grade](/pdfs/speakers/oct3.pdf)|
+|October 10|Professor Satyan Devadoss|-|
 |October 17|Professor Brian Conrad|The projective plane|
 |October 24|Professor Greg Brumfiel|-|
 |October 31|Professor Hilaf Hasson|-|
