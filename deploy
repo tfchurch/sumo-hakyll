@@ -1,4 +1,4 @@
 #! /bin/sh
 echo -n "Username: "
 read username
-rsync -av _site/* $username@corn.stanford.edu:/afs/ir/group/sumo/WWW/new
+rsync -av _site/* $username@corn.stanford.edu:/afs/ir/group/sumo/WWW
