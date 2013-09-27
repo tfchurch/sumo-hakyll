@@ -96,7 +96,7 @@ $halfbox$
 
 ## Homework Night
 
-*6:00 to 10:00 PM each Tuesday in 380-381U*
+*7:00 to 10:00 PM each Tuesday in 380-381U*
 
 This is an unstructured weekly event for math students to meet other students
 from their classes and work on homework. Food is provided.

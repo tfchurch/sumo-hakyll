@@ -38,7 +38,7 @@ $halfbox$
 
 Homework Night is an unstructured weekly event for math students to meet other
 students from their classes and work on problem sets and projects. Snacks are
-provided. Bring your work and join us on **Tuesdays from 6:00 to 10:00 PM in
+provided. Bring your work and join us on **Tuesdays from 7:00 to 10:00 PM in
 room 380-381U**!
 
 If you have any questions about Homework Night, please contact Ravi Fernando at
