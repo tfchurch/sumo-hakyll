@@ -99,7 +99,7 @@ main = hakyllWith conf $ do
   match "templates/*" $ compile templateCompiler
   match "partialmacros.hs" $ do
     compile getResourceBody
-  match "pages/*.md" $ do
+  match "pages/**.md" $ do
     route $ (gsubRoute "pages/" $ const "") `composeRoutes` setExtension "html"
     compile $ do
       (compPandoc, headers) <- myPandocCompiler
