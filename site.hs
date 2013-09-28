@@ -33,21 +33,28 @@ myPandocCompiler = do
   let pandoc = fmap pandocProcessor . readPandoc $ partialed
   return (postProcessor $ writePandoc pandoc, grabHeaders pandoc)
   where
-    postProcessor = fmap $ prettifyTables . obfuscateEmails
+    postProcessor = fmap $ fixDollar . prettifyTables . obfuscateEmails
     grabHeaders pandocItem = filter isHeader pandocContent
       where
         (Pandoc _ pandocContent) = itemBody pandocItem
         isHeader (Header _ _ _) = True
         isHeader _ = False
+    fixDollar t = subRegex (mkRegex "&amp;#36;") t "$"
     -- myRenderPandoc = writePandoc . (fmap pandocProcessor) . readPandoc
 
 -- TODO: make these ugly regex things use pandoc and pattern matching
 obfuscateEmails :: String -> String
-obfuscateEmails source = subRegex emailRegex source "<a href=\"mailto:\\0\">\\1 at \\2</a>"
-  where emailRegex = mkRegex "([.[:alnum:]\\-]+)@([.[:alnum:]]+[:alnum:])"
+obfuscateEmails source = atRestored
+  where noGitRegex = mkRegex "git@([.[:alnum:]]+[:alnum:])"
+        noGitReplaced = subRegex noGitRegex source "git&#64;\\1"
+        emailRegex = mkRegex "([.[:alnum:]\\-]+)@([.[:alnum:]]+[:alnum:])"
+        emailReplaced = subRegex emailRegex noGitReplaced 
+                          "<a href=\"mailto:\\0\">\\1 at \\2</a>"
+        atRestored = subRegex (mkRegex "&amp;#64;") emailReplaced "@" 
 
 prettifyTables :: String -> String
-prettifyTables source = subRegex (mkRegex "<table>") source "<table class=\"table\">"
+prettifyTables source = subRegex (mkRegex "<table>") source
+                          "<table class=\"table\">"
 
 pandocProcessor :: Pandoc -> Pandoc
 pandocProcessor = bottomUp replaceWithButton
