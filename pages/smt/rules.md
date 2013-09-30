@@ -1,6 +1,34 @@
 # Stanford Math Tournament Rules {.title}
 The Stanford Math Tournament consists of an individual contest portion and an overall team contest between teams of up to eight students. Students take two individual subject tests in the areas of Advanced Topics, Algebra, Calculus, and Geometry. Alternatively, less experienced students may choose to take a single, longer General Test. Teams participate in a Team Test and a Power Round, a multi-part proof-oriented test.
 
+#Registration
+###Deadline and Fees###
+The registration deadline is on 11:59 PM Pacific time on **January 21st**, and the payment deadline is on **January 23rd**. The fee for registering teams before the registration deadline is **$10 per person**. 
+
+If a team misses the registration deadline or the payment is late, the team must pay the late registration fee of $15 per person. The late registration deadline is on **February 3rd**, and hte late payment deadline is on **February 5th**. 
+
+###Payment###
+Teams may pay by check, made payable to the Stanford University Mathematical Organization, or cash.
+
+Payment should be mailed to:
+
+** Stanford University Mathematical Organization
+ P.O. Box 20141
+ Stanford, CA 94309 **
+
+###Optional Purchases###
+Teams can optionally purchase pizza and soda for lunch and SMT shirts. These can be ordered in the registration form. Pizzas are $11 each. Sodas are $0.75 per can. Shirts are $10 each.
+
+Since we must order the food and shirts in advance of the contest, you may not place or change shirt orders after the registration deadline, and you may not place or change food orders after January 28. 
+
+###Editing Registration Information###
+All registration information may be changed freely until the registration deadline. The names of contestants, individual test selections, and all other information that does not affect payment may be changed freely until the day of the contest.
+
+Adding additional team members will be subject to availability and a late fee for each additional person if the changes are submitted after the registration deadline or the additional payment is sent after the payment deadline. Changes to shirt or food orders cannot be made after the corresponding deadline. We cannot give refunds for changes made after the registration deadline. 
+
+
+
+
 #Testing
 ###Team Portion
 The entire team will collaborate to complete the Team Test and the Power Round. Teams may not collaborate with each other.
