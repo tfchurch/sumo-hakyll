@@ -7,6 +7,8 @@ for high school students held at Stanford University. SMT aims to encourage
 interest in math by providing students from around the world an opportunity to
 work on fun and challenging problems and to meet other students interested in
 math.
+
+SMT 2014 will run on **Saturday, February 15, 2014**.
 $end$
 $halfbox$
 ![SMT](/images/smtbanner.png)
