@@ -99,9 +99,9 @@ If you already have set up SSH keys for SMT on your computer (e.g. if you used l
 
 Open a terminal for the next configuration steps. (If you're using msysgit on Windows, open up Git Bash to get a command prompt.)
 
-1.  If you already have an SSH key pair on your computer, skip to step 2. 
+1.  If you already have an SSH key pair on your computer, skip to step 2.
 
-    At the prompt, type: `ssh-keygen -t rsa -C "<your email address>"`. 
+    At the prompt, type: `ssh-keygen -t rsa -C "<your email address>"`.
 
     When it asks for passphrase / file location, leave it blank and hit enter.
 
@@ -111,7 +111,7 @@ Open a terminal for the next configuration steps. (If you're using msysgit on Wi
 
     The id_rsa.pub file is just a plain text file. You can run `cat ~/.ssh/id_rsa.pub` at the command prompt, or open it any text editor (e.g. Notepad). If you're on Windows and you have difficulty opening it, you can copy it to `id_rsa.pub.txt` and open that.
 
-    The public key should look something like this: 
+    The public key should look something like this:
 
         ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEA2UWJG6SSiM5TLCR+mCsMy52WoPixngcQ2G1aQOrPIK282kkWnjhNEL+R pSXKaf7yYzCkPbYIyZzeVxo7XQsadFXzsBzWR79c2di2HQFPN7DvdAYBTOvXCNTbjOiHSgfY3X/tuphSY98QGicpcNzn sJocdy5cBXvF6NIfmDuXgsHN9Yp8BeTdPEosF4JLe0RAD2glDytwesVLkaKE/2ZKacFzp== example&#64;example.com
 
@@ -127,7 +127,7 @@ At the prompt,
 
   * If you want to change the editor git opens for entering commit messages to something other than vi (which is highly recommended if you don't know how to use vi), type: `git config --global core.editor <your editor>`
 
-      * If you're on Linux or Mac and don't know what editor to use, you can try gedit (for GNOME users), kate (for KDE users), or nano as &lt;your editor&gt;. 
+      * If you're on Linux or Mac and don't know what editor to use, you can try gedit (for GNOME users), kate (for KDE users), or nano as &lt;your editor&gt;.
       * If you're on Windows and don't know what editor to use, you can try WordPad: `git config --global core.editor "'C:/Program Files/Windows NT/Accessories/wordpad.exe'"` (note that you need two sets of quotes)
 
 ## Cloning the SMT 2014 repository
@@ -151,7 +151,7 @@ You're now done with the setup! Read the sections below for instructions on how 
   * To save an update, type at the prompt: `git commit -a`
       * The `-a` option makes the commit include all files in the repository that you modified as well as all files you staged via git add. Without the -a option, only the files you staged via git add are included.
 
-    Then, follow the instructions to enter a message. 
+    Then, follow the instructions to enter a message.
       * Try to enter a helpful message summarizing your changes. It can be very short if you want. Just please note that messages like "a" or "pi" are not very helpful.
       * If there are problems with bringing up an editor, try configuring git to use another editor. If that still fails, use the `-m` or the `-F` option to specify a commit message. You can specify the message on the command line with `git commit -m "<message>"`, or write a commit message in a file and use `git commit -F <file>`.
       * It's a good idea to have the first line of the commit message be a short summary of the changes. This can be followed by a more detailed description. Many tools display just the first line, so it should be a stand-alone summary.
@@ -196,19 +196,19 @@ Every problem for SMT should be placed in its own file in the problems directory
     \begin{question}
     Compute &#36;1 + 1&#36;.
     \end{question}
-    
+
     \begin{comment}
     This is an optional comment.
     \end{comment}
-    
+
     \begin{answer}
     &#36;2&#36;
     \end{answer}
-    
+
     \begin{solution}
     &#36;1 + 1 = \ans{2}&#36;.
     \end{solution}
-    
+
     \problemend
 
 The argument to `\ques` indicates which test the problem belongs in: Gen, Alg, Geo, AT, Calc, Team, or Fun. Omit the argument to leave the problem unsorted.
@@ -242,21 +242,21 @@ If a problem has multiple solutions, each solution should be in a separate `\beg
     \begin{question}
     Compute &#36;1 + 1&#36;.
     \end{question}
-    
+
     \begin{answer}
     &#36;2&#36;
     \end{answer}
-    
+
     \begin{solution*}
     \soln{1}
     Trivial.
     \end{solution*}
-    
+
     \begin{solution*}
     \soln{2}
     Obvious.
     \end{solution*}
-    
+
     \problemend
 
 ## Making tests
