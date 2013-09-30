@@ -2,7 +2,7 @@
 
 This page has information on problem writing resources and instructions for the technical aspects of problem writing, including for installing LaTeX, setting up the Git problem writing repository, and using the repository.
 
-If you need help with LaTeX, Git, or any of the other technology we're using, just ask us. Moor is currently the (temporary) primary contact for technical help.
+If you need help with LaTeX, Git, or any of the other technology we're using, just ask us. [Eddy](ejdai@stanford.edu) is currently the (temporary) primary contact for technical help.
 
 # General information
 
@@ -32,7 +32,7 @@ of guidelines on the balance of topics and difficulties we aim for.
 
 Some of our more experienced problem writers have put together some tips on [how to write an original problem](/smt/problem-writing/how-to-write.html). If you're feeling nervous or uninspired, take a look! Remember that we need problems at all levels of difficulty, and whatever you can come up with is very much welcome.
 
-<!--If you are at Stanford, you can easily view the problem writing repository without any setup from our online WebAuth-protected site. Most Stanford problem writers should already have access; if you don't, let us know and we'll add you (contact Moor). Note: this online copy of the repository is usually updated within a few hours, but it may not always be regularly updated. You can check the timestamp on the LAST_UPDATED file to see when the last successful update was.-->
+<!--If you are at Stanford, you can easily view the problem writing repository without any setup from our online WebAuth-protected site. Most Stanford problem writers should already have access; if you don't, let us know and we'll add you (contact Eddy). Note: this online copy of the repository is usually updated within a few hours, but it may not always be regularly updated. You can check the timestamp on the LAST_UPDATED file to see when the last successful update was.-->
 
 *Obvious but extremely important warning:* the SMT repository contains sensitive materials, including problems and power round topics, so you must keep it private. **Do not communicate any information whatsoever about the problems except to another SMT problem-writer.** Security is crucial to our ability to run a fair and enjoyable tournament for our students.
 
@@ -107,7 +107,7 @@ Open a terminal for the next configuration steps. (If you're using msysgit on Wi
 
 2.  Open the file where the previous command said it had stored your public key. By default, this is located at `~/.ssh/id_rsa.pub`, or on Windows, this is probably in your My Documents folder at `C:\Documents and Settings\<your user name>\.ssh\id_rsa.pub` or `C:\Users\<your user name>\Documents\.ssh\id_rsa.pub`.
 
-    Copy and paste the contents of the public key file **id_rsa.pub** (NOT the id_rsa file, which is your private key) and send it to Moor to get access to the repository. You will not be able to clone or otherwise access the repository until we have added your public key.
+    Copy and paste the contents of the public key file **id_rsa.pub** (NOT the  id_rsa file, which is your private key) and send it to [Eddy](ejdai@stanfor.dedu) to get access to the repository. You will not be able to clone or otherwise access the repository until we have added your public key.
 
     The id_rsa.pub file is just a plain text file. You can run `cat ~/.ssh/id_rsa.pub` at the command prompt, or open it any text editor (e.g. Notepad). If you're on Windows and you have difficulty opening it, you can copy it to `id_rsa.pub.txt` and open that.
 
