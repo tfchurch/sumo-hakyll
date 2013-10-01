@@ -19,7 +19,7 @@ Payment should be mailed to:
  Stanford, CA 94309 
 
 ###Optional Purchases###
-Teams can optionally purchase pizza and soda for lunch and SMT shirts. These can be ordered in the registration form. Pizzas are $11 each. Sodas are $0.75 per can. Shirts are $10 each.
+Teams can optionally purchase pizza and soda for lunch and SMT shirts. These can be ordered in the registration form. Pizzas are &#36;11 each. Sodas are &$36;0.75 per can. Shirts are &#36;10 each.
 
 Since we must order the food and shirts in advance of the contest, you may not place or change shirt orders after the registration deadline, and you may not place or change food orders after January 28. 
 
