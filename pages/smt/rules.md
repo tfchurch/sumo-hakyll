@@ -12,9 +12,9 @@ Teams may pay by check, made payable to the Stanford University Mathematical Org
 
 Payment should be mailed to:
 
-** Stanford University Mathematical Organization
+ Stanford University Mathematical Organization
  P.O. Box 20141
- Stanford, CA 94309 **
+ Stanford, CA 94309 
 
 ###Optional Purchases###
 Teams can optionally purchase pizza and soda for lunch and SMT shirts. These can be ordered in the registration form. Pizzas are $11 each. Sodas are $0.75 per can. Shirts are $10 each.
