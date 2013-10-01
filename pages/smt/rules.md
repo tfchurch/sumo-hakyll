@@ -19,7 +19,7 @@ Payment should be mailed to:
 ###Optional Purchases###
 Teams can optionally purchase pizza and soda for lunch and SMT shirts. These can be ordered in the registration form. Pizzas are &#36;11 each. Sodas are &#36;0.75 per can. Shirts are &#36;10 each.
 
-Since we must order the food and shirts in advance of the contest, you may not place or change shirt orders after the registration deadline, and you may not place or change food orders after January 28. 
+Since we must order the food and shirts in advance of the contest, you may not place or change shirt orders after the registration deadline, and you may not place or change food orders after February 10. 
 
 ###Editing Registration Information###
 All registration information may be changed freely until the registration deadline. The names of contestants, individual test selections, and all other information that does not affect payment may be changed freely until the day of the contest.
