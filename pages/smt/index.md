@@ -17,9 +17,6 @@ $end$
 
 # Register for SMT 2014 {#register}
 
-*Registration officially opens on **October 1st, 2013**. Check back here after
-that date for a link to the registration site!*
-
 The registration deadline is on 11:59 PM Pacific time on **January 21st**, and
 the payment deadline is on **January 23rd**. Payment must be postmarked by the
 payment deadline. Registration is still possible after the deadline, but will
@@ -27,9 +24,9 @@ be subject to availability and a late fee.
 
 We will send email confirmation upon submitting registration and upon receiving payment.
 
-<!--You can register and find more information at the link below.-->
+You can register and find more information at the link below.
 
-<!--!!!largebutton [Register for SMT 2014!](http://example.com)-->
+!!!largebutton [Register for SMT 2014!](http://smt.stanford.edu)
 
 # About SMT
 
