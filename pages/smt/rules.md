@@ -3,7 +3,7 @@ The Stanford Math Tournament consists of an individual contest portion and an ov
 
 #Registration
 ###Deadline and Fees###
-The registration deadline is on 11:59 PM Pacific time on **January 21st**, and the payment deadline is on **January 23rd**. The fee for registering teams before the registration deadline is **$10 per person**. 
+The registration deadline is on 11:59 PM Pacific time on **January 21st**, and the payment deadline is on **January 23rd**. The fee for registering teams before the registration deadline is $10 per person. 
 
 If a team misses the registration deadline or the payment is late, the team must pay the late registration fee of $15 per person. The late registration deadline is on **February 3rd**, and hte late payment deadline is on **February 5th**. 
 
