@@ -13,7 +13,9 @@ Teams may pay by check, made payable to the Stanford University Mathematical Org
 Payment should be mailed to:
 
  Stanford University Mathematical Organization
+ 
  P.O. Box 20141
+ 
  Stanford, CA 94309 
 
 ###Optional Purchases###
