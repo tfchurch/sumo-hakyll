@@ -26,7 +26,7 @@ We will send email confirmation upon submitting registration and upon receiving 
 
 You can register and find more information at the link below.
 
-!!!largebutton [Register for SMT 2014!](http://smt.stanford.edu)
+!!!largebutton [Register for SMT 2014!](http://sumo.stanford.edu/smt/registration)
 
 # About SMT
 
