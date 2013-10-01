@@ -25,8 +25,7 @@ the payment deadline is on **January 23rd**. Payment must be postmarked by the
 payment deadline. Registration is still possible after the deadline, but will
 be subject to availability and a late fee.
 
-We will send email confirmation of registration submissions and receivement of
-payment.
+We will send email confirmation upon submitting registration and upon receiving payment.
 
 <!--You can register and find more information at the link below.-->
 
