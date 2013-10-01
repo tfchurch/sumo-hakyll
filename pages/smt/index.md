@@ -2,6 +2,10 @@
 
 $row$
 $halfbox$
+$onlymobile$
+![](/images/smtbanner.png)
+$end$
+
 The Stanford Math Tournament (SMT) is an annual student-run math competition
 for high school students held at Stanford University. SMT aims to encourage
 interest in math by providing students from around the world an opportunity to
@@ -11,22 +15,28 @@ math.
 SMT 2014 will run on **Saturday, February 15, 2014**.
 $end$
 $halfbox$
+$nomobile$
 ![SMT](/images/smtbanner.png)
+$end$
 $end$
 $end$
 
 # Register for SMT 2014 {#register}
 
-The registration deadline is on 11:59 PM Pacific time on **January 21st**, and
-the payment deadline is on **January 23rd**. Payment must be postmarked by the
-payment deadline. Registration is still possible after the deadline, but will
-be subject to availability and a late fee.
-
-We will send email confirmation upon submitting registration and upon receiving payment.
-
-You can register and find more information at the link below.
-
 !!!largebutton [Register for SMT 2014!](http://sumo.stanford.edu/smt/registration)
+
+The registration deadline is on 11:59 PM Pacific time on **January
+21st**, and the payment deadline is on **January 23rd**. Payment must
+be postmarked by the payment deadline. Registration is still possible
+after the deadline, but will be subject to availability and a late
+fee.
+
+We will send email confirmation upon submitting registration and upon
+receiving payment.
+
+Full registration rules and information can be found on our [rules
+page](/smt/rules.html).
+
 
 # About SMT
 
