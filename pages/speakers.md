@@ -23,7 +23,7 @@ Raymond Wu at wur911@stanford.edu.
 |-|-|-|
 |September 26|Professor Christelle Vincent|[The integers vs. polynomials over a finite field: Who wins?](/pdfs/speakers/sept26.pdf)|
 |October 3|Professor Daniel Kane|[Dropping Lowest Grades](/pdfs/speakers/oct3.pdf)|
-|October 10|Professor Satyan Devadoss|-|
+|October 10|Professor Satyan Devadoss (Williams College)|[Robot Motion Planning](/pdfs/speakers/oct10.pdf)|
 |October 17|Professor Brian Conrad|The projective plane|
 |October 24|Professor Greg Brumfiel|-|
 |October 31|Professor Hilaf Hasson|-|
