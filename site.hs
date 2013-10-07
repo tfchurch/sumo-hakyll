@@ -57,22 +57,30 @@ prettifyTables source = subRegex (mkRegex "<table>") source
                           "<table class=\"table\">"
 
 pandocProcessor :: Pandoc -> Pandoc
-pandocProcessor = bottomUp replaceWithButton
+pandocProcessor = bottomUp replaceWithButtonBlock
 
-replaceWithButton :: Block -> Block
-replaceWithButton (Para ((Str "!!!smallbutton"):_:link:_)) =
-  let (Link text dest) = link
+replaceWithButtonBlock :: Block -> Block
+replaceWithButtonBlock (Para inlines) = Para $ replaceWithButton inlines
+replaceWithButtonBlock b = b
+
+replaceWithButton :: [Inline] -> [Inline]
+replaceWithButton ((Str "!!!smallbutton"):_:links) =
+  let link = head links
+      rest = drop 2 links
+      (Link text dest) = link
       openTag = RawInline "html"
         [qc|<a class="btn btn-primary" href={fst dest}>|]
       closeTag = RawInline "html" "</a>"
-  in Para $ openTag : text ++ [closeTag]
-replaceWithButton (Para ((Str "!!!largebutton"):_:link:_)) =
-  let (Link text dest) = link
+  in openTag : text ++ [closeTag] ++ [Space] ++ replaceWithButton rest
+replaceWithButton ((Str "!!!largebutton"):_:links) =
+  let link = head links
+      rest = drop 2 links
+      (Link text dest) = link
       openTag = RawInline "html"
         [qc|<a class="btn btn-primary btn-lg" href={fst dest}>|]
       closeTag = RawInline "html" "</a>"
-  in Para $ openTag : text ++ [closeTag]
-replaceWithButton b = b
+  in openTag : text ++ [closeTag] ++ [Space] ++ replaceWithButton rest
+replaceWithButton is = is
 
 sidenavContext :: [Block] -> Context String
 sidenavContext headers = constField "sidenavcontent" pandocStr

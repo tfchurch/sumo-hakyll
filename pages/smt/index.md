@@ -197,7 +197,8 @@ $halfbox$
 $end$
 $end$
 
-!!!smallbutton [View results from SMT 2013](/smt/results2013.html)
+!!!smallbutton [View results](/smt/2013/results.html)
+!!!smallbutton [View coordinators](/smt/2013/coordinators.html)
 
 ## SMT 2012
 
@@ -227,6 +228,8 @@ $halfbox$
 $end$
 $end$
 
+!!!smallbutton [View coordinators](/smt/2012/coordinators.html)
+
 ## SMT 2011
 
 ### Tests
@@ -243,7 +246,10 @@ $halfbox$
 |General|[Problems](/pdfs/smt2011/general-problems.pdf)|[Solutions](/pdfs/smt2011/team-solutions.pdf)|
 $end$
 $halfbox$
+
 $end$
 $end$
+
+!!!smallbutton [View coordinators](/smt/2011/coordinators.html)
 
 If you are missing some information that was on our old site but is not here on this page, you can view the old SMT home page [here](/old/smt).
