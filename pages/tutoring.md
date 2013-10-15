@@ -29,5 +29,9 @@ through Dead Week.
 
 If you are unclear as to whether there will be tutoring on a particular day or
 have any other questions, please e-mail Eddy Dai (ejdai@stanford.edu).
+
+## Linear Algebra Notes
+One of our tutors wrote a supplement to the Math 51 textbook and lectures. They
+can be found [here](/pdfs/LinearAlgebraNotes.pdf).
 $end$
 $end$
