@@ -25,7 +25,7 @@ Raymond Wu at wur911@stanford.edu.
 |October 3|Professor Daniel Kane|[Dropping Lowest Grades](/pdfs/speakers/oct3.pdf)|
 |October 10|Professor Satyan Devadoss (Williams College)|[Robot Motion Planning](/pdfs/speakers/oct10.pdf)|
 |October 17|Professor Brian Conrad|[The projective plane](/pdfs/speakers/oct17.pdf)|
-|October 24|Professor Greg Brumfiel|-|
+|October 24|Professor Greg Brumfiel|[Linear fractional Transformations](/pdfs/speakers/oct24.pdf)|
 |October 31|Professor Hilaf Hasson|-|
 |November 7|Daniel Litt|-|
 |November 14|Professor Georg Menz|-|
