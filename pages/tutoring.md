@@ -3,8 +3,8 @@
 $row$
 $halfbox$
 ## About
-SUMO provides students tutors for the Math 50s series classes, available to
-answer question about any of the three classes in the series. Our tutors can
+SUMO provides student tutors for the Math 50s series classes who are available
+to answer questions about any of the three classes in the series. Our tutors can
 help you with homework questions or review the material covered in class.
 
 No apointment is required to attend tutoring; just show up and our tutors will
