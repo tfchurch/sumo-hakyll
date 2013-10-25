@@ -26,7 +26,7 @@ Raymond Wu at wur911@stanford.edu.
 |October 10|Professor Satyan Devadoss (Williams College)|[Robot Motion Planning](/pdfs/speakers/oct10.pdf)|
 |October 17|Professor Brian Conrad|[The projective plane](/pdfs/speakers/oct17.pdf)|
 |October 24|Professor Greg Brumfiel|[Linear Fractional Transformations](/pdfs/speakers/oct24.pdf)|
-|October 31|Professor Hilaf Hasson|-|
+|October 31|Professor Hilaf Hasson|[To what extent does what you can prove about your model determine your model?](/pdfs/speakers/oct31.pdf)|
 |November 7|Daniel Litt|-|
 |November 14|Professor Georg Menz|-|
 |November 21|Professor Sheel Ganatra|-|
