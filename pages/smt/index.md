@@ -182,7 +182,7 @@ $halfbox$
 |Algebra|[Problems](/pdfs/smt2013/algebra-problems.pdf)|[Solutions](/pdfs/smt2013/algebra-solutions.pdf)|
 |Calculus|[Problems](/pdfs/smt2013/calculus-problems.pdf)|[Solutions](/pdfs/smt2013/calculus-solutions.pdf)|
 |Geometry|[Problems](/pdfs/smt2013/geometry-problems.pdf)|[Solutions](/pdfs/smt2013/geometry-solutions.pdf)|
-|General|[Problems](/pdfs/smt2013/general-problems.pdf)|[Solutions](/pdfs/smt2013/team-solutions.pdf)|
+|General|[Problems](/pdfs/smt2013/general-problems.pdf)|[Solutions](/pdfs/smt2013/general-solutions.pdf)|
 $end$
 
 $halfbox$
@@ -193,7 +193,7 @@ $halfbox$
 |Algebra|[Problems](/pdfs/smt2013/algebra-tiebreaker-problems.pdf)|[Solutions](/pdfs/smt2013/algebra-tiebreaker-solutions.pdf)|
 |Calculus|[Problems](/pdfs/smt2013/calculus-tiebreaker-problems.pdf)|[Solutions](/pdfs/smt2013/calculus-tiebreaker-solutions.pdf)|
 |Geometry|[Problems](/pdfs/smt2013/geometry-tiebreaker-problems.pdf)|[Solutions](/pdfs/smt2013/geometry-tiebreaker-solutions.pdf)|
-|General|[Problems](/pdfs/smt2013/general-tiebreaker-problems.pdf)|[Solutions](/pdfs/smt2013/team-tiebreaker-solutions.pdf)|
+|General|[Problems](/pdfs/smt2013/general-tiebreaker-problems.pdf)|[Solutions](/pdfs/smt2013/general-tiebreaker-solutions.pdf)|
 $end$
 $end$
 
@@ -213,7 +213,7 @@ $halfbox$
 |Algebra|[Problems](/pdfs/smt2012/algebra-problems.pdf)|[Solutions](/pdfs/smt2012/algebra-solutions.pdf)|
 |Calculus|[Problems](/pdfs/smt2012/calculus-problems.pdf)|[Solutions](/pdfs/smt2012/calculus-solutions.pdf)|
 |Geometry|[Problems](/pdfs/smt2012/geometry-problems.pdf)|[Solutions](/pdfs/smt2012/geometry-solutions.pdf)|
-|General|[Problems](/pdfs/smt2012/general-problems.pdf)|[Solutions](/pdfs/smt2012/team-solutions.pdf)|
+|General|[Problems](/pdfs/smt2012/general-problems.pdf)|[Solutions](/pdfs/smt2012/general-solutions.pdf)|
 $end$
 
 $halfbox$
@@ -224,7 +224,7 @@ $halfbox$
 |Algebra|[Problems](/pdfs/smt2012/algebra-tiebreaker-problems.pdf)|[Solutions](/pdfs/smt2012/algebra-tiebreaker-solutions.pdf)|
 |Calculus|[Problems](/pdfs/smt2012/calculus-tiebreaker-problems.pdf)|[Solutions](/pdfs/smt2012/calculus-tiebreaker-solutions.pdf)|
 |Geometry|[Problems](/pdfs/smt2012/geometry-tiebreaker-problems.pdf)|[Solutions](/pdfs/smt2012/geometry-tiebreaker-solutions.pdf)|
-|General|[Problems](/pdfs/smt2012/general-tiebreaker-problems.pdf)|[Solutions](/pdfs/smt2012/team-tiebreaker-solutions.pdf)|
+|General|[Problems](/pdfs/smt2012/general-tiebreaker-problems.pdf)|[Solutions](/pdfs/smt2012/general-tiebreaker-solutions.pdf)|
 $end$
 $end$
 
@@ -243,7 +243,7 @@ $halfbox$
 |Algebra|[Problems](/pdfs/smt2011/algebra-problems.pdf)|[Solutions](/pdfs/smt2011/algebra-solutions.pdf)|
 |Calculus|[Problems](/pdfs/smt2011/calculus-problems.pdf)|[Solutions](/pdfs/smt2011/calculus-solutions.pdf)|
 |Geometry|[Problems](/pdfs/smt2011/geometry-problems.pdf)|[Solutions](/pdfs/smt2011/geometry-solutions.pdf)|
-|General|[Problems](/pdfs/smt2011/general-problems.pdf)|[Solutions](/pdfs/smt2011/team-solutions.pdf)|
+|General|[Problems](/pdfs/smt2011/general-problems.pdf)|[Solutions](/pdfs/smt2011/general-solutions.pdf)|
 $end$
 $halfbox$
 
