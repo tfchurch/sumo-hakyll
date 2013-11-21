@@ -29,7 +29,7 @@ Raymond Wu at wur911@stanford.edu.
 |October 31|Professor Hilaf Hasson|[To what extent does what you can prove about your model determine your model?](/pdfs/speakers/oct31.pdf)|
 |November 7|Daniel Litt|[The Music of the Spheres](/pdfs/speakers/nov7.pdf)|
 |November 14|<b>No Talk! (Cancelled)</b>||
-|November 21|Professor Sheel Ganatra|-|
+|November 21|Professor Sheel Ganatra|[Positive-definite integral quadratic forms and the 15 theorem](/pdfs/speakers/nov21.pdf)|
 |November 28|<b>No talk! (Thanksgiving Break)</b>|-|
 |December 5|Professor Zhiwei Yun|-|
 
