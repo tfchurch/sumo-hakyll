@@ -35,9 +35,9 @@ Raymond Wu at wur911@stanford.edu.
 
 ##Winter 2014
 |-|-|-|
-|January 9|-|-|
+|January 9|Professor Kannan Soundararajan|TBA|
 |January 16|-|-|
-|January 23|-|-|
+|January 23|Professor Tom Church|TBA|
 |January 30|-|-|
 |February 6|-|-|
 |February 13|-|-|
