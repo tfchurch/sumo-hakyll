@@ -143,6 +143,9 @@ $end$
 <!--We've also created a page about various mathematical opportunities, including a
 lot of summer programs.-->
 
+We would like to thank [our sponsors](/sponsors.html) for making events like the Stanford Math
+Tournament possible.
+
 If you would like to receive SUMO announcements and notifications about SUMO events:
 
 :   Click here to [subcribe to our mailing list](https://mailman.stanford.edu/mailman/listinfo/sumo-announce). 
