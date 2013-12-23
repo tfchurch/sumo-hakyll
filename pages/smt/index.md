@@ -19,7 +19,8 @@ $end$
 $end$
 $end$
 
-SMT 2014 will run on **Saturday, February 15, 2014**. Support for SMT is generously provided by [our sponsors](/sponsors.html), the D. E. Shaw group and Jane Street.
+SMT 2014 will run on **Saturday, February 15, 2014**. Support for SMT is
+generously provided by [our sponsors](/sponsors.html).
 
 # Register for SMT 2014 {#register}
 
