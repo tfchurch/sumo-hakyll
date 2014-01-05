@@ -35,7 +35,7 @@ Raymond Wu at wur911@stanford.edu.
 
 ##Winter 2014
 |-|-|-|
-|January 9|Professor Kannan Soundararajan|TBA|
+|January 9|Professor Kannan Soundararajan|[The Multiplication Table Problem](/pdfs/speakers/jan9.pdf)|
 |January 16|-|-|
 |January 23|Professor Tom Church|TBA|
 |January 30|-|-|
