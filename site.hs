@@ -1,6 +1,7 @@
 {-# LANGUAGE OverloadedStrings, QuasiQuotes #-}
 --------------------------------------------------------------------------------
 import Data.Monoid (mconcat, (<>))
+import qualified Data.Map as M
 import Control.Applicative
 import Hakyll
 import Text.Regex
@@ -93,7 +94,7 @@ sidenavContext headers = constField "sidenavcontent" pandocStr
     headerToLi (Header 1 (headerId, _, _) text) = Plain 
       [Link text ('#':headerId, "")]
     headerToLi _ = Null
-    pandocStr = itemBody $ writePandoc $ Item "" $ Pandoc (Meta [] [] []) 
+    pandocStr = itemBody $ writePandoc $ Item "" $ Pandoc (Meta M.empty) 
       [BulletList $ map pure $ filter notNull $ map headerToLi headers]
     notNull Null = False
     notNull _ = True
