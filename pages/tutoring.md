@@ -7,7 +7,7 @@ SUMO provides student tutors for the Math 50s series classes who are available
 to answer questions about any of the three classes in the series. Our tutors can
 help you with homework questions or review the material covered in class.
 
-No apointment is required to attend tutoring; just show up and our tutors will
+No appointment is required to attend tutoring; just show up and our tutors will
 help you out. You don't even need to have questions beforehand; many students
 work on their 50s homework during tutoring, asking questions when they encounter
 difficulties.
