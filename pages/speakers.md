@@ -41,7 +41,7 @@ Raymond Wu at wur911@stanford.edu.
 |January 30|-|-|
 |February 6|Daniel Alvarez-Gavela|The Hairy Ball Theorem|
 |February 13|Otis Chodosh|TBA|
-|February 20|Nancy Rodriguez|TBA|
+|February 20|Nancy Rodriguez|Using mathematics to explore the phenomenon of social segregation|
 |February 27|-|-|
 |March 6|-|-|
 |March 13|-|-|
