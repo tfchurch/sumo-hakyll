@@ -5,7 +5,6 @@ sponsors for their support in making our events possible.
 
 $row$
 $halfbox$
-If we can get a logo.
 [![](/images/StanfordMath-logo.png)](http://math.stanford.edu)
 [Stanford University Department of Mathematics](http://math.stanford.edu)
 $end$
