@@ -36,12 +36,12 @@ Raymond Wu at wur911@stanford.edu.
 ##Winter 2014
 |-|-|-|
 |January 9|Professor Kannan Soundararajan|[The Multiplication Table Problem](/pdfs/speakers/jan9.pdf)|
-|January 16|-|-|
-|January 23|Professor Tom Church|TBA|
+|January 16|Professor Daniel Bump|[Combinatorial Games](/pdfs/speakers/jan16.pdf)|
+|January 23|Professor Tom Church|Braids, permutations, and squarefree permutations|
 |January 30|-|-|
-|February 6|-|-|
-|February 13|-|-|
-|February 20|-|-|
+|February 6|Daniel Alvarez-Gavela|The Hairy Ball Theorem|
+|February 13|Otis Chodosh|TBA|
+|February 20|Nancy Rodriguez|TBA|
 |February 27|-|-|
 |March 6|-|-|
 |March 13|-|-|
