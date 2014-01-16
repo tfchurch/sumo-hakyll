@@ -19,8 +19,7 @@ $end$
 $end$
 $end$
 
-SMT 2014 will run on **Saturday, February 15, 2014**. Support for SMT is
-generously provided by [our sponsors](/sponsors.html).
+SMT 2014 will run on **Saturday, February 15, 2014**.
 
 # Register for SMT 2014 {#register}
 

@@ -6,10 +6,11 @@ sponsors for their support in making our events possible.
 $row$
 $halfbox$
 If we can get a logo.
+[![](/images/StanfordMath-logo.png)](http://math.stanford.edu)
 [Stanford University Department of Mathematics](http://math.stanford.edu)
 $end$
 $halfbox$
-[![](/images/DEshaw-logo.jpg)](http://www.deshaw.com)
+[![](/images/DEShaw-logo.png)](http://deshaw.com)
 [The D. E. Shaw Group](http://www.deshaw.com)
 $end$
 $end$
@@ -18,7 +19,7 @@ $end$
 
 $row$
 $halfbox$
-[![](/images/JaneStreet-logo.jpg)](http://janestreet.com)
+[![](/images/JaneStreet-logo.png)](http://janestreet.com)
 [Jane Street Capital](http://janestreet.com)
 $end$
 $halfbox$
