@@ -13,7 +13,7 @@ the registration deadline, but is subject to further availability constraints an
 late fees.
 
 ###Payment###
-Teams may pay by check, made payable to the Stanford Uneversity Mathematical Organization, or cash.
+Teams may pay by check, made payable to the Stanford University Mathematical Organization, or cash.
 
 Payment must be postmarked by the payment deadline, and should be mailed to:
 
