@@ -25,11 +25,14 @@ SMT 2014 will run on **Saturday, February 15, 2014**.
 
 !!!largebutton [Register for SMT 2014!](http://sumo.stanford.edu/smt/registration)
 
-The registration deadline is on 11:59 PM Pacific time on **January
-21st**, and the payment deadline is on **January 23rd**. Payment must
-be postmarked by the payment deadline. Registration is still possible
-after the deadline, but will be subject to availability and a late
-fee.
+The regular registration deadline and payment deadline have passed. However, if
+you are still interested in participating, late registration is still available
+until 11:59 PM Pacific time on **February 3rd**. The corresponding payment
+deadline for late registration is **Feburary 5th**. Payment must be postmarked
+by the payment deadline. Note that there is late fee for late registration.
+
+Registration may still be possible after the late deadline, but will be subject
+to further availability constraints and late fees.
 
 We will send email confirmation upon submitting registration and upon
 receiving payment.

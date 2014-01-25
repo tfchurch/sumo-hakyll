@@ -3,12 +3,19 @@ The Stanford Math Tournament consists of an individual contest portion and an ov
 
 #Registration
 ###Deadline and Fees###
-The registration deadline is on 11:59 PM Pacific time on **January 21st**, and the payment deadline is on **January 23rd**. The fee for registering teams before the registration deadline is &#36;10 per person. Registration may still be available after the registration deadline, but is subject to availability and a late fee. 
+The regular registration deadline and payment deadline have passed. However, if
+you are still interested in participating, we are offering late registartion.
+
+The late registration deadline is on 11:59 PM Pacific time on **February 3rd**,
+and the late payment deadline is on **February 5th**. The fee for late
+registration is &#36;15 per person. Registration may still be available after
+the registration deadline, but is subject to further availability constraints and
+late fees.
 
 ###Payment###
-Teams may pay by check, made payable to the Stanford University Mathematical Organization, or cash.
+Teams may pay by check, made payable to the Stanford Uneversity Mathematical Organization, or cash.
 
-Payment should be mailed to:
+Payment must be postmarked by the payment deadline, and should be mailed to:
 
 Stanford University Mathematical Organization  
 P.O. Box 20141  
@@ -17,7 +24,9 @@ Stanford, CA 94309
 ###Optional Purchases###
 Teams can optionally purchase pizza and soda for lunch and SMT shirts. These can be ordered in the registration form. Pizzas are &#36;11 each. Sodas are &#36;0.75 per can. Shirts are &#36;10 each.
 
-Since we must order the food and shirts in advance of the contest, you may not place or change shirt orders after the registration deadline, and you may not place or change food orders after February 10. 
+Please note that shirt orders are now closed; however, we will have a limited
+number of shirts available for sale at the tournament. You may continue to place
+or change food orders until February 10th.
 
 ###Editing Registration Information###
 All registration information may be changed freely until the registration deadline. The names of contestants, individual test selections, and all other information that does not affect payment may be changed freely until the day of the contest.
