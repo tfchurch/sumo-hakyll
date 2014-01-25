@@ -28,7 +28,7 @@ SMT 2014 will run on **Saturday, February 15, 2014**.
 The regular registration and payment deadlines have passed. However, if
 you are still interested in participating, late registration is still available
 until 11:59 PM Pacific time on **February 3rd**. The corresponding payment
-deadline for late registration is **Feburary 5th**. Payment must be postmarked
+deadline for late registration is **February 5th**. Payment must be postmarked
 by the payment deadline. Note that there is late fee for late registration.
 
 Registration may still be possible after the late deadline, but will be subject

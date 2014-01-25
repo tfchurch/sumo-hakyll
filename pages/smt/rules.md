@@ -4,7 +4,7 @@ The Stanford Math Tournament consists of an individual contest portion and an ov
 #Registration
 ###Deadline and Fees###
 The regular registration deadline and payment deadline have passed. However, if
-you are still interested in participating, we are offering late registartion.
+you are still interested in participating, we are offering late registration.
 
 The late registration deadline is on 11:59 PM Pacific time on **February 3rd**,
 and the late payment deadline is on **February 5th**. The fee for late
