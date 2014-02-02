@@ -108,7 +108,7 @@ SMT 2014 will run on Saturday, February 15, 2014.
 |2:20-3:20|Team Round|
 |-|Passing period|
 |3:50-4:50|Speaker and Tiebreakers|
-|5:00-5:30|Puzzles and Tiebreakers|
+|5:00-5:30|Break Time|
 |5:30-6:00|Awards|
 
  
