@@ -1,5 +1,10 @@
 # Stanford Math Tournament Rules {.title}
-The Stanford Math Tournament consists of an individual contest portion and an overall team contest between teams of up to eight students. Students take two individual subject tests in the areas of Advanced Topics, Algebra, Calculus, and Geometry. Alternatively, less experienced students may choose to take a single, longer General Test. Teams participate in a Team Test and a Power Round, a multi-part proof-oriented test.
+The Stanford Math Tournament consists of an individual contest portion and an
+overall team contest between teams of up to eight students. Students take two
+individual subject tests in the areas of Advanced Topics, Algebra, Calculus, and
+Geometry. Alternatively, less experienced students may choose to take a single,
+longer General Test. Teams participate in a Team Test and a Power Round, a
+multi-part proof-oriented test.
 
 #Registration
 ###Deadline and Fees###
@@ -22,50 +27,88 @@ P.O. Box 20141
 Stanford, CA 94309
 
 ###Optional Purchases###
-Teams can optionally purchase pizza and soda for lunch and SMT shirts. These can be ordered in the registration form. Pizzas are &#36;11 each. Sodas are &#36;0.75 per can. Shirts are &#36;10 each.
+Teams can optionally purchase pizza and soda for lunch and SMT shirts. These can
+be ordered in the registration form. Pizzas are &#36;11 each. Sodas are
+&#36;0.75 per can. Shirts are &#36;10 each.
 
 Please note that shirt orders are now closed; however, we will have a limited
 number of shirts available for sale at the tournament. You may continue to place
 or change food orders until February 10th.
 
 ###Editing Registration Information###
-All registration information may be changed freely until the registration deadline. The names of contestants, individual test selections, and all other information that does not affect payment may be changed freely until the day of the contest.
+All registration information may be changed freely until the registration
+deadline. The names of contestants, individual test selections, and all other
+information that does not affect payment may be changed freely until the day of
+the contest.
 
-Adding additional team members will be subject to availability and a late fee for each additional person if the changes are submitted after the registration deadline or the additional payment is sent after the payment deadline. Changes to shirt or food orders cannot be made after the corresponding deadline. We cannot give refunds for changes made after the registration deadline. 
+Adding additional team members will be subject to availability and a late fee
+for each additional person if the changes are submitted after the registration
+deadline or the additional payment is sent after the payment deadline. Changes
+to shirt or food orders cannot be made after the corresponding deadline. We
+cannot give refunds for changes made after the registration deadline. 
 
 
 
 
 #Testing
 ###Team Portion
-The entire team will collaborate to complete the Team Test and the Power Round. Teams may not collaborate with each other.
+The entire team will collaborate to complete the Team Test and the Power Round.
+Teams may not collaborate with each other.
 
-The **Team Test** is a 50-minute exam consisting of 15 short answer questions, testing material from all areas of high school mathematics.
+The **Team Test** is a 50-minute exam consisting of 15 short answer questions,
+testing material from all areas of high school mathematics.
 
-The **Power Round** is a 90-minute, multi-part, proof-oriented test. It focuses on a single topic that will be revealed and introduced at the beginning of the test. 
+The **Power Round** is a 90-minute, multi-part, proof-oriented test. It focuses
+on a single topic that will be revealed and introduced at the beginning of the
+test. 
 
 ###Individual Portion
-Students may choose to take two Subject Tests or take the longer General Test. Students may not collaborate with each other on the individual tests.
+Students may choose to take two Subject Tests or take the longer General Test.
+Students may not collaborate with each other on the individual tests.
 
-The **Subject Tests** are 50-minute individual exams consisting of 10 short answer questions. The subjects offered are Advanced Topics, Algebra, Calculus, and Geometry. The Advanced Topics test covers probability, number theory, and combinatorics.
+The **Subject Tests** are 50-minute individual exams consisting of 10 short
+answer questions. The subjects offered are Advanced Topics, Algebra, Calculus,
+and Geometry. The Advanced Topics test covers probability, number theory, and
+combinatorics.
 
-The **General Test** is a 110-minute test that is designed for students with less mathematical background. It is held at the same time as the subject area tests and contains 25 short answer questions. 
+The **General Test** is a 110-minute test that is designed for students with
+less mathematical background. It is held at the same time as the subject area
+tests and contains 25 short answer questions. 
 
 ###Tiebreakers
-Anyone tied for a top three position on an individual test will qualify for a tiebreaker. The tiebreaker will consist of three problems in the appropriate subject area and will last for 15 minutes. Participants submit answers to the problems as they solve them, and may answer the problems in any order. Participants will not be informed whether they submitted a correct answer until the end of the tiebreaker. Participants may submit multiple times for any of the problems, but only the last submission for a given problem will be graded.
+Anyone tied for a top three position on an individual test will qualify for a
+tiebreaker. The tiebreaker will consist of three problems in the appropriate
+subject area and will last for 15 minutes. Participants submit answers to the
+problems as they solve them, and may answer the problems in any order.
+Participants will not be informed whether they submitted a correct answer until
+the end of the tiebreaker. Participants may submit multiple times for any of the
+problems, but only the last submission for a given problem will be graded.
 
-Ties are first broken in favor of the participant who answers the most questions correctly. In the event that multiple participants solve the same number of problems, the tie is then broken by the time of the last correct submission: the tie is broken in favor of the participant with the earliest last correct submission.
+Ties are first broken in favor of the participant who answers the most questions
+correctly. In the event that multiple participants solve the same number of
+problems, the tie is then broken by the time of the last correct submission: the
+tie is broken in favor of the participant with the earliest last correct
+submission.
 
-In the unlikely event that a tie for a top three position still stands after the tiebreaker, we may allow the tie to stand, or we may hold a second tiebreaker for the participants that are still tied. The second tiebreaker will consist of one problem in the appropriate subject area. Participants may submit an answer to the problem at any time, and will immediately be told whether the answer was correct or incorrect. Participants may submit multiple times. The tie is broken in favor of the participant that solves the problem earliest. 
+In the unlikely event that a tie for a top three position still stands after the
+tiebreaker, we may allow the tie to stand, or we may hold a second tiebreaker
+for the participants that are still tied. The second tiebreaker will consist of
+one problem in the appropriate subject area. Participants may submit an answer
+to the problem at any time, and will immediately be told whether the answer was
+correct or incorrect. Participants may submit multiple times. The tie is broken
+in favor of the participant that solves the problem earliest. 
 
 ###Mathematical Expectations
-See the [mathematical expectations](/pdfs/mathematical-expectations.pdf) document for guidelines on the topics that may appear on each test.
+See the [mathematical expectations](/pdfs/mathematical-expectations.pdf)
+document for guidelines on the topics that may appear on each test.
 
 ###Common Mathematical Notions
-See the [common mathematical notions](/pdfs/common-mathematical-notions.pdf) document for details on mathematical conventions used at SMT.
+See the [common mathematical notions](/pdfs/common-mathematical-notions.pdf)
+document for details on mathematical conventions used at SMT.
 
 ###Acceptable Answer Formats
-See the [acceptable answer formats](/pdfs/acceptable-answer-formats.pdf) document for rules on answer simplification.
+See the [acceptable answer formats](/pdfs/acceptable-answer-formats.pdf)
+document for rules on answer simplification.
 
 ###Computational Aids
 The following **may** be used during the contest
@@ -83,15 +126,50 @@ The following **may not** be used during any testing portion of the contest
 
 #Grading
 ###Scoring
-**Coming Soon!**
+Scores on each round are normalized to compensate for differences in difficulty
+between tests.
 
-We are currently in the process of designing the scoring system for SMT 2014. 
+The procedure for score normalization is as follows. For each test, all scores
+are divided by the top ten average, which is the mean of the ten highest scores.
+For individual tests, the normalized scores are then multiplied by 50 for
+subject tests and 50 for the general test to produce a weighted score.  This is
+to make the easier general test worth approximately 50% as much as two subject
+tests. An individual's total contribution to his/her team's overall score is the
+sum of the weighted scores on the two subject tests he/she took, or the weighted
+score on the general test. For the team and power tests, the normalized scores
+are multiplied by 400 to produce a weighted score.
+
+A team's overall score is the sum of the weighted scores on the team test, the
+power test, and all of the team members' individual tests. In this way,
+individual tests will be expected to contribute around 50% of a team's overall
+score, and the team and power tests will each contribute around 25%. The top
+scores on the team, power, and individual tests can be determined using just the
+raw scores, while the final team results will be determined using this weighted
+scoring system.
+
+If your team is not taking the team test, then your overall team score will be
+the same as if your team received a score of zero on the team test. It is highly
+recommended that your team takes the team test in order to maximize your final
+score. The same applies for the power test. Similarly, if an individual only
+takes one subject test (not the general test), then the individual's
+contribution to his/her team's overall score will be the same as if the
+individual received a score of zero on the second subject test.
 
 ###Protests
-At the conclusion of each round of the tournament, answers and solutions for that round will be posted (in the Math Building for the individual tests and the Power Round, and in Hewlett Teaching Center for the Team Test). If a contestant believes that an answer key is incorrect, they must submit a protest form at room 381T in the Math Building, or at Hewlett 200 after the Team Test. Protests on the individual tests must be submitted by 2:30 PM, and protests on the power round and the team test must be submitted by 3:50 PM. Decisions by the SMT coordinators are final. 
+At the conclusion of each round of the tournament, answers and solutions for
+that round will be posted (in the Math Building for the individual tests and the
+Power Round, and in Hewlett Teaching Center for the Team Test). If a contestant
+believes that an answer key is incorrect, they must submit a protest form at
+room 381T in the Math Building, or at Hewlett 200 after the Team Test. Protests
+on the individual tests must be submitted by 2:30 PM, and protests on the power
+round and the team test must be submitted by 3:50 PM. Decisions by the SMT
+coordinators are final. 
 
 #Awards
-Prizes will be awarded to the top three scorers on each individual test, the three highest-scoring teams on the power round, and the top three teams overall. In addition, we will recognize the top ten scorers on each individual test and the top ten percent of teams overall. 
+Prizes will be awarded to the top three scorers on each individual test, the
+three highest-scoring teams on the power round, and the top three teams overall.
+In addition, we will recognize the top ten scorers on each individual test and
+the top ten percent of teams overall. 
 
 #Schedule
 
