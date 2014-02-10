@@ -8,23 +8,26 @@ multi-part proof-oriented test.
 
 #Registration
 ###Deadline and Fees###
-The regular registration deadline and payment deadline have passed. However, if
-you are still interested in participating, we are offering late registration.
-
-The late registration deadline is on 11:59 PM Pacific time on **February 3rd**,
-and the late payment deadline is on **February 5th**. The fee for late
-registration is &#36;15 per person. Registration may still be available after
-the registration deadline, but is subject to further availability constraints and
-late fees.
+The regular and late registration and payment deadlines have passed.  However,
+if you are still interested in participating, you can still register until the
+day of the tournament. The fee for day-of-contest registration is &#36;20 per
+person.
 
 ###Payment###
-Teams may pay by check, made payable to the Stanford University Mathematical Organization, or cash.
+Teams may pay by check, made payable to the Stanford University Mathematical
+Organization, or cash.
 
+If you have not yet mailed your payment, please bring your payment on the day of
+the contest. **Do not mail your payment**, as it may not arrive in time. This
+applies for all registrations, regardless of when made.
+
+<!--
 Payment must be postmarked by the payment deadline, and should be mailed to:
 
 Stanford University Mathematical Organization  
 P.O. Box 20141  
 Stanford, CA 94309
+-->
 
 ###Optional Purchases###
 Teams can optionally purchase pizza and soda for lunch and SMT shirts. These can
