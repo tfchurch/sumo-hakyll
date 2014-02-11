@@ -39,7 +39,7 @@ Raymond Wu at wur911@stanford.edu.
 |January 16|Professor Daniel Bump|[Combinatorial Games](/pdfs/speakers/jan16.pdf)|
 |January 23|Professor Tom Church|[Braids, permutations, and squarefree polynomials](/pdfs/speakers/jan23.pdf)|
 |January 30|No Talk|-|
-|February 6|Daniel Alvarez-Gavela|The Hairy Ball Theorem|
+|February 6|Daniel Alvarez-Gavela|[The Hairy Ball Theorem](/pdfs/speakers/feb6.pdf)|
 |February 13|Otis Chodosh|[Discontinuities in Optimal Maps](/pdfs/speakers/feb13.pdf)|
 |February 20|Nancy Rodriguez|Using mathematics to explore the phenomenon of social segregation|
 |February 27|-|-|
