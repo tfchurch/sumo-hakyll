@@ -3,6 +3,7 @@
 , ("jumbologo", "jumbologo.html")
 , ("row", "row.html")
 , ("halfbox", "halfbox.html")
+, ("centering", "centering.html")
 , ("sidenav", "sidenav.html")
 , ("nomobile", "nomobile.html")
 , ("onlymobile", "onlymobile.html")
