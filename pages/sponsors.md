@@ -12,7 +12,7 @@ $end$
 $end$
 $halfbox$
 $centering$
-[![](/images/DEShaw-logo.png)](http://deshaw.com)
+[![](/images/DEShaw-logo.png)](http://www.deshaw.com)
 [The D. E. Shaw Group](http://www.deshaw.com)
 $end$
 $end$
@@ -27,6 +27,14 @@ $centering$
 [Jane Street Capital](http://janestreet.com)
 $end$
 $end$
+$halfbox$
+$centering$
+[![](/images/wolfram-logo-red.png)](http://www.wolfram.com/)
+[Wolfram Research](http://www.wolfram.com/)
+$end$
+$end$
+$end$
+$row$
 $halfbox$
 $centering$
 [![](/images/aops-logo.png)](http://artofproblemsolving.com)
