@@ -21,6 +21,8 @@ $end$
 
 SMT 2014 will run on **Saturday, February 15, 2014**.
 
+Support for SMT is generously provided by [our sponsors](/sponsors.html).
+
 # Register for SMT 2014 {#register}
 
 !!!largebutton [Register for SMT 2014!](http://sumo.stanford.edu/smt/registration)
