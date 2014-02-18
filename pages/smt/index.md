@@ -29,7 +29,7 @@ tests and solutions, and a list of staff coordinators for SMT 2014.
 !!!largebutton [Tests and Solutions](#previous-tournaments)
 !!!largebutton [Staff Coordinators](/smt/2014/coordinators.html)
 
-<!--# Register for SMT 2014 {#register}-->
+<!--Register for SMT 2014 {#register}-->
 
 <!--!!!largebutton [Register for SMT 2014!](http://sumo.stanford.edu/smt/registration)-->
 
