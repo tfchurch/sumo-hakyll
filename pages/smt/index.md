@@ -205,6 +205,8 @@ $halfbox$
 |Calculus|[Problems](/pdfs/smt2014/calculus-tiebreaker-problems.pdf)|[Solutions](/pdfs/smt2014/calculus-tiebreaker-solutions.pdf)|
 |Geometry|[Problems](/pdfs/smt2014/geometry-tiebreaker-problems.pdf)|[Solutions](/pdfs/smt2014/geometry-tiebreaker-solutions.pdf)|
 |General|[Problems](/pdfs/smt2014/general-tiebreaker-problems.pdf)|[Solutions](/pdfs/smt2014/general-tiebreaker-solutions.pdf)|
+
+[Power Round Bibliography](/pdfs/smt2014/power-bibliography.pdf)
 $end$
 $end$
 
