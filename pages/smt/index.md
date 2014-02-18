@@ -19,28 +19,35 @@ $end$
 $end$
 $end$
 
-SMT 2014 will run on **Saturday, February 15, 2014**.
-
 Support for SMT is generously provided by [our sponsors](/sponsors.html).
 
-# Register for SMT 2014 {#register}
+SMT 2014 ran on **Saturday, February 15, 2014**. Congratulations to the
+winners, and thank you to all who participated! Click the buttons below to view
+results, tests and solutions, and a list of staff coordinators for
+SMT 2014.
 
-!!!largebutton [Register for SMT 2014!](http://sumo.stanford.edu/smt/registration)
+!!!largebutton [Results](/smt/2014/results.html)
+!!!largebutton [Tests and Solutions](#previous-tournaments)
+!!!largebutton [Staff Coordinators](/smt/2014/coordinators.html)
 
-The regular and late registration and payment deadlines have passed. However, if
-you are still interested in participating, you can still register until the day
-of the tournament. The fee for day-of-contest registration is &#36;20 per
-person.
+<!--# Register for SMT 2014 {#register}-->
 
-If you have not yet mailed your payment, please bring your payment with you on
-the day of the contest.  **Do not mail your payment**, as it may not arrive in
-time. This applies for all registrations, regardless of when made.
+<!--!!!largebutton [Register for SMT 2014!](http://sumo.stanford.edu/smt/registration)-->
 
-We will send email confirmation upon submitting registration and upon
-receiving payment (if you have already sent payment by mail).
+<!--The regular and late registration and payment deadlines have passed. However, if-->
+<!--you are still interested in participating, you can still register until the day-->
+<!--of the tournament. The fee for day-of-contest registration is &#36;20 per-->
+<!--person.-->
 
-Full registration rules and information can be found on our [rules
-page](/smt/rules.html).
+<!--If you have not yet mailed your payment, please bring your payment with you on-->
+<!--the day of the contest.  **Do not mail your payment**, as it may not arrive in-->
+<!--time. This applies for all registrations, regardless of when made.-->
+
+<!--We will send email confirmation upon submitting registration and upon-->
+<!--receiving payment (if you have already sent payment by mail).-->
+
+<!--Full registration rules and information can be found on our [rules-->
+<!--page](/smt/rules.html).-->
 
 
 # About SMT
@@ -173,6 +180,37 @@ A: Unfortunately, we cannot subsidize travel to Stanford.
 Check out previous years' tests to get a feel for the kind of problems that
 might appear on this year's SMT tests. You can also view the solutions for
 these problems to practice solving them yourself.
+
+## SMT 2014
+
+$row$
+$halfbox$
+### Tests
+
+|-|-|-|
+|Team|[Problems](/pdfs/smt2014/team-problems.pdf)|[Solutions](/pdfs/smt2014/team-solutions.pdf)|
+|Power|[Problems](/pdfs/smt2014/thuemorse-problems.pdf)|[Solutions](/pdfs/smt2014/thuemorse-solutions.pdf)|
+|Advanced Topics|[Problems](/pdfs/smt2014/advanced-problems.pdf)|[Solutions](/pdfs/smt2014/advanced-solutions.pdf)|
+|Algebra|[Problems](/pdfs/smt2014/algebra-problems.pdf)|[Solutions](/pdfs/smt2014/algebra-solutions.pdf)|
+|Calculus|[Problems](/pdfs/smt2014/calculus-problems.pdf)|[Solutions](/pdfs/smt2014/calculus-solutions.pdf)|
+|Geometry|[Problems](/pdfs/smt2014/geometry-problems.pdf)|[Solutions](/pdfs/smt2014/geometry-solutions.pdf)|
+|General|[Problems](/pdfs/smt2014/general-problems.pdf)|[Solutions](/pdfs/smt2014/general-solutions.pdf)|
+$end$
+
+$halfbox$
+### Tiebreakers
+
+|-|-|-|
+|Advanced Topics|[Problems](/pdfs/smt2014/advanced-tiebreaker-problems.pdf)|[Solutions](/pdfs/smt2014/advanced-tiebreaker-solutions.pdf)|
+|Algebra|[Problems](/pdfs/smt2014/algebra-tiebreaker-problems.pdf)|[Solutions](/pdfs/smt2014/algebra-tiebreaker-solutions.pdf)|
+|Calculus|[Problems](/pdfs/smt2014/calculus-tiebreaker-problems.pdf)|[Solutions](/pdfs/smt2014/calculus-tiebreaker-solutions.pdf)|
+|Geometry|[Problems](/pdfs/smt2014/geometry-tiebreaker-problems.pdf)|[Solutions](/pdfs/smt2014/geometry-tiebreaker-solutions.pdf)|
+|General|[Problems](/pdfs/smt2014/general-tiebreaker-problems.pdf)|[Solutions](/pdfs/smt2014/general-tiebreaker-solutions.pdf)|
+$end$
+$end$
+
+!!!smallbutton [View results](/smt/2014/results.html)
+!!!smallbutton [View coordinators](/smt/2014/coordinators.html)
 
 ## SMT 2013
 
