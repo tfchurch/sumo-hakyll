@@ -52,7 +52,7 @@ tests and solutions, and a list of staff coordinators for SMT 2014.
 # About SMT
 
 Stanford Math Tournament (SMT) is run by Stanford students in collaboration
-with Rice University, Johns Hopkins University, and Columbia University.
+with Rice University and Johns Hopkins University.
 
 Teams compete in groups of up to eight students. The contest consists of an
 individual portion as well as a team portion. 
@@ -236,6 +236,8 @@ $halfbox$
 |Calculus|[Problems](/pdfs/smt2013/calculus-tiebreaker-problems.pdf)|[Solutions](/pdfs/smt2013/calculus-tiebreaker-solutions.pdf)|
 |Geometry|[Problems](/pdfs/smt2013/geometry-tiebreaker-problems.pdf)|[Solutions](/pdfs/smt2013/geometry-tiebreaker-solutions.pdf)|
 |General|[Problems](/pdfs/smt2013/general-tiebreaker-problems.pdf)|[Solutions](/pdfs/smt2013/general-tiebreaker-solutions.pdf)|
+
+[Power Round Bibliography](/pdfs/smt2013/power-bibliography.pdf)
 $end$
 $end$
 
@@ -267,6 +269,8 @@ $halfbox$
 |Calculus|[Problems](/pdfs/smt2012/calculus-tiebreaker-problems.pdf)|[Solutions](/pdfs/smt2012/calculus-tiebreaker-solutions.pdf)|
 |Geometry|[Problems](/pdfs/smt2012/geometry-tiebreaker-problems.pdf)|[Solutions](/pdfs/smt2012/geometry-tiebreaker-solutions.pdf)|
 |General|[Problems](/pdfs/smt2012/general-tiebreaker-problems.pdf)|[Solutions](/pdfs/smt2012/general-tiebreaker-solutions.pdf)|
+
+[Power Round Bibliography](/pdfs/smt2012/power-bibliography.pdf)
 $end$
 $end$
 
