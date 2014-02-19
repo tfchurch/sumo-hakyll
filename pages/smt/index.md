@@ -23,7 +23,8 @@ Support for SMT is generously provided by [our sponsors](/sponsors.html).
 
 SMT 2014 ran on **Saturday, February 15, 2014**. Congratulations to the
 winners, and thank you to all who participated! Click the buttons below to view
-tests and solutions, and a list of staff coordinators for SMT 2014.
+tournament results, tests and solutions, and a list of staff coordinators for
+SMT 2014.
 
 !!!largebutton [Results](/smt/2014/results.html)
 !!!largebutton [Tests and Solutions](#previous-tournaments)

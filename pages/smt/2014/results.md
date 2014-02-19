@@ -1,5 +1,7 @@
 # SMT 2014 Results {.title}
 
+We will post more detailed tournament results soon. In the meantime, here is a summary of the top scorers overall, and on each test.
+
 ## Overall team results
 
 |-|-|-|-|
@@ -64,10 +66,10 @@ Total participants: **148**
 
 |-|-|-|-|
 |**Rank**|**Score**|**Name**|**School/Group**|
-|1|9|James Shi|Henry M. Gunn High School|
 |1|9|Mihir Singhal|ORCA|
-|1|9|Lewis Chen|Mission San Jose HS|
-|1|9|Brian Shimanuki|Pleasanton Mathleague|
+|2|9|Brian Shimanuki|Pleasanton Mathleague|
+|3|9|Lewis Chen|Mission San Jose HS|
+|4|9|James Shi|Henry M. Gunn High School|
 |5|8|Sam Reinehr|Orange County Math Circle|
 |5|8|Jerry Wu|Mission San Jose HS|
 |5|8|Rick Huang|Pleasanton Mathleague|
@@ -90,10 +92,10 @@ Total participants: **340**
 
 |-|-|-|-|
 |**Rank**|**Score**|**Name**|**School/Group**|
-|1|7|Steven Ye|Diamond Bar High School|
 |1|7|Saranesh Prembabu|San Ramon Independent|
-|1|7|Varun Mohan|The Harker School|
-|1|7|Evan Chen|Irvington High School|
+|2|7|Varun Mohan|The Harker School|
+|3|7|Evan Chen|Irvington High School|
+|4|7|Steven Ye|Diamond Bar High School|
 |5|6|Mihir Singhal|ORCA|
 |5|6|Tomas Choi|Mission San Jose HS|
 |5|6|Eshaan Nichani|Canyon Crest Academy|
@@ -113,8 +115,8 @@ Total participants: **156**
 |-|-|-|-|
 |**Rank**|**Score**|**Name**|**School/Group**|
 |1|8|Ashwath Thirumalai|The Harker School|
-|1|8|Luke Liao|Palo Alto High School|
-|1|8|Lewis Chen|Mission San Jose HS|
+|2|8|Lewis Chen|Mission San Jose HS|
+|3|8|Luke Liao|Palo Alto High School|
 |4|7|Grace Lin|Palo Alto High School|
 |4|7|Jimmy Lu|Special People|
 |6|6|Calvin Huang|Henry M. Gunn High School|
@@ -142,9 +144,9 @@ Total participants: **213**
 
 |-|-|-|-|
 |**Rank**|**Score**|**Name**|**School/Group**|
-|1|8|Tiancheng Qin|Mission San Jose HS|
 |1|8|Celine Liang|Saratoga High School|
-|1|8|Zihan Zhang|The High School Affiliated to Renmin University of China|
+|2|8|Zihan Zhang|The High School Affiliated to Renmin University of China|
+|3|8|Tiancheng Qin|Mission San Jose HS|
 |4|7|Saranesh Prembabu|San Ramon Independent|
 |4|7|Kevin Zhang|Orange County Math Circle|
 |4|7|Ashwin Sah|ORCA|
@@ -163,9 +165,9 @@ Total participants: **291**
 |-|-|-|-|
 |**Rank**|**Score**|**Name**|**School/Group**|
 |1|25|Kevin Chang|Bellarmine College Prep|
-|2|23|Roland Huang|Pleasanton Mathleague|
 |2|23|Brendan Brzycki|Troy High School|
-|2|23|Kevin Chen|The Bishop's School|
+|3|23|Roland Huang|Pleasanton Mathleague|
+|4|23|Kevin Chen|The Bishop's School|
 |5|22|Sophie Yu|Diamond Bar High School|
 |5|22|Diane Zhou|American High School|
 |5|22|Sujay Kazi|American High School|
