@@ -1,5 +1,7 @@
 # SMT 2014 Results {.title}
 
+## Overall team results
+
 |-|-|-|-|
 |**Rank**|**Score**|**Team**|**School/Group**|
 |1|1498.06|Hopkins Junior High A|Mission San Jose HS|
