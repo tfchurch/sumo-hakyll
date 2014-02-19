@@ -1,7 +1,5 @@
 # SMT 2014 Results {.title}
 
-## Overall team results
-
 |-|-|-|-|
 |**Rank**|**Score**|**Team**|**School/Group**|
 |1|1498.06|Hopkins Junior High A|Mission San Jose HS|
@@ -11,11 +9,11 @@
 |5|1257.69|Pleasanton Xi|Pleasanton Mathleague|
 |6|1179.57|San Ramon A|San Ramon Independent|
 |7|1160.50|Saratoga Red|Saratoga High School|
-|8|1142.01|Harker Alpha|The Harker School|
-|9|1115.65|Turtle|Irvington High School|
-|10|1103.73|Palo Alto Team A|Palo Alto High School|
-|11|1098.32|Gunn A|Henry M. Gunn High School|
-|12|1094.77|NFLS|Nanjing Foreign Languages School|
+|8|1142.71|NFLS|Nanjing Foreign Languages School|
+|9|1142.01|Harker Alpha|The Harker School|
+|10|1115.65|Turtle|Irvington High School|
+|11|1103.73|Palo Alto Team A|Palo Alto High School|
+|12|1098.32|Gunn A|Henry M. Gunn High School|
 |13|1089.24|Lynbrook Team A|Lynbrook High School|
 |14|1067.88|Star League A-Star OC|Star League|
 |15|1012.66|B Chord B-Star Institute|Canyon Crest Academy|
@@ -102,6 +100,7 @@ Total participants: **340**
 |5|6|Yue Xi|Nanjing Foreign Languages School|
 |5|6|Steven Hao|Lynbrook High School|
 |5|6|Jimmy Lu|Special People|
+|5|6|Justin Stevens|Davidson Academy of Nevada|
 |5|6|Laura Pierson|Berkeley Math Circle|
 
 ## Calculus test results
@@ -137,7 +136,7 @@ Total participants: **156**
 ## Geometry test results
 Top ten average: **7.30**  
 Weight towards overall team scores: **6.85**  
-Total participants: **212**  
+Total participants: **213**  
 
 |-|-|-|-|
 |**Rank**|**Score**|**Name**|**School/Group**|
@@ -152,6 +151,7 @@ Total participants: **212**
 |4|7|Austin Wu|Mission San Jose High School|
 |4|7|Eshaan Nichani|Canyon Crest Academy|
 |4|7|Yuanxun Sun|The High School Affiliated to Renmin University of China|
+|4|7|Lihuang Ding|Nanjing Foreign Languages School|
 
 ## General test results
 Top ten average: **22.60**  
@@ -162,7 +162,7 @@ Total participants: **291**
 |**Rank**|**Score**|**Name**|**School/Group**|
 |1|25|Kevin Chang|Bellarmine College Prep|
 |2|23|Roland Huang|Pleasanton Mathleague|
-|2|23|Brendan Bnycki|Troy High School|
+|2|23|Brendan Brzycki|Troy High School|
 |2|23|Kevin Chen|The Bishop's School|
 |5|22|Sophie Yu|Diamond Bar High School|
 |5|22|Diane Zhou|American High School|
