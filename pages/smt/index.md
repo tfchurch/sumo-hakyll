@@ -25,7 +25,7 @@ SMT 2014 ran on **Saturday, February 15, 2014**. Congratulations to the
 winners, and thank you to all who participated! Click the buttons below to view
 tests and solutions, and a list of staff coordinators for SMT 2014.
 
-<!--!!!largebutton [Results](/smt/2014/results.html)-->
+!!!largebutton [Results](/smt/2014/results.html)
 !!!largebutton [Tests and Solutions](#previous-tournaments)
 !!!largebutton [Staff Coordinators](/smt/2014/coordinators.html)
 
@@ -210,7 +210,7 @@ $halfbox$
 $end$
 $end$
 
-<!--!!!smallbutton [View results](/smt/2014/results.html)-->
+!!!smallbutton [View results](/smt/2014/results.html)
 !!!smallbutton [View coordinators](/smt/2014/coordinators.html)
 
 ## SMT 2013
