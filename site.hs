@@ -102,7 +102,7 @@ sidenavContext headers = constField "sidenavcontent" pandocStr
 
 main :: IO ()
 main = hakyllWith conf $ do
-  match ("images/*" .||. "js/*.js" .||. "css/*.css"
+  match ("images/**" .||. "js/*.js" .||. "css/*.css"
     .||. "fonts/*" .||. "pdfs/**") $ do
     route idRoute
     compile copyFileCompiler

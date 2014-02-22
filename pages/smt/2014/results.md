@@ -1,6 +1,8 @@
 # SMT 2014 Results {.title}
 
-We will post more detailed tournament results soon. In the meantime, here is a summary of the top scorers overall, and on each test.
+Here are top-placing teams and contestants for SMT 2014. Click the button below for graphs of score distributions and problem statistics.
+
+!!!largebutton [Detailed Graphs](/smt/2014/graphs.html)
 
 ## Overall team results
 
@@ -22,6 +24,24 @@ We will post more detailed tournament results soon. In the meantime, here is a s
 |14|1067.88|Star League A-Star OC|Star League|
 |15|1012.66|B Chord B-Star Institute|Canyon Crest Academy|
 
+## Power test results
+Top ten average: **96.00**  
+Weight towards overall team scores: **4.17**  
+Total participants: **102**  
+
+|-|-|-|-|
+|**Rank**|**Score**|**Team**|**School/Group**|
+|1|106|Hopkins Junior High A|Mission San Jose HS|
+|2|104|Lynbrook Team A|Lynbrook High School|
+|3|101|Harker Omega|The Harker School|
+|4|98|Harker Alpha|The Harker School|
+|5|95|El Toro|Monta Vista High School|
+|6|94|Saratoga Red|Saratoga High School|
+|7|92|Palo Alto Team A|Palo Alto High School|
+|7|92|OCMC A|Orange County Math Circle|
+|9|90|Turtle|Irvington High School|
+|10|88|B Chord B-Star Institute|Canyon Crest Academy|
+
 ## Team test results
 Top ten average: **8.10**  
 Weight towards overall team scores: **49.38**  
@@ -40,24 +60,6 @@ Total participants: **102**
 |9|7|Harker Omega|The Harker School|
 |9|7|Saratoga Red|Saratoga High School|
 |9|7|RDFZ|The High School Affiliated to Renmin University of China|
-
-## Power test results
-Top ten average: **96.00**  
-Weight towards overall team scores: **4.17**  
-Total participants: **102**  
-
-|-|-|-|-|
-|**Rank**|**Score**|**Team**|**School/Group**|
-|1|106|Hopkins Junior High A|Mission San Jose HS|
-|2|104|Lynbrook Team A|Lynbrook High School|
-|3|101|Harker Omega|The Harker School|
-|4|98|Harker Alpha|The Harker School|
-|5|95|El Toro|Monta Vista High School|
-|6|94|Saratoga Red|Saratoga High School|
-|7|92|Palo Alto Team A|Palo Alto High School|
-|7|92|OCMC A|Orange County Math Circle|
-|9|90|Turtle|Irvington High School|
-|10|88|B Chord B-Star Institute|Canyon Crest Academy|
 
 ## Advanced Topics test results
 Top ten average: **8.10**  
@@ -176,4 +178,16 @@ Total participants: **291**
 |5|22|William Scott|Homestead High School|
 |5|22|Wentinn Liao|Monte Vista MS/Rio Americano|
 |5|22|Steve Guo|Pleasanton Math League|
+
+## Test statistics
+
+|-|-|-|-|-|
+|**Test**|**Top Ten Avg**|**Mean**|**Std Dev**|**Median**|
+|Team|8.10|3.02|2.33|3.0|
+|Power|96.00|37.24|29.43|28.5|
+|Advanced Topics|8.10|3.71|2.04|3.0|
+|Algebra|6.40|2.86|1.53|3.0|
+|Calculus|6.60|3.06|1.46|3.0|
+|Geometry|7.30|2.29|1.90|2.0|
+|General|22.60|11.96|5.36|12.0|
 
