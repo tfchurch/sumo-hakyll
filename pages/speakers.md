@@ -42,7 +42,7 @@ Raymond Wu at wur911@stanford.edu.
 |February 6|Daniel Alvarez-Gavela|[The Hairy Ball Theorem](/pdfs/speakers/feb6.pdf)|
 |February 13|Otis Chodosh|[Discontinuities in Optimal Maps](/pdfs/speakers/feb13.pdf)|
 |February 20|Nancy Rodriguez|[Using mathematics to explore the phenomenon of social segregation](/pdfs/speakers/feb20.pdf)|
-|February 27|Professor Robert Finn|The mathematics of surface tension, and its curious real-world implications|
+|February 27|Professor Robert Finn|[The mathematics of surface tension, and its curious real-world implications](/pdfs/speakers/feb27.pdf)|
 |March 6|Dr. Mario Micallef (University of Warwick)|Curvature and Holes|
 |March 13|No talk!|-|
 
