@@ -43,7 +43,7 @@ Raymond Wu at wur911@stanford.edu.
 |February 13|Otis Chodosh|[Discontinuities in Optimal Maps](/pdfs/speakers/feb13.pdf)|
 |February 20|Nancy Rodriguez|[Using mathematics to explore the phenomenon of social segregation](/pdfs/speakers/feb20.pdf)|
 |February 27|Professor Robert Finn|[The mathematics of surface tension, and its curious real-world implications](/pdfs/speakers/feb27.pdf)|
-|March 6|Dr. Mario Micallef (University of Warwick)|Curvature and Holes|
+|March 6|Dr. Mario Micallef (University of Warwick)|[Curvature and Holes](/pdfs/speakers/mar6.pdf)|
 |March 13|No talk!|-|
 
 ##Spring 2014
