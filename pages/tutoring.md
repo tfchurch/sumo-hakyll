@@ -23,10 +23,9 @@ $halfbox$
 ## Schedule
 Starting the second week of each quarter, tutoring for the Math 50s series
 classes will occur **every Monday and Wednesday from 6:00 PM to 10:00
-PM**. Tutoring for the 2014 Winter Quarter will begin on Monday, January 13 and
-will be held in the math corner, **room 380-381T**. Tutoring will not occur
-during Martin Luther King, Jr. Day, but will occur on Presidents Day and will
-continue through Dead Week.
+PM**. Tutoring for the 2014 Spring Quarter will begin on Monday, April 7 and
+will be held in the math corner, **room 380-381T**. Tutoring will occur on
+Memorial Day and continue through Dead Week.
 
 If you are unclear as to whether there will be tutoring on a particular day or
 have any other questions, please e-mail Eddy Dai (ejdai@stanford.edu).
