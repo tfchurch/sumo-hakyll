@@ -48,12 +48,12 @@ Raymond Wu at wur911@stanford.edu.
 
 ##Spring 2014
 |-|-|-|
-|April 3|-|-|
-|April 10|-|-|
+|April 3|Professor Solomon Friedberg (Boston College)|[Packing Primes](/pdfs/speakers/apr3.pdf)|
+|April 10|Brian Lawrence|-|
 |April 17|-|-|
 |April 24|-|-|
 |May 1|-|-|
-|May 8|-|-|
-|May 15|-|-|
+|May 8|Professor Gunnar Carlsson|-|
+|May 15|Professor Maryam Mirzakhani|-|
 |May 22|-|-|
 |May 29|-|-|
