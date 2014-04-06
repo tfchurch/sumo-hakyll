@@ -30,8 +30,27 @@ Memorial Day and continue through Dead Week.
 If you are unclear as to whether there will be tutoring on a particular day or
 have any other questions, please e-mail Eddy Dai (ejdai@stanford.edu).
 
-## Linear Algebra Notes
-One of our tutors wrote a supplement to the Math 51 textbook and lectures. They
-can be found [here](/pdfs/LinearAlgebraNotes.pdf).
+## Notes
+One of our tutors, Joseph Victor, wrote a supplement to the Math 51 textbook and
+lectures. They can be found [here](/pdfs/LinearAlgebraNotes.pdf).
+
+Another one of our tutors, Arun Debray, took lecture notes for Math 53. They can
+be found [here](http://stanford.edu/~adebray/53notes.pdf).
+$end$
+$end$
+
+$row$
+$halfbox$
+## Becoming a Tutor
+If you are interested in becoming a 50s tutor, we hire new tutors at the start
+of Fall, Winter, and Spring Quarter of each academic year (if there are
+available positions). Tutors should be able to help students with *all three
+classes* of the 50s series.
+
+Tutoring position announcements are sent to the [SUMO mailing
+list](https://mailman.stanford.edu/mailman/listinfo/sumo-announce).  If you do
+not want to subscribe to the SUMO mailing list but would like to receive
+tutoring announcements, or if you have any questions, please e-mail Eddy Dai
+(ejdai@stanford.edu).
 $end$
 $end$
