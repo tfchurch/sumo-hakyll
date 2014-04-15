@@ -49,7 +49,7 @@ Raymond Wu at wur911@stanford.edu.
 ##Spring 2014
 |-|-|-|
 |April 3|Professor Solomon Friedberg (Boston College)|[Packing Primes](/pdfs/speakers/apr3.pdf)|
-|April 10|Brian Lawrence|[Fibonacci Numbers mod p](/pdfs/speakers/apr10.pdf)|
+|April 10|Brian Lawrence|[Fibonacci Numbers mod p](/pdfs/speakers/apr10.pdf), [(Notes)](/pdfs/speakers/fibonacci.pdf)|
 |April 17|Etienne Ghys|[The Mathematics of Clothing Design](/pdfs/speakers/apr16.jpg)|
 |April 24|No talk this week!|-|
 |May 1|Professor Andras Vasy|Is every PDE solvable? And what does this have to do with large matrices?|
