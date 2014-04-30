@@ -52,7 +52,7 @@ Raymond Wu at wur911@stanford.edu.
 |April 10|Brian Lawrence|[Fibonacci Numbers mod p](/pdfs/speakers/apr10.pdf), [(Notes)](/pdfs/speakers/fibonacci.pdf)|
 |April 17|Etienne Ghys|[The Mathematics of Clothing Design](/pdfs/speakers/apr16.jpg)|
 |April 24|No talk this week!|-|
-|May 1|Professor Andras Vasy|Is every PDE solvable? And what does this have to do with large matrices?|
+|May 1|Professor Andras Vasy|[Is every PDE solvable? And what does this have to do with large matrices?](/pdfs/speakers/may1.pdf)|
 |May 8|Professor Gunnar Carlsson|-|
 |May 15|Professor Maryam Mirzakhani|-|
 |May 22|-|-|
