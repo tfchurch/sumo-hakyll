@@ -19,6 +19,10 @@ $end$
 $end$
 $end$
 
+[Subscribe to the SMT mailing
+list](http://mailman.stanford.edu/mailman/listinfo/smt-interest) to receive
+announcements about SMT.
+
 Support for SMT is generously provided by [our sponsors](/sponsors.html).
 
 SMT 2014 ran on **Saturday, February 15, 2014**. Congratulations to the
