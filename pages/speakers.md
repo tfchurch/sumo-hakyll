@@ -56,4 +56,4 @@ Raymond Wu at wur911@stanford.edu.
 |May 8|Professor Gunnar Carlsson|[Topology of Data Sets](/pdfs/speakers/may8.pdf)|
 |May 15|Professor Maryam Mirzakhani|[Sperner's Lemma](/pdfs/speakers/may15.pdf)|
 |May 22|Evan Warner|[Number Theory on Bubbles](/pdfs/speakers/may22.pdf)|
-|May 29|Brian Conrad|[Elemtary integration and differential Galois theory](/pdfs/speakers/may29.pdf)|
+|May 29|Brian Conrad|[Elementary integration and differential Galois theory](/pdfs/speakers/may29.pdf)|
