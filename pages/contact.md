@@ -6,7 +6,7 @@ organizing, please let us know!
 
 For general questions and comments:
 
-:   email Edward Dai (sumo@math.stanford.edu or ejdai@stanford.edu)
+:   email Edward Dai (sumo@math.stanford.edu)
 
 To contact us about the website:
 
@@ -22,13 +22,13 @@ For other more specific questions and comments, contact a person below.
 
 |-|-|-|
 |**President**|Edward Dai|sumo@math.stanford.edu|
-|**Tournament director**|Huaiyu Wu|stanford.math.tournament@gmail.com|
+|**Tournament director**|Edward Dai|stanford.math.tournament@gmail.com|
 |**Webmaster**|Lennart Jansson|sumo-webmaster@lists.stanford.edu or lennartj@stanford.edu|
-|**Financial Officer**|Huaiyu Wu|xiaowuc1@stanford.edu|
-|**Tutoring Coordinator**|Edward Dai|ejdai@stanford.edu|
-|**Symposium Coordinator**|Edward Dai||
-|**Speaker Series Coordinator**|Raymond Wu|wur911@stanford.edu|
-|**ARML Coaching**|Raymond Wu||
+|**Financial Officer**|Rebecca Wang|rwang7@stanford.edu|
+|**Tutoring Coordinator**|Han Raut|hraut@stanford.edu|
+|**Symposium Coordinator**|Edward Dai|ejdai@stanford.edu|
+|**Speaker Series Coordinator**|Brian Wai|brianwai@stanford.edu|
+|**ARML Coaching**|Spencer Yee|spencery@stanford.edu|
 |**Social Events Coordinator**|Cynthia Day|cyndia@stanford.edu|
 |**Public Relations Officer**|Cynthia Day||
-|**Puzzle Hunt Coordinator**|Huaiyu Wu|stanford.puzzle.hunt@gmail.com|
+|**Puzzle Hunt Coordinator**|Raymond Wu|stanford.puzzle.hunt@gmail.com|
