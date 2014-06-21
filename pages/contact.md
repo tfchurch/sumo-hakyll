@@ -28,6 +28,7 @@ For other more specific questions and comments, contact a person below.
 |**Tutoring Coordinator**|Han Raut|hraut@stanford.edu|
 |**Symposium Coordinator**|Edward Dai|ejdai@stanford.edu|
 |**Speaker Series Coordinator**|Brian Wai|brianwai@stanford.edu|
+|**Homework Night Coordinator**|Amr Mohamed|amr1@stanford.edu|
 |**ARML Coaching**|Spencer Yee|spencery@stanford.edu|
 |**Social Events Coordinator**|Cynthia Day|cyndia@stanford.edu|
 |**Public Relations Officer**|Cynthia Day||

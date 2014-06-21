@@ -13,7 +13,7 @@ provided afterwards. You can get 1 unit of credit for your attendance by
 signing up for MATH 196; of course, you're also welcome to just show up.
 
 If you have any suggestions or would like to suggest a speaker, please email
-Raymond Wu at wur911@stanford.edu.
+Brian Wai at brianwai@stanford.edu.
 
 [2008-2009](/old/speakers/2009) | [2009-2010](/old/speakers/2010) | [2010-2011](/old/speakers/2011) | [2011-2012](/old/speakers/2012) | [2012-2013](/old/speakers/2013) | [2013-2014](speakers.html)
 

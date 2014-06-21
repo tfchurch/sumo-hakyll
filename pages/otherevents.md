@@ -28,7 +28,7 @@ next ARML will be held on May 30-31, 2014.
 
 We hold weekly practices starting in April, and we are always looking for SUMO
 members to help out at practices and go on the trip. If you're interested in
-helping, email Moor Xu at annoyingpi@gmail.com.
+helping, email Spencer Yee at spencery@stanford.edu.
 $end$
 $end$
 
@@ -41,8 +41,8 @@ students from their classes and work on problem sets and projects. Snacks are
 provided. Bring your work and join us on **Tuesdays from 7:00 to 10:00 PM in
 room 380-381U**!
 
-If you have any questions about Homework Night, please contact Ravi Fernando at
-rkf12346@stanford.edu.
+If you have any questions about Homework Night, please contact Amr Mohamed at
+amr1@stanford.edu.
 $end$
 
 $halfbox$

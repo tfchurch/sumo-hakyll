@@ -28,7 +28,7 @@ will be held in the math corner, **room 380-381T**. Tutoring will occur on
 Memorial Day and continue through Dead Week.
 
 If you are unclear as to whether there will be tutoring on a particular day or
-have any other questions, please e-mail Eddy Dai (ejdai@stanford.edu).
+have any other questions, please e-mail Han Raut (hraut@stanford.edu).
 
 ## Notes
 One of our tutors, Joseph Victor, wrote a supplement to the Math 51 textbook and
@@ -50,7 +50,7 @@ classes* of the 50s series.
 Tutoring position announcements are sent to the [SUMO mailing
 list](https://mailman.stanford.edu/mailman/listinfo/sumo-announce).  If you do
 not want to subscribe to the SUMO mailing list but would like to receive
-tutoring announcements, or if you have any questions, please e-mail Eddy Dai
-(ejdai@stanford.edu).
+tutoring announcements, or if you have any questions, please e-mail Han Raut
+(hraut@stanford.edu).
 $end$
 $end$
