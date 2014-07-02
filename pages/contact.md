@@ -18,7 +18,7 @@ To contact us about the Stanford Math Tournament:
 
 For other more specific questions and comments, contact a person below.
 
-## SUMO Officers 2013&ndash;2014
+## SUMO Officers 2014&ndash;2015
 
 |-|-|-|
 |**President**|Edward Dai|sumo@math.stanford.edu|
