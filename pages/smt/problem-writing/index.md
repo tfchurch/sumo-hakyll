@@ -68,11 +68,11 @@ Install [MacTeX](http://www.tug.org/mactex/).
 
 # Setting up the Git repository
 
-The git repository for SMT 2014 is now located at
-`git@smtpw.unfuddle.com:smtpw/smt2014.git`. Follow the instructions below to
-set up the repository. If you used last year's repository (and haven't switched
-    computers), setup is super-easy: just skip to [Cloning the SMT 2014
-repository](#cloning-the-smt-2014-repository). If you have git installed, skip to [SSH keys](#ssh-keys).
+The git repository for SMT 2015 is now located at
+`github.com/zhanrnl/smt-2015`, but this is a private repository, so you may not
+be able to access it until you are given permissions. Follow the instructions
+below to set up the repository. If you have git installed, skip to [SSH
+keys](#ssh-keys).
 
 ## Installing Git
 
@@ -96,7 +96,7 @@ If you have a package manager, you can just use that. Otherwise, download the ap
 
 ## SSH keys
 
-If you already have set up SSH keys for SMT on your computer (e.g. if you used last year's repository), skip to the next section, [Configuring Git](#configuring-git).
+If you already have set up SSH keys for SMT on your computer (e.g. if you used last year's repository), skip to the next section, [Obtaining access](#obtaining-access-to-the-repository).
 
 Open a terminal for the next configuration steps. (If you're using msysgit on Windows, open up Git Bash to get a command prompt.)
 
@@ -108,35 +108,44 @@ Open a terminal for the next configuration steps. (If you're using msysgit on Wi
 
 2.  Open the file where the previous command said it had stored your public key. By default, this is located at `~/.ssh/id_rsa.pub`, or on Windows, this is probably in your My Documents folder at `C:\Documents and Settings\<your user name>\.ssh\id_rsa.pub` or `C:\Users\<your user name>\Documents\.ssh\id_rsa.pub`.
 
-    Copy and paste the contents of the public key file **id_rsa.pub** (NOT the id_rsa file, which is your private key) and send it to Eddy at	 ejdai@stanford.edu to get access to the repository. You will not be able to clone or otherwise access the repository until we have added your public key.
+## Obtaining access to the repository
 
-    The id_rsa.pub file is just a plain text file. You can run `cat ~/.ssh/id_rsa.pub` at the command prompt, or open it any text editor (e.g. Notepad). If you're on Windows and you have difficulty opening it, you can copy it to `id_rsa.pub.txt` and open that.
+You first need a Github account to start contributing to the repo. If you do not have a Github account, create one using the [Github registration page](https://github.com/join).
 
-    The public key should look something like this:
+Once you've created an account, or logged in to your existing Github account, add the public key to your account in Github account settings. You will need to copy and paste the contents of the public key file **id_rsa.pub** (NOT the id_rsa file, which is your private key) into a text box on the SSH Keys page of your Github account settings. 
 
-        ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEA2UWJG6SSiM5TLCR+mCsMy52WoPixngcQ2G1aQOrPIK282kkWnjhNEL+R pSXKaf7yYzCkPbYIyZzeVxo7XQsadFXzsBzWR79c2di2HQFPN7DvdAYBTOvXCNTbjOiHSgfY3X/tuphSY98QGicpcNzn sJocdy5cBXvF6NIfmDuXgsHN9Yp8BeTdPEosF4JLe0RAD2glDytwesVLkaKE/2ZKacFzp== example&#64;example.com
+The id_rsa.pub file is just a plain text file. You can run `cat ~/.ssh/id_rsa.pub` at the command prompt, or open it any text editor (e.g. Notepad). If you're on Windows and you have difficulty opening it, you can copy it to `id_rsa.pub.txt` and open that.
+
+The public key should look something like this:
+
+    ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEA2UWJG6SSiM5TLCR+mCsMy52WoPixngcQ2G1aQOrPIK282kkWnjhNEL+R pSXKaf7yYzCkPbYIyZzeVxo7XQsadFXzsBzWR79c2di2HQFPN7DvdAYBTOvXCNTbjOiHSgfY3X/tuphSY98QGicpcNzn sJocdy5cBXvF6NIfmDuXgsHN9Yp8BeTdPEosF4JLe0RAD2glDytwesVLkaKE/2ZKacFzp== example&#64;example.com
+
+For more information, here are [detailed instructions from Github](https://help.github.com/articles/generating-ssh-keys#step-3-add-your-ssh-key-to-github).
+
+### Becoming a collaborator
+
+The final step to gain access to the problem writing repository is to send your Github username to Lennart Jansson (lennartj@stanford.edu), and ask to be added as a collaborator to the SMT 2015 repo. When you get a response, you should have problem writing access!
 
 ## Configuring Git
 
 At the prompt,
 
-  * Type: `git config --global user.name "<your name>"` (e.g. git config --global user.name "More Shoe")
+  * Type: `git config --global user.name "<your name>"` (e.g. `git config --global user.name "More Shoe"`)
 
-  * Type: `git config --global user.email "<your email address>"` (e.g. git config --global user.email "moreshoe&amp;#64;stanford.edu")
+  * Type: `git config --global user.email "<your email address>"` (e.g. `git config --global user.email "moreshoe&amp;#64;stanford.edu"`)
 
-  * If you want git commands to produce output with color, `type: git config --global color.ui auto`
+  * If you want git commands to produce output with color, type: `git config --global color.ui auto`
 
-  * If you want to change the editor git opens for entering commit messages to something other than vi (which is highly recommended if you don't know how to use vi), type: `git config --global core.editor <your editor>`
+  * If you want to change the editor git opens for entering commit messages to something other than `vi` (which is highly recommended if you don't know how to use `vi`), type: `git config --global core.editor <your editor>`
 
       * If you're on Linux or Mac and don't know what editor to use, you can try gedit (for GNOME users), kate (for KDE users), or nano as &lt;your editor&gt;.
-      * If you're on Windows and don't know what editor to use, you can try WordPad: `git config --global core.editor "'C:/Program Files/Windows NT/Accessories/wordpad.exe'"` (note that you need two sets of quotes)
 
-## Cloning the SMT 2014 repository
+## Cloning the SMT 2015 repository
 
 1. `cd` to the directory where you want the SMT files to exist.
-2. At the prompt, type: `git clone git@smtpw.unfuddle.com:smtpw/smt2014.git`
-3. This command creates a smt2014 directory, which contains the SMT repository.
-4. Enter the smt2014 directory by typing: `cd smt2014`
+2. At the prompt, type: `git clone git@github.com:zhanrnl/smt-2015.git`
+3. This command creates a smt-2015 directory, which contains the SMT repository.
+4. Enter the smt-2015 directory by typing: `cd smt-2015`
 5. At the prompt, type: `./SetupRepository`
 You're now done with the setup! Read the sections below for instructions on how to use Git and how to compile and create problems.
 
