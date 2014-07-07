@@ -2,8 +2,9 @@
 
 This page has information on problem writing resources and instructions for the technical aspects of problem writing, including for installing LaTeX, setting up the Git problem writing repository, and using the repository.
 
-If you need help with LaTeX, Git, or any of the other technology we're
-using, just ask us. Eddy (ejdai@stanford.edu) is currently the (temporary) primary contact for technical help.
+If you need help with LaTeX, Git, or any of the other technology we're using,
+just ask us. Lennart (lennartj@stanford.edu) is the primary contact for
+technical help.
 
 # General information
 
