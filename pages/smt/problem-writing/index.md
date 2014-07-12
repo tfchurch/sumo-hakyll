@@ -34,13 +34,11 @@ of guidelines on the balance of topics and difficulties we aim for.
 
 Some of our more experienced problem writers have put together some tips on [how to write an original problem](/smt/problem-writing/how-to-write.html). If you're feeling nervous or uninspired, take a look! Remember that we need problems at all levels of difficulty, and whatever you can come up with is very much welcome.
 
-<!--If you are at Stanford, you can easily view the problem writing repository without any setup from our online WebAuth-protected site. Most Stanford problem writers should already have access; if you don't, let us know and we'll add you (contact Eddy). Note: this online copy of the repository is usually updated within a few hours, but it may not always be regularly updated. You can check the timestamp on the LAST_UPDATED file to see when the last successful update was.-->
-
 *Obvious but extremely important warning:* the SMT repository contains sensitive materials, including problems and power round topics, so you must keep it private. **Do not communicate any information whatsoever about the problems except to another SMT problem-writer.** Security is crucial to our ability to run a fair and enjoyable tournament for our students.
 
 To view, edit, and write problems on your computer, you'll need to set up LaTeX and our Git problem writing repository — the instructions for this are below. We've done a lot of work to make this as easy as possible, and if you run into any problems, just ask us for help.
 
-If you have a good problem but don't have the Git repository set up, you can email it to Lynnelle (preferably in LaTeX `.tex` source). Warning: we cannot guarantee that we will add your problems to the repository in a timely manner. If you intend to do more than a minimal amount of problem writing and editing, you're better off using Git.
+If you have a good problem but don't have the Git repository set up, you can email it to Schuyler Smith (skysmith@stanford.edu), preferably in LaTeX `.tex` source. Warning: we cannot guarantee that we will add your problems to the repository in a timely manner. If you intend to do more than a minimal amount of problem writing and editing, you're better off using Git.
 
 We also have some more information about problem writing, such as schedules for problem writing, in Google Docs. If you haven't been shared the Google Docs, let us know what email address you usually use for your Google account (e.g. your Gmail address), and we'll add you.
 
@@ -97,7 +95,7 @@ If you have a package manager, you can just use that. Otherwise, download the ap
 
 ## SSH keys
 
-If you already have set up SSH keys for SMT on your computer (e.g. if you used last year's repository), skip to the next section, [Obtaining access](#obtaining-access-to-the-repository).
+If you already have set up SSH keys on your computer (e.g. if you used last year's repository, or already have a GitHub account), skip to the next section, [Obtaining access](#obtaining-access-to-the-repository).
 
 Open a terminal for the next configuration steps. (If you're using msysgit on Windows, open up Git Bash to get a command prompt.)
 
@@ -133,7 +131,7 @@ At the prompt,
 
   * Type: `git config --global user.name "<your name>"` (e.g. `git config --global user.name "More Shoe"`)
 
-  * Type: `git config --global user.email "<your email address>"` (e.g. `git config --global user.email "moreshoe&amp;#64;stanford.edu"`)
+  * Type: `git config --global user.email "<your email address>"` (e.g. `git config --global user.email "moreshoe&#64;stanford.edu"`)
 
   * If you want git commands to produce output with color, type: `git config --global color.ui auto`
 
