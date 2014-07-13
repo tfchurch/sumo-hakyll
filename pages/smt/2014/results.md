@@ -127,6 +127,7 @@ Total participants: **156**
 |9|5|Yun-Ta (Andy Tsai)|Series Business|
 |9|5|Hanson Tam|Menlo School|
 |9|5|Ray Tung|Menlo School|
+|9|5|Rohith Kuditipudi|The Harker School|
 |9|5|Patrick Lin|The Harker School|
 |9|5|Joseph Chang|Palo Alto High School|
 |9|5|Charlie Tian|Evergreen Valley High School|
