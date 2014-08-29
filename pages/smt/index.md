@@ -103,6 +103,11 @@ A: No. Traditionally, the majority of SMT teams have been comprised of students
 from the same school, but this is not required. There is no limit to how many
 teams a school can bring.
 
+**Q: Can international teams participate in SMT? If so, how do they register?**
+
+A: Yes! International teams can definitely participate in SMT and can register
+via the same online form. Invitation letters are available upon request.
+
 ##Testing 
 
 **Q: Are calculators allowed?**
