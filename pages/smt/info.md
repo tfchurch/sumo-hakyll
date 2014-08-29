@@ -1,4 +1,4 @@
-# Stanford Math Tournament Rules {.title}
+# Stanford Math Tournament Information {.title}
 The Stanford Math Tournament consists of an individual contest portion and an
 overall team contest between teams of up to eight students. Students take two
 individual subject tests in the areas of Advanced Topics, Algebra, Calculus, and
@@ -7,36 +7,30 @@ longer General Test. Teams participate in a Team Test and a Power Round, a
 multi-part proof-oriented test.
 
 #Registration
-###Deadline and Fees###
+Registration will open on **October 1st, 2015**. Check back then for more
+information about deadlines and fees for registering for the tournament!
+
+<!-- ###Deadline and Fees###
 The regular and late registration and payment deadlines have passed.  However,
 if you are still interested in participating, you can still register until the
 day of the tournament. The fee for day-of-contest registration is &#36;20 per
 person.
+-->
 
 ###Payment###
 Teams may pay by check, made payable to the Stanford University Mathematical
 Organization, or cash.
 
-If you have not yet mailed your payment, please bring your payment on the day of
-the contest. **Do not mail your payment**, as it may not arrive in time. This
-applies for all registrations, regardless of when made.
-
-<!--
 Payment must be postmarked by the payment deadline, and should be mailed to:
 
 Stanford University Mathematical Organization  
 P.O. Box 20141  
 Stanford, CA 94309
--->
 
 ###Optional Purchases###
-Teams can optionally purchase pizza and soda for lunch and SMT shirts. These can
-be ordered in the registration form. Pizzas are &#36;11 each. Sodas are
+Teams can optionally purchase pizza and soda for lunch and SMT shirts. These
+can be ordered in the registration form. Pizzas are &#36;11 each. Sodas are
 &#36;0.75 per can. Shirts are &#36;10 each.
-
-Please note that shirt orders are now closed; however, we will have a limited
-number of shirts available for sale at the tournament. You may continue to place
-or change food orders until February 10th.
 
 ###Editing Registration Information###
 All registration information may be changed freely until the registration
@@ -49,8 +43,6 @@ for each additional person if the changes are submitted after the registration
 deadline or the additional payment is sent after the payment deadline. Changes
 to shirt or food orders cannot be made after the corresponding deadline. We
 cannot give refunds for changes made after the registration deadline. 
-
-
 
 
 #Testing
@@ -176,15 +168,15 @@ the top ten percent of teams overall.
 
 #Schedule
 
-SMT 2014 will run on Saturday, February 15, 2014.
+SMT 2015 will run on Saturday, February 14, 2015.
 
 ##Schedule
 |-|-|
 |8:00-8:45|Check in|
-|9:00-9:50|First Individual Round|
-|10:00-10:50|Second Individual Round|
+|9:00-10:30|Power Round|
 |-|Passing period|
-|11:20-1:00|Power Round|
+|11:00-11:50|First Individual Round|
+|12:00-12:50|Second Individual Round|
 |1:00-2:10|Lunch|
 |2:20-3:20|Team Round|
 |-|Passing period|

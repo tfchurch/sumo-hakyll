@@ -23,36 +23,19 @@ $end$
 list](http://mailman.stanford.edu/mailman/listinfo/smt-interest) to receive
 announcements about SMT.
 
-Support for SMT is generously provided by [our sponsors](/sponsors.html).
+SMT 2015 will run on **Saturday, February 15, 2015**. 
 
-SMT 2014 ran on **Saturday, February 15, 2014**. Congratulations to the
-winners, and thank you to all who participated! Click the buttons below to view
-tournament results, tests and solutions, and a list of staff coordinators for
-SMT 2014.
+Support for SMT 2015 is generously provided by [our sponsors](/sponsors.html).
 
-!!!largebutton [Results](/smt/2014/results.html)
-!!!largebutton [Tests and Solutions](#previous-tournaments)
-!!!largebutton [Staff Coordinators](/smt/2014/coordinators.html)
+# Register for SMT 2015 {#register}
 
-<!--Register for SMT 2014 {#register}-->
+<!--!!!largebutton [Register for SMT 2015!](http://sumo.stanford.edu/smt/registration)-->
 
-<!--!!!largebutton [Register for SMT 2014!](http://sumo.stanford.edu/smt/registration)-->
+Registration for SMT 2015 will open on October 1st, 2015. Check back then for
+more details on how to register for the tournament!
 
-<!--The regular and late registration and payment deadlines have passed. However, if-->
-<!--you are still interested in participating, you can still register until the day-->
-<!--of the tournament. The fee for day-of-contest registration is &#36;20 per-->
-<!--person.-->
-
-<!--If you have not yet mailed your payment, please bring your payment with you on-->
-<!--the day of the contest.  **Do not mail your payment**, as it may not arrive in-->
-<!--time. This applies for all registrations, regardless of when made.-->
-
-<!--We will send email confirmation upon submitting registration and upon-->
-<!--receiving payment (if you have already sent payment by mail).-->
-
-<!--Full registration rules and information can be found on our [rules-->
-<!--page](/smt/rules.html).-->
-
+Full registration rules and information can be found on our [information
+page](/smt/info.html).
 
 # About SMT
 
@@ -85,9 +68,9 @@ questions. The subjects offered are **Advanced Topics**, **Algebra**,
 The **General Test** is a 110-minute exam consisting of 25 short answer
 questions that is designed for students that have less mathematical background. 
 
-*For full rules and more detailed information, see our 2014 rules page.*
+*For full rules and more detailed information, see our SMT 2015 info page.*
 
-!!!largebutton [SMT 2014 Contest Rules](/smt/rules.html)
+!!!largebutton [SMT 2015 Contest Information](/smt/info.html)
 
 # Frequently Asked Questions {#faq}
 
