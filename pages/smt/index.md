@@ -23,7 +23,7 @@ $end$
 list](http://mailman.stanford.edu/mailman/listinfo/smt-interest) to receive
 announcements about SMT.
 
-SMT 2015 will run on **Saturday, February 15, 2015**. 
+SMT 2015 will run on **Saturday, February 14, 2015**. 
 
 Support for SMT 2015 is generously provided by [our sponsors](/sponsors.html).
 
