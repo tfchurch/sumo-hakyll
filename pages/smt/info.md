@@ -7,7 +7,7 @@ longer General Test. Teams participate in a Team Test and a Power Round, a
 multi-part proof-oriented test.
 
 #Registration
-Registration will open on **October 1st, 2015**. Check back then for more
+Registration will open on **October 1st, 2014**. Check back then for more
 information about deadlines and fees for registering for the tournament!
 
 <!-- ###Deadline and Fees###

@@ -31,7 +31,7 @@ Support for SMT 2015 is generously provided by [our sponsors](/sponsors.html).
 
 <!--!!!largebutton [Register for SMT 2015!](http://sumo.stanford.edu/smt/registration)-->
 
-Registration for SMT 2015 will open on October 1st, 2015. Check back then for
+Registration for SMT 2015 will open on October 1st, 2014. Check back then for
 more details on how to register for the tournament!
 
 Full registration rules and information can be found on our [information
