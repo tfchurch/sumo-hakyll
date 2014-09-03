@@ -7,15 +7,36 @@ longer General Test. Teams participate in a Team Test and a Power Round, a
 multi-part proof-oriented test.
 
 #Registration
-Registration will open on **October 1st, 2014**. Check back then for more
-information about deadlines and fees for registering for the tournament!
+Registration will open on **October 1st**.
 
-<!-- ###Deadline and Fees###
-The regular and late registration and payment deadlines have passed.  However,
-if you are still interested in participating, you can still register until the
-day of the tournament. The fee for day-of-contest registration is &#36;20 per
-person.
--->
+While we try to open SMT to as many participants as possible, we do have
+physical contraints limiting the number of contestants. Unfortunately, with SMT
+increasing in popularity in recent years, we may not be able to accomodate
+everyone who would like to participate.
+
+In light of this, available capacity is allocated based on the following
+criteria:
+
+*Time of payment* -- Registrations are not complete until registration payment is
+submitted. Contestants who submit payment earlier will get priority over those
+who submit later. Time of payment is based on the payment postmark date.
+
+*Regionality* -- In order to preserve the culture and spirit of SMT, 60% of
+available capacity is prioritized for contestants from California until the
+registration deadline.
+
+Do note that we are unable to issue refunds for cancelled registrations.
+However, if we are unable to accomodate a contestant who has submitted payment,
+we will issue a full refund.
+
+###Deadline and Fees###
+The registration deadline is on 11:59 PM Pacific time on January 20th and the
+payment deadline is on January 22nd. The fee for registering teams before the
+registration deadline is &#36;12 per person. Payment must be postmarked by the
+payment deadline to meet the registration deadline.
+
+Registration may be possible after the deadline, but will be subject to
+availablility and a late fee.
 
 ###Payment###
 Teams may pay by check, made payable to the Stanford University Mathematical
@@ -32,17 +53,24 @@ Teams can optionally purchase pizza and soda for lunch and SMT shirts. These
 can be ordered in the registration form. Pizzas are &#36;11 each. Sodas are
 &#36;0.75 per can. Shirts are &#36;10 each.
 
+The deadline for shirt orders is January 20th. The deadline for food orders is
+February 2nd. Changes to shirt and food orders cannot be made after the
+corresponding deadlines.
+
 ###Editing Registration Information###
-All registration information may be changed freely until the registration
-deadline. The names of contestants, individual test selections, and all other
+Adding additional team members will be subject to availablity. If the
+changes are submitted after the registration deadline or the additional payment
+is sent after the payment deadline, a late fee will also be incurred for each
+additional person.
+
+The names of contestants, individual test selection, and all other
 information that does not affect payment may be changed freely until the day of
 the contest.
 
-Adding additional team members will be subject to availability and a late fee
-for each additional person if the changes are submitted after the registration
-deadline or the additional payment is sent after the payment deadline. Changes
-to shirt or food orders cannot be made after the corresponding deadline. We
-cannot give refunds for changes made after the registration deadline. 
+Changes to shirt or food orders cannot be made after the corresponding deadlines.
+
+We cannot give refunds for cancelled registrations and for changes made after
+the registration deadline.
 
 
 #Testing

@@ -31,8 +31,16 @@ Support for SMT 2015 is generously provided by [our sponsors](/sponsors.html).
 
 <!--!!!largebutton [Register for SMT 2015!](http://sumo.stanford.edu/smt/registration)-->
 
-Registration for SMT 2015 will open on October 1st, 2014. Check back then for
-more details on how to register for the tournament!
+Registration for SMT 2015 will open on October 1st, 2014. Check back then to
+register!
+
+The registration deadline is on 11:59 PM Pacific time on January 20th and the
+payment deadline is on January 22nd. The fee for registering teams before the
+registration deadline is &#36;12 per person. Payment must be postmarked by the
+payment deadline to meet the registration deadline.
+
+Registration may be possible after the deadline, but will be subject to
+availablility and a late fee.
 
 Full registration rules and information can be found on our [information
 page](/smt/info.html).
@@ -174,7 +182,7 @@ might appear on this year's SMT tests. You can also view the solutions for
 these problems to practice solving them yourself.
 
 ## ASDAN Math Tournaments SMT China 2014
-
+(Do note that the tests from this contest are easier than normal SMT tests.)
 $row$
 $halfbox$
 ### Tests
