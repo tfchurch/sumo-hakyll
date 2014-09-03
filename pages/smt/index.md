@@ -173,6 +173,37 @@ Check out previous years' tests to get a feel for the kind of problems that
 might appear on this year's SMT tests. You can also view the solutions for
 these problems to practice solving them yourself.
 
+## ASDAN Math Tournaments SMT China 2014
+
+$row$
+$halfbox$
+### Tests
+
+|-|-|-|
+|Team|[Problems](/pdfs/smt2014-china/team-problems.pdf)|[Solutions](/pdfs/smt2014-china/team-solutions.pdf)|
+|Power|[Problems](/pdfs/smt2014-china/power-problems.pdf)|[Solutions](/pdfs/smt2014-china/power-solutions.pdf)|
+|Advanced Topics|[Problems](/pdfs/smt2014-china/advanced-problems.pdf)|[Solutions](/pdfs/smt2014-china/advanced-solutions.pdf)|
+|Algebra|[Problems](/pdfs/smt2014-china/algebra-problems.pdf)|[Solutions](/pdfs/smt2014-china/algebra-solutions.pdf)|
+|Geometry|[Problems](/pdfs/smt2014-china/geometry-problems.pdf)|[Solutions](/pdfs/smt2014-china/geometry-solutions.pdf)|
+|General|[Problems](/pdfs/smt2014-china/general-problems.pdf)|[Solutions](/pdfs/smt2014-china/general-solutions.pdf)|
+$end$
+
+$halfbox$
+### Tiebreakers
+
+|-|-|-|
+|Advanced Topics|[Problems](/pdfs/smt2014-china/advanced-tiebreaker-problems.pdf)|[Solutions](/pdfs/smt2014-china/advanced-tiebreaker-solutions.pdf)|
+|Algebra|[Problems](/pdfs/smt2014-china/algebra-tiebreaker-problems.pdf)|[Solutions](/pdfs/smt2014-china/algebra-tiebreaker-solutions.pdf)|
+|Geometry|[Problems](/pdfs/smt2014-china/geometry-tiebreaker-problems.pdf)|[Solutions](/pdfs/smt2014-china/geometry-tiebreaker-solutions.pdf)|
+
+[Power Round Bibliography](/pdfs/smt2014-china/power-bibliography.pdf)
+$end$
+$end$
+
+!!!smallbutton [View results](/smt/2014-china/results.html)
+<!-- !!!smallbutton [View coordinators](/smt/2014/coordinators.html) -->
+
+
 ## SMT 2014
 
 $row$
