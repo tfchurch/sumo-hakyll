@@ -23,7 +23,7 @@ $halfbox$
 ## Schedule
 Starting the second week of each quarter, tutoring for the Math 50s series
 classes will occur **every Monday and Wednesday from 6:00 PM to 10:00
-PM**. Tutoring for the 2014 Spring Quarter will begin on Monday, April 7 and
+PM**. Tutoring for the 2014 Autumn Quarter will begin on Monday, September 29 and
 will be held in the math corner, **room 380-381T**. Tutoring will occur on
 Memorial Day and continue through Dead Week.
 
