@@ -20,10 +20,10 @@ Brian Wai at brianwai@stanford.edu.
 # 2014&ndash;2015 Schedule
 
 ##Fall 2014
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
+|September 25|Jenny Wilson|[Number Theory](/pdfs/speakers/September25)|
+|October 2|Brian Conrad|Number Theory|
+|October 9|Daniel Alvarez-Gavela|MathStuff|
+|October 16|Alex Wright|MathStuff|
 |-|-|-|
 |-|-|-|
 |-|-|-|
