@@ -19,7 +19,7 @@ $halfbox$
 
 ## Stanford Math Tournament
 
-*Saturday, February 15, 2014*
+*Saturday, February 15, 2015*
 
 This is a competition we write and run every winter for hundreds of local
 high-school students as well as a number of teams from across the country and
@@ -63,8 +63,6 @@ $end$
 $halfbox$
 
 ## Symposium
-
-*5:00 to 6:00 PM some Tuesdays in 380-380X*
 
 This is an occasional informal talk or discussion led by an undergraduate or
 graduate student about any math-related topic of their choosing. You are
@@ -113,7 +111,7 @@ $halfbox$
 
 ## Math Mingle
 
-*4:00 to 6:00 PM each Friday in 380-381U*
+*4:00 to 6:00 PM each Friday in 380-380C*
 
 This is a fun weekly social event where students interested in math can
 socialize over interesting mathematical ideas and free food in a laid-back

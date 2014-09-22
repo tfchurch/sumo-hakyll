@@ -24,7 +24,7 @@ school math tournaments in the nation. Every year, SUMO members coach teams
 from the San Francisco Bay Area and accompany the teams to the national
 tournament in Las Vegas. In recent years, we have taken as many as 7 teams of 15
 students to ARML. In 2013, SFBA teams placed 1st and 4th in the nation. The
-next ARML will be held on May 30-31, 2014.
+next ARML will be held on May 29-30, 2015.
 
 We hold weekly practices starting in April, and we are always looking for SUMO
 members to help out at practices and go on the trip. If you're interested in
@@ -56,7 +56,7 @@ welcome to bring in and share your own mental challenges!
 Many of our officers and highly active members attend Math Mingle, so it's a
 great way to start getting involved with SUMO!
 
-Math Mingle takes place on **Fridays from 4:00 to 6:00 PM in room 380-381U**.
+Math Mingle takes place on **Fridays from 4:00 to 6:00 PM in room 380-380C**.
 $end$
 $end$
 
