@@ -56,7 +56,7 @@ welcome to bring in and share your own mental challenges!
 Many of our officers and highly active members attend Math Mingle, so it's a
 great way to start getting involved with SUMO!
 
-Math Mingle takes place on **Fridays from 4:00 to 6:00 PM in room 380-381U**.
+Math Mingle takes place on **Fridays from 4:00 to 6:00 PM in room 380-380C**.
 $end$
 $end$
 

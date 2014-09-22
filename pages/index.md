@@ -64,8 +64,6 @@ $halfbox$
 
 ## Symposium
 
-*5:00 to 6:00 PM some Tuesdays in 380-380X*
-
 This is an occasional informal talk or discussion led by an undergraduate or
 graduate student about any math-related topic of their choosing. You are
 welcome not only to attend, but also to sign up to give a talk yourself!
@@ -113,7 +111,7 @@ $halfbox$
 
 ## Math Mingle
 
-*4:00 to 6:00 PM each Friday in 380-381U*
+*4:00 to 6:00 PM each Friday in 380-380C*
 
 This is a fun weekly social event where students interested in math can
 socialize over interesting mathematical ideas and free food in a laid-back
