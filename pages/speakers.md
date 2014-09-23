@@ -24,13 +24,13 @@ Brian Wai at brianwai@stanford.edu.
 |October 2|Brian Conrad|Number Theory|
 |October 9|Daniel Alvarez-Gavela|MathStuff|
 |October 16|Alex Wright|MathStuff|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
+|October 23|Rafe Mazzeo|-|
+|October 30|Jan Vondrak|-|
+|November 6|Persi Diaconis|-|
+|November 13|Christian Zickert|-|
+|November 20|???|-|
+|Thanksgiving Break :D|-|-|
+|December 4|???|-|
 
 ##Winter 2015
 |-|-|-|
