@@ -21,16 +21,17 @@ Brian Wai at brianwai@stanford.edu.
 
 ##Fall 2014
 |-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
+|September 25|Jenny Wilson|[The 100 Prisoners' Dilemma](/pdfs/speakers/Sept25.pdf)|
+|October 2|Brian Conrad|-|
+|October 9|Daniel Alvarez-Gavela|-|
+|October 16|Alex Wright|-|
+|October 23|Rafe Mazzeo|-|
+|October 30|Jan Vondrak|-|
+|November 6|Persi Diaconis|-|
+|November 13|Christian Zickert|-|
+|November 20|-|-|
+|Thanksgiving Break  :D|*No talk*|-|
+|December 4|-|-|
 
 ##Winter 2015
 |-|-|-|
