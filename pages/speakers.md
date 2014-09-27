@@ -20,18 +20,11 @@ Brian Wai at brianwai@stanford.edu.
 # 2014&ndash;2015 Schedule
 
 ##Fall 2014
-<<<<<<< HEAD
-|September 25|Jenny Wilson|[Combinatorics and Prisoners](/pdfs/speakers/Sept25)|
-|October 2|Brian Conrad|[4-D Dimensional Geometry](/pdfs/speakers/Oct2)|
-|October 9|Daniel Alvarez-Gavela|MathStuff|
-|October 16|Alex Wright|MathStuff|
-=======
 |-|-|-|
 |September 25|Jenny Wilson|[The 100 Prisoners' Dilemma](/pdfs/speakers/Sept25.pdf)|
-|October 2|Brian Conrad|-|
+|October 2|Brian Conrad|[4-D Dimensional Geometry](/pdfs/speakers/Oct2)|
 |October 9|Daniel Alvarez-Gavela|-|
 |October 16|Alex Wright|-|
->>>>>>> 7df5fcaa8dd5f647e2da333863c8645063f73890
 |October 23|Rafe Mazzeo|-|
 |October 30|Jan Vondrak|-|
 |November 6|Persi Diaconis|-|
