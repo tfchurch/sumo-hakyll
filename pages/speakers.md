@@ -23,15 +23,7 @@ Brian Wai at brianwai@stanford.edu.
 <<<<<<< HEAD
 <<<<<<< HEAD
 |September 25|Jenny Wilson|[Combinatorics and Prisoners](/pdfs/speakers/Sept25)|
-|October 2|Brian Conrad|[Flight Simulators 4-D Geometry](/pdfs/speakers/Oct2)|
-|October 9|Daniel Alvarez-Gavela|MathStuff|
-|October 16|Alex Wright|MathStuff|
-=======
-=======
->>>>>>> f124c488c49ecf9627a055d78d46d9015ecca681
-|-|-|-|
-|September 25|Jenny Wilson|[The 100 Prisoners' Dilemma](/pdfs/speakers/Sept25.pdf)|
-|October 2|Brian Conrad|[4-D Dimensional Geometry](/pdfs/speakers/Oct2)|
+|October 2|Brian Conrad|[Flight Simulators via 4-D Geometry](/pdfs/speakers/Oct2)|
 |October 9|Daniel Alvarez-Gavela|-|
 |October 16|Alex Wright|-|
 |October 23|Rafe Mazzeo|-|
@@ -39,7 +31,7 @@ Brian Wai at brianwai@stanford.edu.
 |November 6|Persi Diaconis|-|
 |November 13|Christian Zickert|-|
 |November 20|-|-|
-|Thanksgiving Break  :D|*No talk*|-|
+|Thanksgiving Break  :D|*No talk*||
 |December 4|-|-|
 
 ##Winter 2015
