@@ -22,7 +22,7 @@ Brian Wai at brianwai@stanford.edu.
 ##Fall 2014
 <<<<<<< HEAD
 |September 25|Jenny Wilson|[Combinatorics and Prisoners](/pdfs/speakers/Sept25)|
-|October 2|Brian Conrad|[4-D Dimensional Geometry](/pdfs/speakers/Oct2)|
+|October 2|Brian Conrad|[Flight Simulators via 4-D Geometry](/pdfs/speakers/Oct2)|
 |October 9|Daniel Alvarez-Gavela|MathStuff|
 |October 16|Alex Wright|MathStuff|
 =======
