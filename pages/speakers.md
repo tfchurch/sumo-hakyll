@@ -20,8 +20,7 @@ Brian Wai at brianwai@stanford.edu.
 # 2014&ndash;2015 Schedule
 
 ##Fall 2014
-<<<<<<< HEAD
-<<<<<<< HEAD
+|-|-|-|
 |September 25|Jenny Wilson|[Combinatorics and Prisoners](/pdfs/speakers/Sept25)|
 |October 2|Brian Conrad|[Flight Simulators via 4-D Geometry](/pdfs/speakers/Oct2)|
 |October 9|Daniel Alvarez-Gavela|-|
