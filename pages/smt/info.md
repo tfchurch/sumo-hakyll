@@ -39,7 +39,8 @@ Registration may be possible after the deadline, but will be subject to
 availablility and a late fee.
 
 ###Payment###
-Teams may pay by check, **made payable to SUMO**, or cash.
+Teams may pay by check, made payable to Stanford University Mathematical
+Organization, or cash.
 
 Payment must be postmarked by the payment deadline, and should be mailed to:
 
