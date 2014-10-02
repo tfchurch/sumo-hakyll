@@ -7,7 +7,8 @@ longer General Test. Teams participate in a Team Test and a Power Round, a
 multi-part proof-oriented test.
 
 #Registration
-Registration will open on **October 1st**.
+Registration is now open! Click
+[here](http://stanfordmathtournament.org) to register.
 
 While we try to open SMT to as many participants as possible, we do have
 physical contraints limiting the number of contestants. Unfortunately, with SMT

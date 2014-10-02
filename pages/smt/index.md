@@ -30,9 +30,7 @@ Support for SMT 2015 is generously provided by [our sponsors](/sponsors.html).
 # Register for SMT 2015 {#register}
 
 <!--!!!largebutton [Register for SMT 2015!](http://sumo.stanford.edu/smt/registration)-->
-
-Registration for SMT 2015 will open on October 1st, 2014. Check back then to
-register!
+!!!largebutton [Register for SMT 2015!](http://stanfordmathtournament.org)
 
 The registration deadline is on 11:59 PM Pacific time on January 20th and the
 payment deadline is on January 22nd. The fee for registering teams before the
