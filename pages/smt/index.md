@@ -180,7 +180,9 @@ might appear on this year's SMT tests. You can also view the solutions for
 these problems to practice solving them yourself.
 
 ## ASDAN Math Tournaments SMT China 2014
-(Do note that the tests from this contest are easier than normal SMT tests.)
+(Note that these tests are not from SMT, but are an unofficial side project done
+by some of the SMT staff. They are posted here for extra practice material.
+Note that tests are easier than normal SMT tests.)
 $row$
 $halfbox$
 ### Tests
@@ -205,10 +207,6 @@ $halfbox$
 [Power Round Bibliography](/pdfs/smt2014-china/power-bibliography.pdf)
 $end$
 $end$
-
-!!!smallbutton [View results](/smt/2014-china/results.html)
-<!-- !!!smallbutton [View coordinators](/smt/2014/coordinators.html) -->
-
 
 ## SMT 2014
 
