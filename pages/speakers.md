@@ -24,8 +24,8 @@ Brian Wai at brianwai@stanford.edu.
 |September 25|Jenny Wilson|[Combinatorics and Prisoners](/pdfs/speakers/Sept25)|
 |October 2|Brian Conrad|[Flight Simulators via 4-D Geometry](/pdfs/speakers/Oct2)|
 |October 9|Daniel Alvarez-Gavela|[The Wiggle is a H-Principle](/pdfs/speakers/Oct9)|
-|October 16|Alex Wright|-|
-|October 23|Rafe Mazzeo|-|
+|October 16|Alex Wright|[The combinatorial Nullstellensatz and (restricted) subsets](/pdfs/speakers/Oct16)|
+|October 23|Rafe Mazzeo|[Spectra, resonances, and geometry](/pdfs/speakers/Oct23)|
 |October 30|Jan Vondrak|-|
 |November 6|Persi Diaconis|-|
 |November 13|Christian Zickert|-|
