@@ -22,7 +22,7 @@ For other more specific questions and comments, contact a person below.
 
 |-|-|-|
 |**President**|Edward Dai|sumo@math.stanford.edu|
-|**Tournament director**|Edward Dai|stanford.math.tournament@gmail.com|
+|**Tournament director**|Chaitanya Asawa|stanford.math.tournament@gmail.com|
 |**Webmaster**|Lennart Jansson|sumo-webmaster@lists.stanford.edu or lennartj@stanford.edu|
 |**Financial Officer**|Rebecca Wang|rwang7@stanford.edu|
 |**Tutoring Coordinator**|Han Raut|hraut@stanford.edu|
