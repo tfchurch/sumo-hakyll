@@ -26,7 +26,7 @@ Brian Wai at brianwai@stanford.edu.
 |October 9|Daniel Alvarez-Gavela|[The Wiggle is a H-Principle](/pdfs/speakers/Oct9.pdf)|
 |October 16|Alex Wright|[The combinatorial Nullstellensatz and (restricted) subsets](/pdfs/speakers/Oct16.pdf)|
 |October 23|Rafe Mazzeo|[Spectra, resonances, and geometry](/pdfs/speakers/Oct23.pdf)|
-|October 30|Jan Vondrak|-|
+|October 30|Jan Vondrak|[A Game of Construction and Destruction](/pdfs/speakers/Oct30.pdf)|
 |November 6|Persi Diaconis|-|
 |November 13|Christian Zickert|-|
 |November 20|-|-|
