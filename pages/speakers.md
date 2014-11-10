@@ -28,7 +28,7 @@ Brian Wai at brianwai@stanford.edu.
 |October 23|Rafe Mazzeo|[Spectra, resonances, and geometry](/pdfs/speakers/Oct23.pdf)|
 |October 30|Jan Vondrak|[A Game of Construction and Destruction](/pdfs/speakers/Oct30.pdf)|
 |November 6|Persi Diaconis|[Adding Numbers and Shuffling Cards](/pdfs/speakers/Nov6.pdf)|
-|November 13|Christian Zickert|-|
+|November 13|Christian Zickert|[Polygons, polyhedra and scissors congruence](/pdfs/speakers/Nov13.pdf)|
 |November 20|-|-|
 |Thanksgiving Break  :D|*No talk*||
 |December 4|-|-|
