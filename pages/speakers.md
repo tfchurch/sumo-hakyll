@@ -29,7 +29,7 @@ Brian Wai at brianwai@stanford.edu.
 |October 30|Jan Vondrak|[A Game of Construction and Destruction](/pdfs/speakers/Oct30.pdf)|
 |November 6|Persi Diaconis|[Adding Numbers and Shuffling Cards](/pdfs/speakers/Nov6.pdf)|
 |November 13|Christian Zickert|[Polygons, polyhedra and scissors congruence](/pdfs/speakers/Nov13.pdf)|
-|November 20|-|-|
+|November 20|Jeremy Booher|[Square Roots Modulo n and Secure Coin Flipping](/pdfs/speakers/Nov20.pdf)|
 |Thanksgiving Break  :D|*No talk*||
 |December 4|-|-|
 
