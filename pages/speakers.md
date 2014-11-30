@@ -31,7 +31,7 @@ Brian Wai at brianwai@stanford.edu.
 |November 13|Christian Zickert|[Polygons, polyhedra and scissors congruence](/pdfs/speakers/Nov13.pdf)|
 |November 20|Jeremy Booher|[Square Roots Modulo n and Secure Coin Flipping](/pdfs/speakers/Nov20.pdf)|
 |Thanksgiving Break  :D|*No talk*||
-|December 4|-|-|
+|December 4|Jack Poulson|-|
 
 ##Winter 2015
 |-|-|-|

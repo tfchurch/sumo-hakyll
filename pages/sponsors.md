@@ -19,6 +19,7 @@ $end$
 $end$
 
 ## Stanford Math Tournament Sponsors
+<!--Figure out resizing without such hackery-->
 
 $row$
 $halfbox$
@@ -29,12 +30,19 @@ $end$
 $end$
 $halfbox$
 $centering$
+<a href="https://expii.com"><img src="/images/expii-logo.png" height="145" /></a>
+[Expii](http://expii.com/)
+$end$
+$end$
+$end$
+
+$row$
+$halfbox$
+$centering$
 [![](/images/wolfram-logo-red.png)](http://www.wolfram.com/)
 [Wolfram Research](http://www.wolfram.com/)
 $end$
 $end$
-$end$
-$row$
 $halfbox$
 $centering$
 [![](/images/aops-logo.png)](http://artofproblemsolving.com)
