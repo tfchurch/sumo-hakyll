@@ -31,7 +31,7 @@ Brian Wai at brianwai@stanford.edu.
 |November 13|Christian Zickert|[Polygons, polyhedra and scissors congruence](/pdfs/speakers/Nov13.pdf)|
 |November 20|Jeremy Booher|[Square Roots Modulo n and Secure Coin Flipping](/pdfs/speakers/Nov20.pdf)|
 |Thanksgiving Break  :D|*No talk*||
-|December 4|Brian Conrad|[Fermat's Last Theorem and Elliptic Curves](/pdfs/speakers/Dec4.pdf)|
+|December 4|Brian Conrad|[Fermat's Last Theorem and Elliptic Curves](/pdfs/speakers/Dec4.pdf)<br><span style="color:red">Note: Non-standard room location! The talk will be in 380-380W.</span>|
 
 ##Winter 2015
 |-|-|-|
