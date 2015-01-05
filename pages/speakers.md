@@ -35,9 +35,9 @@ Brian Wai at brianwai@stanford.edu.
 
 ##Winter 2015
 |-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
+|January 8|Akshay Venkatesh|[Stick-breaking and factoring](/pdfs/speakers/Jan8.pdf)|
+|January 15|Jack Poulson|-|
+|January 22|Simon Brendle|-|
 |-|-|-|
 |-|-|-|
 |-|-|-|
