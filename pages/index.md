@@ -19,7 +19,7 @@ $halfbox$
 
 ## Stanford Math Tournament
 
-*Saturday, February 15, 2015*
+*Saturday, February 14, 2015*
 
 This is a competition we write and run every winter for hundreds of local
 high-school students as well as a number of teams from across the country and
