@@ -4,6 +4,7 @@
 , ("row", "row.html")
 , ("halfbox", "halfbox.html")
 , ("centering", "centering.html")
+, ("sponsor", "sponsor.html")
 , ("sidenav", "sidenav.html")
 , ("nomobile", "nomobile.html")
 , ("onlymobile", "onlymobile.html")

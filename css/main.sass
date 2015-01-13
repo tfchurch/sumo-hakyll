@@ -2,6 +2,7 @@ $lightBg: #EFE7D9 // L*ab 92 0 8
 $accentBg: #C3B595 // L*ab 74 0 18
 
 $text: #655E4E // L*ab 40 0 10
+$lightText: lighten($text, 14%)
 $darkText: darken($text, 14%)
 
 $darkHover: #211B0C // L*ab 10 0 10
@@ -309,3 +310,17 @@ img
   padding-top: 10px
   border-top: 1px solid $text
   font-size: 0.7em
+
+.sponsor
+  img
+    max-width: 70%
+    max-height: 180px
+    margin-left: auto
+    margin-right: auto
+    display: block
+  a
+    margin-top: 20px
+    display: block
+    color: $lightText
+    font-size: 20px
+    text-align: center
