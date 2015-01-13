@@ -39,13 +39,6 @@ Brian Wai at brianwai@stanford.edu.
 |January 15|Jack Poulson|[A history of "large-scale" linear algebra and optimization](/pdfs/speakers/Jan15.pdf)|
 |January 22|Simon Brendle|-|
 |-|-|-|
-=======
-|-|-|-|
-|January 8|Akshay Venkatesh|[Stick-breaking and factoring](/pdfs/speakers/Jan8.pdf)|
-|January 15|Jack Poulson|-|
-|January 22|Simon Brendle|-|
->>>>>>> dab49ca51e97e242e879709f78530bd0287850ec
-|-|-|-|
 |-|-|-|
 |-|-|-|
 |-|-|-|
