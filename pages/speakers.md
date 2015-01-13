@@ -34,7 +34,7 @@ Brian Wai at brianwai@stanford.edu.
 |December 4|Brian Conrad|[Fermat's Last Theorem and Elliptic Curves](/pdfs/speakers/Dec4.pdf)<br><span style="color:red">Note: Non-standard room location! The talk will be in 380-380W.</span>|
 
 ##Winter 2015
-<<<<<<< HEAD
+|-|-|-|
 |January 8|Akshay Venkatesh|[Stick-breaking and Factoring](/pdfs/speakers/Jan8.pdf)|
 |January 15|Jack Poulson|[A history of "large-scale" linear algebra and optimization](/pdfs/speakers/Jan15.pdf)|
 |January 22|Simon Brendle|-|
