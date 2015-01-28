@@ -38,7 +38,7 @@ Brian Wai at brianwai@stanford.edu.
 |January 8|Akshay Venkatesh|[Stick-breaking and Factoring](/pdfs/speakers/Jan8.pdf)|
 |January 15|Jack Poulson|[A history of "large-scale" linear algebra and optimization](/pdfs/speakers/Jan15.pdf)|
 |January 22|Simon Brendle|[Heat diffusion and geometry](/pdfs/speakers/Jan22.pdf)|
-|-|-|-|
+|January 29|Tom Church|[The prime-generating sequence that couldn't](/pdfs/speakers/Jan29.pdf)|
 |-|-|-|
 |-|-|-|
 |-|-|-|
