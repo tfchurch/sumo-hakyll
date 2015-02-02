@@ -39,8 +39,8 @@ Brian Wai at brianwai@stanford.edu.
 |January 15|Jack Poulson|[A history of "large-scale" linear algebra and optimization](/pdfs/speakers/Jan15.pdf)|
 |January 22|Simon Brendle|[Heat diffusion and geometry](/pdfs/speakers/Jan22.pdf)|
 |January 29|Tom Church|[The prime-generating sequence that couldn't](/pdfs/speakers/Jan29.pdf)|
-|-|-|-|
-|-|-|-|
+|February 5|Benedict Gross|[p-adic numbers and p-adic groups. NOTE: Speaker series in 380-W this week!](http://mathematics.stanford.edu/wp-content/uploads/2014/12/Gross_MRCDL.pdf)|
+|February 12|Brian Conrad|[Wer ist Gothandieck?](/pdfs/speakers/Feb12.pdf)|
 |-|-|-|
 |-|-|-|
 |-|-|-|
